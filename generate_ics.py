@@ -95,8 +95,16 @@ def build_ics(courses):
 
 def main():
     print("Fetching Viewcy events...")
-    courses = fetch_courses()
-    total = sum(len(c.get("events", [])) for c in courses)
+    data = fetch_courses()
+    print(f"Response type: {type(data)}, preview: {str(data)[:300]}")
+    # Handle both a plain list and a wrapped object e.g. {"courses": [...]}
+    if isinstance(data, list):
+        courses = data
+    elif isinstance(data, dict):
+        courses = next((v for v in data.values() if isinstance(v, list)), [])
+    else:
+        raise ValueError(f"Unexpected response type: {type(data)}")
+    total = sum(len(c.get("events", [])) for c in courses if isinstance(c, dict))
     print(f"Found {len(courses)} courses, {total} events")
 
     ics_content = build_ics(courses)
