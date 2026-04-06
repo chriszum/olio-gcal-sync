@@ -19,7 +19,8 @@ def fetch_courses():
         headers={"User-Agent": "Mozilla/5.0 (compatible; OlioCalSync/1.0)"},
     )
     with urllib.request.urlopen(req) as resp:
-        return json.loads(resp.read().decode())
+        data = json.loads(resp.read().decode())
+    return data["data"] if isinstance(data, dict) else data
 
 
 def strip_html(html):
@@ -95,16 +96,8 @@ def build_ics(courses):
 
 def main():
     print("Fetching Viewcy events...")
-    data = fetch_courses()
-    print(f"Response type: {type(data)}, preview: {str(data)[:300]}")
-    # Handle both a plain list and a wrapped object e.g. {"courses": [...]}
-    if isinstance(data, list):
-        courses = data
-    elif isinstance(data, dict):
-        courses = next((v for v in data.values() if isinstance(v, list)), [])
-    else:
-        raise ValueError(f"Unexpected response type: {type(data)}")
-    total = sum(len(c.get("events", [])) for c in courses if isinstance(c, dict))
+    courses = fetch_courses()
+    total = sum(len(c.get("events", [])) for c in courses)
     print(f"Found {len(courses)} courses, {total} events")
 
     ics_content = build_ics(courses)
