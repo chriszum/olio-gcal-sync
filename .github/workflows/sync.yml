@@ -1,0 +1,26 @@
+name: Sync Olio Events to ICS
+
+on:
+  schedule:
+    - cron: "17 12 * * *"  # 8:17am ET daily
+  workflow_dispatch:        # allow manual runs
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate ICS file
+        run: python3 generate_ics.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add olio_events.ics
+          git diff --cached --quiet || git commit -m "Update olio_events.ics [skip ci]"
+          git push
