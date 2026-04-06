@@ -14,7 +14,11 @@ OUTPUT_FILE = "olio_events.ics"
 
 
 def fetch_courses():
-    with urllib.request.urlopen(VIEWCY_URL) as resp:
+    req = urllib.request.Request(
+        VIEWCY_URL,
+        headers={"User-Agent": "Mozilla/5.0 (compatible; OlioCalSync/1.0)"},
+    )
+    with urllib.request.urlopen(req) as resp:
         return json.loads(resp.read().decode())
 
 
