@@ -6,46 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:79a7d80c-310c-4314-a77f-f6928759d8d0@viewcy.olio
-DTSTAMP:20260410T135152Z
-DTSTART:20260410T233000Z
-DTEND:20260411T013000Z
-SUMMARY:Freud\, Jung & Fairy Tales: Why We Keep Dreaming the Same Stories
-DESCRIPTION:Freud and Jung believed fairy tales weren't just entertainment\
- , they were instructions for being human: a map of the subconscious drawn 
- in the form of witches and wolves and forbidden doors. In these tales\, ev
- il witches eat orphans\, wolves act as sexual predators\, and birds peck o
- ut the eyes of Cinderella's sisters.The uncaring mother. The flood. The ho
- use you shouldn't enter. These archetypes appear not only in fairy tales\,
-  but also in our nightmares\, superstitions and doodles. Does this stubbor
- n persistence of archetypes indicate that we are still driven by the same 
- fears as our predecessors?In this Olio\, Dina Odnopozova (PhD Yale\, profe
- ssor at Baruch) will draw on Freud\, Jung\, and Maria Tatar to explore why
-  humans have been dreaming the same dreams for centuries.Evening Flow7:00 
- PM – Doors open. Settle in\, grab a drink\, and meet a friend.7:30 PM 
- – The Olio begins: an intimate\, interactive lecture and guided explorat
- ion.8:30 PM – Instead of a traditional Q&amp\;A\, we shift into a social
-  experience—discussing ideas with others in the room while the teacher j
- oins and floats between conversations.10:00 PM - Last call at the bar and 
- we'll start to wind down the evening.What Is an Olio?Think Olio is an ongo
- ing experiment in lifelong learning. We are a community of open-minded peo
- ple who gather to exchange ideas with new friends and connect over art\, l
- iterature\, and philosophy.Check out our full calendarOur $25 membership g
- ives you two events for the price of one! An Olio is what we call the soci
- al learning events we’ve been organizing since 2015. A blend between a l
- ecture and a house party\, Olios are led by a teacher who loves sharing th
- eir passions and the room is filled with curious\, open-minded New Yorkers
- .&nbsp\;Our goal is to spark new perspectives\, ignite curiosity\, and enj
- oy ourselves socially—an alternative to typical nightlife options.Discla
- imer: By purchasing a ticket\, you agree to have your photo/video used for
-  social media/marketing materials. If you prefer to not have your photo ta
- ken\, feel free to send us a note. Photo by Zhi-Da Zhong\n\nTickets & info
- : https://www.viewcy.com/event/fairytales
-URL:https://www.viewcy.com/event/fairytales
-END:VEVENT
-BEGIN:VEVENT
 UID:6221ca3b-6b5a-4fbc-a53b-ae23dd52855d@viewcy.olio
-DTSTAMP:20260410T135152Z
+DTSTAMP:20260411T133229Z
 DTSTART:20260416T230000Z
 DTEND:20260417T010000Z
 SUMMARY:Myth\, Ritual and Resistance: A Georgian Wine Tasting
@@ -77,7 +39,7 @@ URL:https://www.viewcy.com/event/myth_ritual_and_resi
 END:VEVENT
 BEGIN:VEVENT
 UID:cec92a80-9a05-4696-9c7d-5e16e1949e3c@viewcy.olio
-DTSTAMP:20260410T135152Z
+DTSTAMP:20260411T133229Z
 DTSTART:20260419T170000Z
 DTEND:20260419T190000Z
 SUMMARY:Thawing Out: A Sensory Wake Up for Spring
@@ -131,7 +93,7 @@ URL:https://www.viewcy.com/event/thawing_out_a_sensor
 END:VEVENT
 BEGIN:VEVENT
 UID:449221e1-ca4d-4167-b848-465cd5b1d271@viewcy.olio
-DTSTAMP:20260410T135152Z
+DTSTAMP:20260411T133229Z
 DTSTART:20260422T230000Z
 DTEND:20260423T013000Z
 SUMMARY:Lighthouse Cinema: Agnes Varda 
@@ -160,7 +122,7 @@ URL:https://www.viewcy.com/event/lighthouse_cinema_ag
 END:VEVENT
 BEGIN:VEVENT
 UID:47fa4935-1ec2-4c24-a040-86138778a90b@viewcy.olio
-DTSTAMP:20260410T135152Z
+DTSTAMP:20260411T133229Z
 DTSTART:20260423T233000Z
 DTEND:20260424T010000Z
 SUMMARY:Abolition\, Misconceptions\, and the Myth of the “Bad Guy”
@@ -206,7 +168,7 @@ URL:https://www.viewcy.com/event/reshaping_our_systems
 END:VEVENT
 BEGIN:VEVENT
 UID:a1e8c99e-6c82-44f4-bed8-61004b83e46b@viewcy.olio
-DTSTAMP:20260410T135152Z
+DTSTAMP:20260411T133229Z
 DTSTART:20260428T230000Z
 DTEND:20260429T010000Z
 SUMMARY:Practicing Presence: Mindfulness for a Meaningful Life
@@ -278,7 +240,7 @@ URL:https://www.viewcy.com/event/practicing_presence
 END:VEVENT
 BEGIN:VEVENT
 UID:bbd41527-08b8-43cc-8e7a-0d17bc86003c@viewcy.olio
-DTSTAMP:20260410T135152Z
+DTSTAMP:20260411T133229Z
 DTSTART:20260503T170000Z
 DTEND:20260503T193000Z
 SUMMARY:What's Stored in the Body? A Breathwork Mini-Journey
@@ -332,7 +294,7 @@ URL:https://www.viewcy.com/event/whats_stored_in_the
 END:VEVENT
 BEGIN:VEVENT
 UID:850f71dc-7395-4b61-a89d-73ebbcae4f27@viewcy.olio
-DTSTAMP:20260410T135152Z
+DTSTAMP:20260411T133229Z
 DTSTART:20260510T000000Z
 DTEND:20260510T035500Z
 SUMMARY:Dial-up Disco: An Olio House Party
@@ -377,8 +339,60 @@ DESCRIPTION:Tickets:This is a member celebration!&nbsp\; To attend this par
 URL:https://www.viewcy.com/event/member_disco
 END:VEVENT
 BEGIN:VEVENT
+UID:79de1303-e44a-4d37-a012-a12c6eb2baf7@viewcy.olio
+DTSTAMP:20260411T133229Z
+DTSTART:20260514T233000Z
+DTEND:20260515T010000Z
+SUMMARY:Codependence with Capitalism: Attachment styles beyond romance 
+DESCRIPTION:Led by depth psychologist\, Dene Logan\, this Olio examine how 
+ codependency shapes our experience of community\, often without our awaren
+ ess.&nbsp\;From our earliest relationships\, many of us learned that belon
+ ging requires compliance. These childhood attachment wounds don't stay in 
+ childhood\, they follow us into our romantic relationships\, our friendshi
+ ps\, and our codependency with the capitalist system we're embedded in.As 
+ technology reshapes human interaction at a pace we've never encountered be
+ fore\, the cost of this kind of relating is becoming impossible to ignore.
+ &nbsp\;Relationships\, romantic to communal\, are something more and more 
+ of us are choosing to opt out of entirely. But what we risk losing is the 
+ most irreplaceable part of our humanity: our imagination and our capacity 
+ for empathy.How have institutions deepened our codependency with capitalis
+ m and narrowed our perception of difference as something beneficial? What 
+ does belonging look like when it no longer requires our conformity? And ho
+ w do we heal the attachment wounds that made codependent relating\, in our
+  romantic relationships and beyond\, feel like the only option?We’ll exp
+ lore ways to build connection from a place of sovereignty rather than scar
+ city and have plenty of time for discussion as the evening unfolds into an
+  intimate house party after the lecture.Our teacher for the evening:Dené 
+ Logan is an LA-based Marriage and Family Therapist\, depth psychologist\, 
+ and author of Sovereign Love. A mentee of renowned couples therapist Esthe
+ r Perel and co-host of the What’s My 100%? podcast\, Dené's work sits a
+ t the intersection of soul psychology\, attachment\, and the relational pa
+ tterns that shape how we move through the world — from our most intimate
+  romantic bonds to the communities we inhabit.Evening Flow7:30 PM – Door
+ s open. Settle in\, grab a drink\, and meet a friend.8:00 PM – The Olio 
+ begins: an intimate\, interactive lecture and guided exploration.9:15 PM 
+ – Instead of a traditional Q&amp\;A\, we shift into a social experience
+ —discussing ideas with others in the room while the teacher joins and fl
+ oats between conversations.10:00 PM - Last call at the bar and we'll start
+  to wind down the evening.What Is an Olio?Think Olio is an ongoing experim
+ ent in lifelong learning. We are a community of open-minded people who gat
+ her to exchange ideas with new friends and connect over art\, literature\,
+  and philosophy.Check out our full calendarOur $25 membership gives you tw
+ o events for the price of one!&nbsp\;An Olio is what we call the social le
+ arning events we’ve been organizing since 2015. A blend between a lectur
+ e and a house party\, Olios are led by a teacher who loves sharing their p
+ assions and the room is filled with curious\, open-minded New Yorkers.&nbs
+ p\;Our goal is to spark new perspectives\, ignite curiosity\, and enjoy ou
+ rselves socially—an alternative to typical nightlife options.Disclaimer:
+  By purchasing a ticket\, you agree to have your photo/video used for soci
+ al media/marketing materials. If you prefer to not have your photo taken\,
+  feel free to send us a note. Photo by Zhi-Da Zhong\n\nTickets & info: htt
+ ps://www.viewcy.com/event/codependence_with_cap
+URL:https://www.viewcy.com/event/codependence_with_cap
+END:VEVENT
+BEGIN:VEVENT
 UID:3362d2ac-4dc2-43ac-bb06-22bcd85a95c5@viewcy.olio
-DTSTAMP:20260410T135152Z
+DTSTAMP:20260411T133229Z
 DTSTART:20260522T140000Z
 DTEND:20260529T210000Z
 SUMMARY:OlioTrip Morocco: Music\, Spirit & Living Tradition
