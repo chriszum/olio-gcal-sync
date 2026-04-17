@@ -6,40 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:6221ca3b-6b5a-4fbc-a53b-ae23dd52855d@viewcy.olio
-DTSTAMP:20260416T141645Z
-DTSTART:20260416T230000Z
-DTEND:20260417T010000Z
-SUMMARY:Myth\, Ritual and Resistance: A Georgian Wine Tasting
-DESCRIPTION:Wine &amp\; the Divine: An Evening of Georgian Wine\, Myth &amp
- \; MemoryWhat is the connection between wine and the divine?Georgia — th
- e so-called Cradle of Wine — has treated wine as a sacred substance for 
- nearly 8\,000 years. Join us for the very first guided wine tasting social
-  at the Lighthouse\, an evening that travels deep into Eurasia and into an
- cient stories that are still very much alive.Tonight\, under the guidance 
- of educator Sam Hewiit\, we'll treat wine as a medium. Viewed in this way\
- , Georgian wine carries cultural history directly to the senses. Together\
- , we'll explore the mystic world of Georgian wine — tasting\, talking\, 
- and sharing what we discover when we pair the delight of these wines with 
- learning for an all encompassing experience.We'll explore:The birthplace o
- f wineWine as the meeting point between gods and humansCultural preservati
- on across millenniaHow lessons of independence and resistance speak to our
-  world todayThe evening opens with an intimate hour of guided tasting in s
- mall groups. Then we open it up — a wine-fueled social hour to keep the 
- conversation going.Educator Sam Hewitt will guide us through the history\,
-  myth\, and mysticism surrounding this remarkable culture and Natural wine
-  purveyors Jenny &amp\; Francois will provide us with various Georgian bot
- tles for us to delight in. As the Venetian ambassador Contarini wrote in t
- he late Middle Ages: "Georgians consider the abundance of wine to be the b
- est marker of hospitality."We hope you'll find us at Olio Lighthouse to be
-  extremely hospitable.Wine and snacks included in the ticket price. Resour
- ces provided: where to buy Georgian wine and tasting notes from the evenin
- g.\n\nTickets & info: https://www.viewcy.com/event/myth_ritual_and_resi
-URL:https://www.viewcy.com/event/myth_ritual_and_resi
-END:VEVENT
-BEGIN:VEVENT
 UID:cec92a80-9a05-4696-9c7d-5e16e1949e3c@viewcy.olio
-DTSTAMP:20260416T141645Z
+DTSTAMP:20260417T135942Z
 DTSTART:20260419T170000Z
 DTEND:20260419T190000Z
 SUMMARY:Thawing Out: A Sensory Wake Up for Spring
@@ -93,7 +61,7 @@ URL:https://www.viewcy.com/event/thawing_out_a_sensor
 END:VEVENT
 BEGIN:VEVENT
 UID:449221e1-ca4d-4167-b848-465cd5b1d271@viewcy.olio
-DTSTAMP:20260416T141645Z
+DTSTAMP:20260417T135942Z
 DTSTART:20260422T230000Z
 DTEND:20260423T013000Z
 SUMMARY:Lighthouse Cinema: Agnes Varda 
@@ -122,7 +90,7 @@ URL:https://www.viewcy.com/event/lighthouse_cinema_ag
 END:VEVENT
 BEGIN:VEVENT
 UID:47fa4935-1ec2-4c24-a040-86138778a90b@viewcy.olio
-DTSTAMP:20260416T141645Z
+DTSTAMP:20260417T135942Z
 DTSTART:20260423T233000Z
 DTEND:20260424T010000Z
 SUMMARY:Abolition\, Misconceptions\, and the Myth of the “Bad Guy”
@@ -168,7 +136,7 @@ URL:https://www.viewcy.com/event/reshaping_our_systems
 END:VEVENT
 BEGIN:VEVENT
 UID:a1e8c99e-6c82-44f4-bed8-61004b83e46b@viewcy.olio
-DTSTAMP:20260416T141645Z
+DTSTAMP:20260417T135942Z
 DTSTART:20260428T230000Z
 DTEND:20260429T010000Z
 SUMMARY:Practicing Presence: Mindfulness for a Meaningful Life
@@ -240,7 +208,7 @@ URL:https://www.viewcy.com/event/practicing_presence
 END:VEVENT
 BEGIN:VEVENT
 UID:1f8d99ac-afeb-4d17-b478-172599c66eb8@viewcy.olio
-DTSTAMP:20260416T141645Z
+DTSTAMP:20260417T135942Z
 DTSTART:20260501T230000Z
 DTEND:20260502T030000Z
 SUMMARY:Archives and Time Capsules: What are we Taking\, What are we Leavin
@@ -273,7 +241,7 @@ URL:https://www.viewcy.com/event/archives_and_time_cap
 END:VEVENT
 BEGIN:VEVENT
 UID:bbd41527-08b8-43cc-8e7a-0d17bc86003c@viewcy.olio
-DTSTAMP:20260416T141645Z
+DTSTAMP:20260417T135942Z
 DTSTART:20260503T170000Z
 DTEND:20260503T193000Z
 SUMMARY:What's Stored in the Body? A Breathwork Mini-Journey
@@ -327,7 +295,7 @@ URL:https://www.viewcy.com/event/whats_stored_in_the
 END:VEVENT
 BEGIN:VEVENT
 UID:a076014c-95a9-439d-a993-2f9fd3acf9a9@viewcy.olio
-DTSTAMP:20260416T141645Z
+DTSTAMP:20260417T135942Z
 DTSTART:20260508T230000Z
 DTEND:20260509T023000Z
 SUMMARY:Embracing Rock Bottom: A Poetry (Un)happy Hour with Jason Koo
@@ -384,7 +352,7 @@ URL:https://www.viewcy.com/event/embracing_rock_bottom
 END:VEVENT
 BEGIN:VEVENT
 UID:850f71dc-7395-4b61-a89d-73ebbcae4f27@viewcy.olio
-DTSTAMP:20260416T141645Z
+DTSTAMP:20260417T135942Z
 DTSTART:20260509T233000Z
 DTEND:20260510T050000Z
 SUMMARY:Dial-up Disco: An Olio House Party
@@ -430,7 +398,7 @@ URL:https://www.viewcy.com/event/member_disco
 END:VEVENT
 BEGIN:VEVENT
 UID:79de1303-e44a-4d37-a012-a12c6eb2baf7@viewcy.olio
-DTSTAMP:20260416T141645Z
+DTSTAMP:20260417T135942Z
 DTSTART:20260514T233000Z
 DTEND:20260515T010000Z
 SUMMARY:Codependence with Capitalism: Attachment styles beyond romance 
@@ -482,7 +450,7 @@ URL:https://www.viewcy.com/event/codependence_with_cap
 END:VEVENT
 BEGIN:VEVENT
 UID:3362d2ac-4dc2-43ac-bb06-22bcd85a95c5@viewcy.olio
-DTSTAMP:20260416T141645Z
+DTSTAMP:20260417T135942Z
 DTSTART:20260522T140000Z
 DTEND:20260529T210000Z
 SUMMARY:OlioTrip Morocco: Music\, Spirit & Living Tradition
