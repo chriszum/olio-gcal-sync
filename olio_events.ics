@@ -6,62 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:cec92a80-9a05-4696-9c7d-5e16e1949e3c@viewcy.olio
-DTSTAMP:20260419T133547Z
-DTSTART:20260419T170000Z
-DTEND:20260419T190000Z
-SUMMARY:Thawing Out: A Sensory Wake Up for Spring
-DESCRIPTION:"As we reacquaint ourselves with our breathing bodies\, then th
- e perceived world itself begins to shift and transform." — David Abram\,
-  The Spell of the SensuousYour body knows what to do and sometimes we just
-  need a little nudge and a place to block out the distractions. This is a 
- special 2-hour Sunday Olio designed to step out of the city buzz and into 
- your own body.&nbsp\;Join us on Sunday\, April 19th for a chance to thaw o
- ff the winter blues and attune your body and mind for spring time.In a cit
- y that never stops\, it's easy to lose the thread of the seasons entirely.
-  But we are seasonal creatures and our bodies are happy when we acknowledg
- e the changes and start to alter our rhythms.&nbsp\;Alice and Julie\, incr
- edible facilitators with decades of experience between them\, will guide u
- s through an experience that brings us back into our senses and back into 
- a feeling of connection. Through an array of practices drawn from ecophilo
- sophy\, somatics\, natural science\, spirituality\, and movement\, they'll
-  help you attune intellectually\, physically\, and spiritually.&nbsp\;We'l
- l deep dive into questions we take for granted — like\, what even is the
-  body? — and discover what becomes possible when we stop rushing past th
- em long enough to actually feel the answer.What to expect:The best way to 
- shift perspective is to start from innocence — evoking the genuine and o
- pen curiosity that arises when we're willing to put aside what we think we
-  know and explore with fresh eyes.In the words of Zen teacher Shunryu Suzu
- ki\, "In the beginner's mind there are many possibilities\, but in the exp
- ert's there are few."Afternoon flow:Beginner's Mind: Discovering what we c
- an know about the body and community from different angles (in small and l
- arge groups) Beginner's Body: Waking the senses with a (fun!) guided indiv
- idual exploration Beginner's Heart: Moving toward the longing for communit
- y that includes self and other. A series of facilitated individual and col
- lective movements that will help us build the skills to participate in the
-  field of what we truly wish for.*Wear clothing in which you can breathe a
- nd move easily. We will learn and play in simple ways that are accessible 
- for all bodies.Your guides:Julie Harris is a lover of weaving together div
- erse streams of wisdom to yield rich and surprising forms of aliveness and
-  nourishment. Her work as a coach\, breathwork facilitator and teacher is 
- influenced by adventures in the natural world\; pilgrimage to India and Eg
- ypt\; the power of language\, story\, and mythology\; and a wide range of 
- individual and communal spiritual practices. She deeply trusts the innate 
- intelligence of each person and the creativity that arises to meet whateve
- r is needed in the moment. riverbendcoaching.comAlice Wells is committed t
- o the possibility of a generative\, sustainable\, and just world through a
-  collective awakening to our interconnectedness with all life. She brings 
- more than thirty years of experience working therapeutically and integrati
- vely with people seeking to live fully\, drawing on Eastern and Western ph
- ilosophy\, medicine and spiritual traditions\, Depth Psychology\, voice\, 
- dance and movement\, bodywork\, ritual\, breathwork\, and other transforma
- tional practices. onebreathcircle.org\n\nTickets & info: https://www.viewc
- y.com/event/thawing_out_a_sensor
-URL:https://www.viewcy.com/event/thawing_out_a_sensor
-END:VEVENT
-BEGIN:VEVENT
 UID:449221e1-ca4d-4167-b848-465cd5b1d271@viewcy.olio
-DTSTAMP:20260419T133547Z
+DTSTAMP:20260420T141538Z
 DTSTART:20260422T230000Z
 DTEND:20260423T013000Z
 SUMMARY:Lighthouse Cinema: Agnes Varda 
@@ -90,7 +36,7 @@ URL:https://www.viewcy.com/event/lighthouse_cinema_ag
 END:VEVENT
 BEGIN:VEVENT
 UID:47fa4935-1ec2-4c24-a040-86138778a90b@viewcy.olio
-DTSTAMP:20260419T133547Z
+DTSTAMP:20260420T141538Z
 DTSTART:20260423T233000Z
 DTEND:20260424T010000Z
 SUMMARY:Abolition\, Misconceptions\, and the Myth of the “Bad Guy”
@@ -136,7 +82,7 @@ URL:https://www.viewcy.com/event/reshaping_our_systems
 END:VEVENT
 BEGIN:VEVENT
 UID:a1e8c99e-6c82-44f4-bed8-61004b83e46b@viewcy.olio
-DTSTAMP:20260419T133547Z
+DTSTAMP:20260420T141538Z
 DTSTART:20260428T230000Z
 DTEND:20260429T010000Z
 SUMMARY:Practicing Presence: Mindfulness for a Meaningful Life
@@ -208,7 +154,7 @@ URL:https://www.viewcy.com/event/practicing_presence
 END:VEVENT
 BEGIN:VEVENT
 UID:1f8d99ac-afeb-4d17-b478-172599c66eb8@viewcy.olio
-DTSTAMP:20260419T133547Z
+DTSTAMP:20260420T141538Z
 DTSTART:20260501T230000Z
 DTEND:20260502T030000Z
 SUMMARY:Archives and Time Capsules: What are we Taking\, What are we Leavin
@@ -241,7 +187,7 @@ URL:https://www.viewcy.com/event/archives_and_time_cap
 END:VEVENT
 BEGIN:VEVENT
 UID:bbd41527-08b8-43cc-8e7a-0d17bc86003c@viewcy.olio
-DTSTAMP:20260419T133547Z
+DTSTAMP:20260420T141538Z
 DTSTART:20260503T170000Z
 DTEND:20260503T193000Z
 SUMMARY:What's Stored in the Body? A Breathwork Mini-Journey
@@ -295,7 +241,7 @@ URL:https://www.viewcy.com/event/whats_stored_in_the
 END:VEVENT
 BEGIN:VEVENT
 UID:a076014c-95a9-439d-a993-2f9fd3acf9a9@viewcy.olio
-DTSTAMP:20260419T133547Z
+DTSTAMP:20260420T141538Z
 DTSTART:20260508T230000Z
 DTEND:20260509T023000Z
 SUMMARY:Embracing Rock Bottom: A Poetry (Un)happy Hour with Jason Koo
@@ -356,7 +302,7 @@ URL:https://www.viewcy.com/event/embracing_rock_bottom
 END:VEVENT
 BEGIN:VEVENT
 UID:850f71dc-7395-4b61-a89d-73ebbcae4f27@viewcy.olio
-DTSTAMP:20260419T133547Z
+DTSTAMP:20260420T141538Z
 DTSTART:20260509T233000Z
 DTEND:20260510T050000Z
 SUMMARY:Dial-up Disco: An Olio House Party
@@ -402,7 +348,7 @@ URL:https://www.viewcy.com/event/member_disco
 END:VEVENT
 BEGIN:VEVENT
 UID:79de1303-e44a-4d37-a012-a12c6eb2baf7@viewcy.olio
-DTSTAMP:20260419T133547Z
+DTSTAMP:20260420T141538Z
 DTSTART:20260514T233000Z
 DTEND:20260515T010000Z
 SUMMARY:Codependence with Capitalism: Attachment styles beyond romance 
@@ -454,7 +400,7 @@ URL:https://www.viewcy.com/event/codependence_with_cap
 END:VEVENT
 BEGIN:VEVENT
 UID:3362d2ac-4dc2-43ac-bb06-22bcd85a95c5@viewcy.olio
-DTSTAMP:20260419T133547Z
+DTSTAMP:20260420T141538Z
 DTSTART:20260522T140000Z
 DTEND:20260529T210000Z
 SUMMARY:OlioTrip Morocco: Music\, Spirit & Living Tradition
