@@ -7,7 +7,7 @@ X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:449221e1-ca4d-4167-b848-465cd5b1d271@viewcy.olio
-DTSTAMP:20260420T141538Z
+DTSTAMP:20260421T141045Z
 DTSTART:20260422T230000Z
 DTEND:20260423T013000Z
 SUMMARY:Lighthouse Cinema: Agnes Varda 
@@ -36,7 +36,7 @@ URL:https://www.viewcy.com/event/lighthouse_cinema_ag
 END:VEVENT
 BEGIN:VEVENT
 UID:47fa4935-1ec2-4c24-a040-86138778a90b@viewcy.olio
-DTSTAMP:20260420T141538Z
+DTSTAMP:20260421T141045Z
 DTSTART:20260423T233000Z
 DTEND:20260424T010000Z
 SUMMARY:Abolition\, Misconceptions\, and the Myth of the “Bad Guy”
@@ -82,7 +82,7 @@ URL:https://www.viewcy.com/event/reshaping_our_systems
 END:VEVENT
 BEGIN:VEVENT
 UID:a1e8c99e-6c82-44f4-bed8-61004b83e46b@viewcy.olio
-DTSTAMP:20260420T141538Z
+DTSTAMP:20260421T141045Z
 DTSTART:20260428T230000Z
 DTEND:20260429T010000Z
 SUMMARY:Practicing Presence: Mindfulness for a Meaningful Life
@@ -154,7 +154,7 @@ URL:https://www.viewcy.com/event/practicing_presence
 END:VEVENT
 BEGIN:VEVENT
 UID:1f8d99ac-afeb-4d17-b478-172599c66eb8@viewcy.olio
-DTSTAMP:20260420T141538Z
+DTSTAMP:20260421T141045Z
 DTSTART:20260501T230000Z
 DTEND:20260502T030000Z
 SUMMARY:Archives and Time Capsules: What are we Taking\, What are we Leavin
@@ -187,7 +187,7 @@ URL:https://www.viewcy.com/event/archives_and_time_cap
 END:VEVENT
 BEGIN:VEVENT
 UID:bbd41527-08b8-43cc-8e7a-0d17bc86003c@viewcy.olio
-DTSTAMP:20260420T141538Z
+DTSTAMP:20260421T141045Z
 DTSTART:20260503T170000Z
 DTEND:20260503T193000Z
 SUMMARY:What's Stored in the Body? A Breathwork Mini-Journey
@@ -241,7 +241,7 @@ URL:https://www.viewcy.com/event/whats_stored_in_the
 END:VEVENT
 BEGIN:VEVENT
 UID:a076014c-95a9-439d-a993-2f9fd3acf9a9@viewcy.olio
-DTSTAMP:20260420T141538Z
+DTSTAMP:20260421T141045Z
 DTSTART:20260508T230000Z
 DTEND:20260509T023000Z
 SUMMARY:Embracing Rock Bottom: A Poetry (Un)happy Hour with Jason Koo
@@ -302,7 +302,7 @@ URL:https://www.viewcy.com/event/embracing_rock_bottom
 END:VEVENT
 BEGIN:VEVENT
 UID:850f71dc-7395-4b61-a89d-73ebbcae4f27@viewcy.olio
-DTSTAMP:20260420T141538Z
+DTSTAMP:20260421T141045Z
 DTSTART:20260509T233000Z
 DTEND:20260510T050000Z
 SUMMARY:Dial-up Disco: An Olio House Party
@@ -348,10 +348,11 @@ URL:https://www.viewcy.com/event/member_disco
 END:VEVENT
 BEGIN:VEVENT
 UID:79de1303-e44a-4d37-a012-a12c6eb2baf7@viewcy.olio
-DTSTAMP:20260420T141538Z
+DTSTAMP:20260421T141045Z
 DTSTART:20260514T233000Z
 DTEND:20260515T010000Z
-SUMMARY:Codependence with Capitalism: Attachment styles beyond romance 
+SUMMARY:Codependence with Capitalism: Attachment Styles Beyond Romance w/ D
+ ene Logan
 DESCRIPTION:From our earliest relationships\, many of us learned that belon
  ging requires compliance. These childhood attachment wounds don't stay in 
  childhood\, they follow us into our romantic relationships\, our friendshi
@@ -400,7 +401,7 @@ URL:https://www.viewcy.com/event/codependence_with_cap
 END:VEVENT
 BEGIN:VEVENT
 UID:3362d2ac-4dc2-43ac-bb06-22bcd85a95c5@viewcy.olio
-DTSTAMP:20260420T141538Z
+DTSTAMP:20260421T141045Z
 DTSTART:20260522T140000Z
 DTEND:20260529T210000Z
 SUMMARY:OlioTrip Morocco: Music\, Spirit & Living Tradition
@@ -477,5 +478,65 @@ DESCRIPTION:OlioTrip Morocco: Music\, Spirit &amp\; Living Tradition&nbsp\;
  to/from Morocco&nbsp\;Meals not listedTravel insurancePersonal expenses\n\
  nTickets & info: https://www.viewcy.com/event/oliotrip_morocco_art
 URL:https://www.viewcy.com/event/oliotrip_morocco_art
+END:VEVENT
+BEGIN:VEVENT
+UID:eefe0ec8-4bb4-434d-80b3-59c99267b616@viewcy.olio
+DTSTAMP:20260421T141045Z
+DTSTART:20260611T230000Z
+DTEND:20260612T010000Z
+SUMMARY:The Ecstasy of Beauty w/ Dr. Adluri
+DESCRIPTION:In light of the 'Raphael: Sublime Poetry' exhibit at the Metrop
+ olitan Museum of Art this Olio will explore questions such as what is the 
+ connection between beauty and philosophy?&nbsp\;This Olio offers a guided 
+ appreciation of the main works in the Met’s Raphael exhibition\, providi
+ ng historical context and a philosophical thread that connects each key pi
+ ece—so that moving through the galleries becomes\, in effect\, a lesson 
+ in how Raphael makes the intellect emanate through vision.Professor Adluri
+  introduces Raphael as the Renaissance master who makes an audacious claim
+  with paint: beauty is not mere sensation\, but a mode of truth.&nbsp\;Thi
+ s Olio frames Raphael’s art through a philosophy where visible harmony b
+ ecomes a pathway to the invisible\, where proportion\, clarity\, and grace
+  train the mind toward higher reality. A hallmark of Raphael’s genius is
+  that his use of proportion\, forms\, and colors does more than represent 
+ bodies: it suggests an inner order\, as if form itself were an argument. I
+ n this vision\, beauty is not simply what pleases the eye\; it educates de
+ sire\, drawing the viewer from surface appearance toward the intelligible 
+ principles that our intellect naturally seeks.After the Olio we'll facilit
+ ate a group trip to the MET at a later date with people from this class so
+  that we can enjoy the exhibit with our newfound perspective.--Raphael: Su
+ blime Poetry exhibit is on display at the Metropolitan Museum of Art\, NY 
+ through June 28th\, 2026.&nbsp\; In Time Out’s words\, the exhibit is a 
+ “once-in-a-generation” event—offering a rare chance to see Raphael a
+ t full scale: incredible paintings\, drawings\, and ambitious designs that
+  showcase his range\, speed\, and polish as much as for his famous sweetne
+ ss and grace. The New York Times calls it a true blockbuster—rapturous\,
+  even—while The Wall Street Journal raves about its staggering versatili
+ ty across media and the clarity of its biographical sweep. The Washington 
+ Post likewise calls it a major event\, Hyperallergic admires the feat of s
+ ecuring the loans and the exhibition’s sense of historic arrival\, and A
+ rtnet News admires the show’s seriousness while suggesting Raphael’s r
+ adiance reads best when the era’s power and politics are allowed to cast
+  a faint shadow across the beauty. Frieze echoes these superlatives\, call
+ ing it a “once-in-a-lifetime chance.”Evening Flow7:00 PM – Doors ope
+ n. Settle in\, grab a drink\, and meet a friend.7:30 PM – The Olio begin
+ s: an intimate\, interactive lecture and guided exploration.8:30 PM – In
+ stead of a traditional Q&amp\;A\, we shift into a social experience—disc
+ ussing ideas with others in the room while the teacher joins and floats be
+ tween conversations.10:00 PM - Last call at the bar and we'll start to win
+ d down the evening.What Is an Olio?Think Olio is an ongoing experiment in 
+ lifelong learning. We are a community of open-minded people who gather to 
+ exchange ideas with new friends and connect over art\, literature\, and ph
+ ilosophy.Check out our full calendarOur $30 membership gives you two event
+ s for the price of one!&nbsp\;An Olio is what we call the social learning 
+ events we’ve been organizing since 2015. A blend between a lecture and a
+  house party\, Olios are led by a teacher who loves sharing their passions
+  and the room is filled with curious\, open-minded New Yorkers.&nbsp\;Our 
+ goal is to spark new perspectives\, ignite curiosity\, and enjoy ourselves
+  socially—an alternative to typical nightlife options.Disclaimer: By pur
+ chasing a ticket\, you agree to have your photo/video used for social medi
+ a/marketing materials. If you prefer to not have your photo taken\, feel f
+ ree to send us a note. Photo by Zhi-Da Zhong\n\nTickets & info: https://ww
+ w.viewcy.com/event/the_ecstasy_of_beauty
+URL:https://www.viewcy.com/event/the_ecstasy_of_beauty
 END:VEVENT
 END:VCALENDAR
