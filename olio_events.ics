@@ -6,37 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:449221e1-ca4d-4167-b848-465cd5b1d271@viewcy.olio
-DTSTAMP:20260422T141218Z
-DTSTART:20260422T230000Z
-DTEND:20260423T013000Z
-SUMMARY:Lighthouse Cinema: Agnes Varda 
-DESCRIPTION:Join the very first Lighthouse Cinema night! Popcorn and a drin
- k included in your ticket &lt\;3 &nbsp\;Pioneering filmmaker Agnès Varda 
- made The Gleaners &amp\; I in her early seventies — a time when personal
-  reinvention can feel like either an existential burden or a dire imperati
- ve. Both the film's subject — individuals who collect crops left behind 
- by commercial farming\, known as gleaners — and its form\, a fragmentary
-  personal essay\, were uncommon for their time. Certainly not the expected
-  territory for a filmmaker with as important a legacy as Varda\, one of th
- e founders of the Left Bank\, a left-wing offshoot of the French New Wave.
- What stands out is not only the seriousness with which Varda investigates 
- the corrosive effects of capitalism\, overconsumption\, and prejudice in r
- ural and urban France at the turn of the millennium — but the playfulnes
- s with which she inserts herself into the conversation\, aided by the spon
- taneous possibilities of her new digital camera. Amidst the world's mounti
- ng crises\, it feels remarkable to watch a film so steeped in personal dis
- covery and formal experimentation that never once feels glib about them.A 
- perfect film to open our curated cinema series — hang out afterwards for
-  a social moment to pour a drink and talk about what we just watched toget
- her.&nbsp\;Doors open at 7:00pm&nbsp\;Film kicks off at 7:30pm&nbsp\;Chill
-  and chat from 8:50-9:30ish&nbsp\;\n\nTickets & info: https://www.viewcy.c
- om/event/lighthouse_cinema_ag
-URL:https://www.viewcy.com/event/lighthouse_cinema_ag
-END:VEVENT
-BEGIN:VEVENT
 UID:47fa4935-1ec2-4c24-a040-86138778a90b@viewcy.olio
-DTSTAMP:20260422T141218Z
+DTSTAMP:20260423T141418Z
 DTSTART:20260423T233000Z
 DTEND:20260424T010000Z
 SUMMARY:Abolition\, Misconceptions\, and the Myth of the “Bad Guy”
@@ -82,7 +53,7 @@ URL:https://www.viewcy.com/event/reshaping_our_systems
 END:VEVENT
 BEGIN:VEVENT
 UID:a1e8c99e-6c82-44f4-bed8-61004b83e46b@viewcy.olio
-DTSTAMP:20260422T141218Z
+DTSTAMP:20260423T141418Z
 DTSTART:20260428T230000Z
 DTEND:20260429T010000Z
 SUMMARY:Practicing Presence: Mindfulness for a Meaningful Life
@@ -154,7 +125,7 @@ URL:https://www.viewcy.com/event/practicing_presence
 END:VEVENT
 BEGIN:VEVENT
 UID:1f8d99ac-afeb-4d17-b478-172599c66eb8@viewcy.olio
-DTSTAMP:20260422T141218Z
+DTSTAMP:20260423T141418Z
 DTSTART:20260501T230000Z
 DTEND:20260502T030000Z
 SUMMARY:Archives and Time Capsules: What are we Taking\, What are we Leavin
@@ -187,7 +158,7 @@ URL:https://www.viewcy.com/event/archives_and_time_cap
 END:VEVENT
 BEGIN:VEVENT
 UID:bbd41527-08b8-43cc-8e7a-0d17bc86003c@viewcy.olio
-DTSTAMP:20260422T141218Z
+DTSTAMP:20260423T141418Z
 DTSTART:20260503T170000Z
 DTEND:20260503T193000Z
 SUMMARY:Cosmologies of the Breath
@@ -244,10 +215,10 @@ URL:https://www.viewcy.com/event/whats_stored_in_the
 END:VEVENT
 BEGIN:VEVENT
 UID:a076014c-95a9-439d-a993-2f9fd3acf9a9@viewcy.olio
-DTSTAMP:20260422T141218Z
+DTSTAMP:20260423T141418Z
 DTSTART:20260508T230000Z
 DTEND:20260509T023000Z
-SUMMARY:Embracing Rock Bottom: A Poetry (Un)happy Hour with Jason Koo
+SUMMARY:Embracing Rock Bottom: A Poetry Happy Hour with Jason Koo
 DESCRIPTION:About the Event:One of the main motivations behind a happy hour
   is to drink and be merry\, to shake loose from the unhappiness otherwise 
  prevailing in our lives\, just as one of the main reasons we turn to poetr
@@ -305,7 +276,7 @@ URL:https://www.viewcy.com/event/embracing_rock_bottom
 END:VEVENT
 BEGIN:VEVENT
 UID:850f71dc-7395-4b61-a89d-73ebbcae4f27@viewcy.olio
-DTSTAMP:20260422T141218Z
+DTSTAMP:20260423T141418Z
 DTSTART:20260509T233000Z
 DTEND:20260510T050000Z
 SUMMARY:Dial-up Disco: An Olio House Party
@@ -351,7 +322,7 @@ URL:https://www.viewcy.com/event/member_disco
 END:VEVENT
 BEGIN:VEVENT
 UID:79de1303-e44a-4d37-a012-a12c6eb2baf7@viewcy.olio
-DTSTAMP:20260422T141218Z
+DTSTAMP:20260423T141418Z
 DTSTART:20260514T233000Z
 DTEND:20260515T010000Z
 SUMMARY:Codependence with Capitalism: Attachment Styles Beyond Romance w/ D
@@ -404,7 +375,7 @@ URL:https://www.viewcy.com/event/codependence_with_cap
 END:VEVENT
 BEGIN:VEVENT
 UID:3362d2ac-4dc2-43ac-bb06-22bcd85a95c5@viewcy.olio
-DTSTAMP:20260422T141218Z
+DTSTAMP:20260423T141418Z
 DTSTART:20260522T140000Z
 DTEND:20260529T210000Z
 SUMMARY:OlioTrip Morocco: Music\, Spirit & Living Tradition
@@ -484,7 +455,7 @@ URL:https://www.viewcy.com/event/oliotrip_morocco_art
 END:VEVENT
 BEGIN:VEVENT
 UID:eefe0ec8-4bb4-434d-80b3-59c99267b616@viewcy.olio
-DTSTAMP:20260422T141218Z
+DTSTAMP:20260423T141418Z
 DTSTART:20260611T230000Z
 DTEND:20260612T010000Z
 SUMMARY:The Ecstasy of Beauty w/ Dr. Adluri
