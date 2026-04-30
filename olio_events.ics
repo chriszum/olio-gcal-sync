@@ -6,80 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:a1e8c99e-6c82-44f4-bed8-61004b83e46b@viewcy.olio
-DTSTAMP:20260427T142850Z
-DTSTART:20260428T230000Z
-DTEND:20260429T010000Z
-SUMMARY:Practicing Presence: Mindfulness for a Meaningful Life
-DESCRIPTION:Practicing Presence is a four-week mindfulness course designed 
- to help you build a meditation practice that genuinely fits into your life
- —and into the world you live in.We'll meet on four consecutive Tuesday e
- venings from 7–9 PM at the Olio Lighthouse\, beginning April 28.This ser
- ies is for people who are curious about mindfulness\, have tried meditatin
- g before but struggled to sustain a practice\, or are looking for a ground
- ed and supportive way to deepen their relationship with themselves\, other
- s\, and the wider world.We’ll meet as a small sangha of no more than 12 
- people\, creating space for real relationships\, personalized guidance\, a
- nd meaningful conversation.Over four weeks\, you will:Learn foundational m
- indfulness meditation practicesBuild a realistic daily meditation habit us
- ing behavioral science toolsExplore how mindfulness relates to emotions\, 
- relationships\, and the wider worldReceive personalized guidance in a smal
- l group (max 12 people)Leave with a sustainable practice and resources for
-  continuing at homeMany people are drawn to meditation because they want m
- ore calm\, clarity\, and presence. They read about mindfulness\, download 
- apps\, attend occasional classes—and still find it difficult to practice
-  consistently.This course addresses that gap directly. By integrating cont
- emplative practice with insights from behavioral science\, we focus on bui
- lding a steady\, realistic mindfulness practice that can be sustained in e
- veryday life.Rather than emphasizing extraordinary states in retreat setti
- ngs\, the series centers on what matters most: developing presence in the 
- places it counts—your work\, relationships\, body\, emotions\, and daily
-  routines.What You'll ReceiveThis course combines contemplative tradition 
- with practical tools for real life.Guided meditation and teachings: Weekly
-  instruction grounded in established mindfulness traditions.Behavioral sci
- ence tools for habit building: Practical strategies to help meditation bec
- ome a consistent part of your daily life.Engaged mindfulness: Exploring ho
- w contemplative practice supports compassionate action without burnout or 
- bypassing.One-on-one mentorship: Each participant receives a private 15-mi
- nute consultation to discuss their practice\, goals\, and challenges.Perso
- nalized practice plan: You'll develop a realistic approach to building min
- dfulness into your schedule and routines.Practice resources: Reflection pr
- ompts and audio recordings of guided meditations for home practice.Weekly 
- micro-challenges: Small experiments for integrating mindfulness into daily
-  life—your commute\, meetings\, relationships\, and conversations.The go
- al is simple: not just to learn about mindfulness\, but to leave with a pr
- actice that is already part of your life.Weekly ArcWeek 1: Introduction to
-  Mindfulness — body\, breath\, and foundationsWeek 2: Mindfulness of Emo
- tions — meeting experience with compassionWeek 3: The Wise Heart — cul
- tivating kindness\, balance\, and resilienceWeek 4: Bringing Practice into
-  the World — relationships\, work\, and daily lifeEach session includes 
- guided meditation\, short teachings\, group reflection\, and practical sup
- port for building a home practice.About the TeacherThis course is taught b
- y Britt Titus\, who is in her second year of a meditation teacher training
-  program under Jack Kornfield and Tara Brach.Britt has practiced meditatio
- n since childhood—including a formative period living at an ashram in In
- dia at age nine.Her work brings together three perspectives: contemplative
-  practice\, behavioral science\, and humanitarian work in crisis-affected 
- regions around the world. Her teaching focuses on helping people develop m
- editation practices that are both deeply rooted and practically sustainabl
- e in the midst of everyday life.Who This Is ForThis course is open to begi
- nners and experienced meditators alike\, especially those who want:A groun
- ded introduction to mindfulnessSupport building a consistent meditation pr
- acticeA small in-person learning communityPractical tools for integrating 
- mindfulness into daily lifeNo prior meditation experience or spiritual bac
- kground is required.&nbsp\;*No worries if you have to miss a week\, we wil
- l make sure you are caught up with any materials provided during class.Sch
- olarshipsWe have a small number of scholarship spots available for those f
- acing financial barriers. If cost is preventing you from participating\, p
- lease email brittknee007@gmail.com with a short note about why this course
-  would be meaningful for you. Scholarships are offered on a first-come fir
- st-serve\, rolling basis.\n\nTickets & info: https://www.viewcy.com/event/
- practicing_presence
-URL:https://www.viewcy.com/event/practicing_presence
-END:VEVENT
-BEGIN:VEVENT
 UID:1f8d99ac-afeb-4d17-b478-172599c66eb8@viewcy.olio
-DTSTAMP:20260427T142850Z
+DTSTAMP:20260430T142548Z
 DTSTART:20260501T230000Z
 DTEND:20260502T030000Z
 SUMMARY:Archives and Time Capsules: What are we Taking\, What are we Leavin
@@ -112,7 +40,7 @@ URL:https://www.viewcy.com/event/archives_and_time_cap
 END:VEVENT
 BEGIN:VEVENT
 UID:bbd41527-08b8-43cc-8e7a-0d17bc86003c@viewcy.olio
-DTSTAMP:20260427T142850Z
+DTSTAMP:20260430T142548Z
 DTSTART:20260503T170000Z
 DTEND:20260503T193000Z
 SUMMARY:Cosmologies of the Breath: Unpacking Our Worldviews using Breathwor
@@ -170,7 +98,7 @@ URL:https://www.viewcy.com/event/whats_stored_in_the
 END:VEVENT
 BEGIN:VEVENT
 UID:a076014c-95a9-439d-a993-2f9fd3acf9a9@viewcy.olio
-DTSTAMP:20260427T142850Z
+DTSTAMP:20260430T142548Z
 DTSTART:20260508T230000Z
 DTEND:20260509T023000Z
 SUMMARY:Embracing Rock Bottom: A Poetry Happy Hour with Jason Koo
@@ -231,7 +159,7 @@ URL:https://www.viewcy.com/event/embracing_rock_bottom
 END:VEVENT
 BEGIN:VEVENT
 UID:850f71dc-7395-4b61-a89d-73ebbcae4f27@viewcy.olio
-DTSTAMP:20260427T142850Z
+DTSTAMP:20260430T142548Z
 DTSTART:20260509T233000Z
 DTEND:20260510T050000Z
 SUMMARY:Dial-up Disco: An Olio House Party
@@ -277,7 +205,7 @@ URL:https://www.viewcy.com/event/member_disco
 END:VEVENT
 BEGIN:VEVENT
 UID:79de1303-e44a-4d37-a012-a12c6eb2baf7@viewcy.olio
-DTSTAMP:20260427T142850Z
+DTSTAMP:20260430T142548Z
 DTSTART:20260514T233000Z
 DTEND:20260515T010000Z
 SUMMARY:Codependence with Capitalism: Attachment Styles Beyond Romance w/ D
@@ -330,7 +258,7 @@ URL:https://www.viewcy.com/event/codependence_with_cap
 END:VEVENT
 BEGIN:VEVENT
 UID:3362d2ac-4dc2-43ac-bb06-22bcd85a95c5@viewcy.olio
-DTSTAMP:20260427T142850Z
+DTSTAMP:20260430T142548Z
 DTSTART:20260522T140000Z
 DTEND:20260529T210000Z
 SUMMARY:OlioTrip Morocco: Music\, Spirit & Living Tradition
@@ -409,8 +337,65 @@ DESCRIPTION:OlioTrip Morocco: Music\, Spirit &amp\; Living Tradition&nbsp\;
 URL:https://www.viewcy.com/event/oliotrip_morocco_art
 END:VEVENT
 BEGIN:VEVENT
+UID:02fd8b86-57a5-447b-95c4-d952ff42b0ae@viewcy.olio
+DTSTAMP:20260430T142548Z
+DTSTART:20260602T233000Z
+DTEND:20260603T013000Z
+SUMMARY:The Jaws of Hell: Writing the Afterlife
+DESCRIPTION:The Jaws of Hell: Writing the Afterlife Tuesday evenings at 7:3
+ 0pm\, June 2nd\, 9th\, 16th\, &amp\; 23rd at the Olio LighthouseHell isn
+ ’t always depicted as fire and brimstone\; sometimes it's an infinite li
+ brary\, an AI generated wasteland\, or a hotel room with passive aggressiv
+ e strangers. In this hybrid class we'll first critically examine hellish f
+ iction\, analyzing what makes these strange afterlifes so gruesome—and a
+ lluring. Genres will range: poetry\, novella\, short story\, stage play\, 
+ and visual art.&nbsp\;Join writer and professor Alexandra Dos Santos in th
+ is 4-week Olio workshop where you'll take inspiration from class readings 
+ to create your own underworlds. Each session will include writing prompts 
+ and exercises based on the week's story. Through mini group workshops and 
+ partner critiques\, you’ll get instant feedback on your fresh ideas\, he
+ lping your story take shape early on.&nbsp\;By the second class\, please r
+ ead the novella A Short Stay in Hell by Steven L. Peck (108 pages). This i
+ s the only text you will have to get on your own. It's widely available in
+  libraries or online bookstores. You can also buy the E-book in a pinch!&n
+ bsp\;Class One: Introduction: personal interpretations of hell and demons:
+  tropes\, stereotypes. Dig into what molds preconceptions\, and briefly ex
+ amine historical and artistic context. Appetizer of hellish excerpts for a
+  general foundation on hell in literature. In class writing: exercises bas
+ ed on visual depictions of hell.For next class: continue or finish reading
+  A Short Stay in Hell by Steven L. Peck Class Two: Discuss: A Short Stay i
+ n Hell. Thematic analysis: cosmic horror\, identity\, existential dread. C
+ raft analysis: SETTINGIn class writing exercise: devise your own unlikely 
+ setting for hell. For next class\, read short story: “I Have No Mouth an
+ d I Must Scream” by Harlan Ellison&nbsp\;Class Three: Discuss: “I Have
+  No Mouth and I Must Scream.” Thematic analysis: what's a secular hell? 
+ Modernity\, AI\, individualism. Craft analysis: SYMBOLIn class writing exe
+ rcise: create your own devil\, demons or underworld spirits.&nbsp\; For ne
+ xt class\, read or watch the play No Exit by Jean-Paul SartreClass Four:Di
+ scuss: No Exit. Thematic analysis: the hell of the mind\, relationships\, 
+ and the "hungry ghost". Craft analysis: DIALOGUE AND CHARACTER. &nbsp\;In 
+ class writing exercise: dialogue to generate conflict&nbsp\;What to expect
+ :&nbsp\;Genre exploration through curated readings and art about hell\, de
+ mons\, and the soul&nbsp\;Special focus on different craft elements each w
+ eek based on the reading: symbolism\, setting\, dialogue and characterGrou
+ p discussions on what hell means to us based on our unique experiences\, a
+ nd how to alchemize it into art&nbsp\;Generative exercises to help mold fe
+ ar\, shame\, suffering\, desire\, and even curiosity into hellish concepts
+  and stories&nbsp\;Peer feedback on fresh work created in class through sm
+ all groups and pairsAbout Your Instructor:Alexandra Dos Santos is a writer
+  and College Writing instructor based in Astoria\, New York\, with an MFA 
+ from The Writers Foundry at St. Joseph's University. Her work spans horror
+ \, the esoteric\, and the speculative\, appearing in Electric Literature\,
+  Lithub\, Flash Fiction Magazine\, and Vol. 1 Brooklyn\, among others. She
+ 's led creative writing workshops throughout Brooklyn and received fellows
+ hips from Wildacres Writers Retreat and the Disquiet International Literar
+ y Program.*Writers of all levels are welcome here!\n\nTickets & info: http
+ s://www.viewcy.com/event/the_jaws_of_hell_wri
+URL:https://www.viewcy.com/event/the_jaws_of_hell_wri
+END:VEVENT
+BEGIN:VEVENT
 UID:eefe0ec8-4bb4-434d-80b3-59c99267b616@viewcy.olio
-DTSTAMP:20260427T142850Z
+DTSTAMP:20260430T142548Z
 DTSTART:20260611T230000Z
 DTEND:20260612T010000Z
 SUMMARY:The Ecstasy of Beauty w/ Dr. Adluri
