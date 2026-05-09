@@ -6,69 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:a076014c-95a9-439d-a993-2f9fd3acf9a9@viewcy.olio
-DTSTAMP:20260508T142123Z
-DTSTART:20260508T230000Z
-DTEND:20260509T023000Z
-SUMMARY:Embracing Rock Bottom: An Olio Happy Hour w/ Jason Koo
-DESCRIPTION:About the Event:One of the main motivations behind a happy hour
-  is to drink and be merry\, to shake loose from the unhappiness otherwise 
- prevailing in our lives\, just as one of the main reasons we turn to great
-  writing is to console ourselves in our unhappiness. But we might\, ironic
- ally\, end up feeling that unhappiness more intensely by drinking\, just a
- s we might call up our darkest feelings by reading poetry—so put the two
-  together and we've got ourselves a potent cocktail.In this Olio (Un)happy
-  Hour\, Professor Jason Koo will lead a close reading of Denis Johnson's l
- andmark 1982 collection The Incognito Lounge—one of the great literary d
- epictions of rock bottom—and explore the power of desolation in writing.
-  We'll pair this activity with the Corpse Reviver #2 (or N/A alternative)\
- , seeking to rouse ourselves from the dead with this pre-Prohibition\, abs
- inthe-laced cocktail intended to cure hangovers—or perhaps\, as The Savo
- y Cocktail Book's Harry Craddock warned\, to "un-revive the corpse again" 
- if consumed with sufficient enthusiasm.Evening Flow5-7pm (optional) - You'
- re invited to attend a reception celebrating the completion of the Olio mu
- ral painted by member Meredith Stein in our loft space. Come raise a glass
-  and take some time with the art and meeting new friends before the poetry
-  Olio kicks off at 7pm.&nbsp\; 7-7:30 PM – Act I: Poetry Happy Hour: Gra
- b a Corpse Reviver #2 (or N/A alternative)\, settle in\, and ease into the
-  evening with a conversation prompt.7:30-8:15 PM – Act II: Close Reading
- : A lecture led by Jason Koo\, diving deep into select poems from The Inco
- gnito Lounge and the poetics of desolation.8:15-9 PM – Act III: Writing 
- &amp\; Chatting: We disperse to writing stations throughout the space for 
- generative writing.The evening winds down. Linger\, talk\, and enjoy the s
- pace as we transition into something more like a house party.Our Teacher f
- or the Evening: Jason KooJason Koo is a second-generation Korean American 
- poet born in New York City and raised in Cleveland\, Ohio. He is the autho
- r of four full-length collections\, most recently No Rest (Diode Editions\
- , 2024)\, winner of the Eugene Paul Nassar Poetry Prize and a finalist for
-  AWP's Donald Hall Prize for Poetry. His work has appeared in The American
-  Scholar\, Best American Poetry\, The Missouri Review\, The Village Voice\
- , and The Yale Review\, and has been recognized with fellowships from the 
- National Endowment for the Arts\, the Vermont Studio Center\, and the New 
- York State Writers Institute.He is the founder of Brooklyn Poets and creat
- or of the Bridge\, its innovative mentorship network connecting poets worl
- dwide. For that work\, he was named one of Brooklyn Magazine's "100 Most I
- nfluential People in Brooklyn Culture." He currently serves as associate t
- eaching professor of English and director of creative writing at Quinnipia
- c University.What Is an Olio?Think Olio is an ongoing experiment in lifelo
- ng learning. We are a community of open-minded people who gather to exchan
- ge ideas with new friends and connect over art\, literature\, and philosop
- hy.Check out our full calendarOur $30 membership gives you two events for 
- the price of one!An Olio is what we call the social learning events we’v
- e been organizing since 2015. A blend between a lecture and a house party\
- , Olios are led by a teacher who loves sharing their passions and the room
-  is filled with curious\, open-minded New Yorkers.&nbsp\;Our goal is to sp
- ark new perspectives\, ignite curiosity\, and enjoy ourselves socially—a
- n alternative to typical nightlife options.Disclaimer: By purchasing a tic
- ket\, you agree to have your photo/video used for social media/marketing m
- aterials. If you prefer to not have your photo taken\, feel free to send u
- s a note.Photo by Zhi-Da Zhong\n\nTickets & info: https://www.viewcy.com/e
- vent/embracing_rock_bottom
-URL:https://www.viewcy.com/event/embracing_rock_bottom
-END:VEVENT
-BEGIN:VEVENT
 UID:850f71dc-7395-4b61-a89d-73ebbcae4f27@viewcy.olio
-DTSTAMP:20260508T142123Z
+DTSTAMP:20260509T135451Z
 DTSTART:20260509T233000Z
 DTEND:20260510T050000Z
 SUMMARY:Dial-up Disco: An Olio House Party
@@ -115,7 +54,7 @@ URL:https://www.viewcy.com/event/member_disco
 END:VEVENT
 BEGIN:VEVENT
 UID:79de1303-e44a-4d37-a012-a12c6eb2baf7@viewcy.olio
-DTSTAMP:20260508T142123Z
+DTSTAMP:20260509T135451Z
 DTSTART:20260514T233000Z
 DTEND:20260515T010000Z
 SUMMARY:Codependence with Capitalism: Attachment Styles Beyond Romance w/ D
@@ -168,7 +107,7 @@ URL:https://www.viewcy.com/event/codependence_with_cap
 END:VEVENT
 BEGIN:VEVENT
 UID:3362d2ac-4dc2-43ac-bb06-22bcd85a95c5@viewcy.olio
-DTSTAMP:20260508T142123Z
+DTSTAMP:20260509T135451Z
 DTSTART:20260522T140000Z
 DTEND:20260529T210000Z
 SUMMARY:OlioTrip Morocco: Music\, Spirit & Living Tradition
@@ -248,7 +187,7 @@ URL:https://www.viewcy.com/event/oliotrip_morocco_art
 END:VEVENT
 BEGIN:VEVENT
 UID:02fd8b86-57a5-447b-95c4-d952ff42b0ae@viewcy.olio
-DTSTAMP:20260508T142123Z
+DTSTAMP:20260509T135451Z
 DTSTART:20260602T233000Z
 DTEND:20260603T013000Z
 SUMMARY:The Jaws of Hell: Writing the Afterlife
@@ -305,7 +244,7 @@ URL:https://www.viewcy.com/event/the_jaws_of_hell_wri
 END:VEVENT
 BEGIN:VEVENT
 UID:eefe0ec8-4bb4-434d-80b3-59c99267b616@viewcy.olio
-DTSTAMP:20260508T142123Z
+DTSTAMP:20260509T135451Z
 DTSTART:20260611T230000Z
 DTEND:20260612T010000Z
 SUMMARY:The Ecstasy of Beauty w/ Dr. Adluri
