@@ -7,7 +7,7 @@ X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:3362d2ac-4dc2-43ac-bb06-22bcd85a95c5@viewcy.olio
-DTSTAMP:20260520T155908Z
+DTSTAMP:20260521T155241Z
 DTSTART:20260522T140000Z
 DTEND:20260529T210000Z
 SUMMARY:*Sold Out* OlioTrip Morocco: Music\, Spirit & Living Tradition
@@ -88,7 +88,7 @@ URL:https://www.viewcy.com/event/oliotrip_morocco_art
 END:VEVENT
 BEGIN:VEVENT
 UID:02fd8b86-57a5-447b-95c4-d952ff42b0ae@viewcy.olio
-DTSTAMP:20260520T155908Z
+DTSTAMP:20260521T155241Z
 DTSTART:20260602T233000Z
 DTEND:20260603T013000Z
 SUMMARY:The Jaws of Hell: Writing the Afterlife
@@ -145,7 +145,7 @@ URL:https://www.viewcy.com/event/the_jaws_of_hell_wri
 END:VEVENT
 BEGIN:VEVENT
 UID:eefe0ec8-4bb4-434d-80b3-59c99267b616@viewcy.olio
-DTSTAMP:20260520T155908Z
+DTSTAMP:20260521T155241Z
 DTSTART:20260611T230000Z
 DTEND:20260612T010000Z
 SUMMARY:The Ecstasy of Beauty w/ Dr. Adluri
@@ -202,5 +202,52 @@ DESCRIPTION:In light of the 'Raphael: Sublime Poetry' exhibit at the Metrop
  ree to send us a note. Photo by Zhi-Da Zhong\n\nTickets & info: https://ww
  w.viewcy.com/event/the_ecstasy_of_beauty
 URL:https://www.viewcy.com/event/the_ecstasy_of_beauty
+END:VEVENT
+BEGIN:VEVENT
+UID:21353bb7-645f-458f-9523-0e908f909016@viewcy.olio
+DTSTAMP:20260521T155241Z
+DTSTART:20260618T233000Z
+DTEND:20260619T063000Z
+SUMMARY:Deep Dives: An Olio House Party
+DESCRIPTION:Tickets:This is a member celebration!&nbsp\; To attend this par
+ ty you can sign up for our monthly membership which gives you 2 free event
+ s each month. &nbsp\;You will then be able to invite one friend to the par
+ ty &lt\;3&nbsp\;We're hosting a party built around obsessions\, deep dives
+ \, and amateur passions.What are you obsessed with? What have you gone rea
+ lly deep into — from childhood or adult life — that you don't get paid
+  for?We'll spend the night giving a stage to our niche obsessions and cele
+ brate each other for keeping curiosity alive! New friends\, miscellaneous 
+ learnings\, deep convos and daaaaaaancing the night away.&nbsp\;What to ex
+ pect:7:30pm: Come straight to the roof and upon arrival we will match you 
+ with a group of friends based on our secret witchery8pm: You sit with your
+  new friends and discuss a couple of curated prompts related to deep dives
+  and obsessions.9pm: We'll enjoy 5\, 5-minute deep dives presented by Olio
+  members. 10-11pm: DJ begins and we dance our asses offTake dance breaks t
+ o check out the tri-folds and little demonstrations around the room to see
+  what obsessions your friends have dove into.Enjoy a classic cereal bar to
+  fuel your energy throughout the night1:30-2:30am: DJ Zimmy Dynamite winds
+  down the evening with an ambient set. We'll stretch\, and have tea becaus
+ e we love our bodiesTickets:This is a member celebration! To attend this p
+ arty you can sign up for our monthly membership which gives you 2 free eve
+ nts each month. &nbsp\;You will then be able to invite one friend to the p
+ arty &lt\;3&nbsp\;What is Think Olio?Think Olio is an ongoing experiment i
+ n lifelong learning. We are a community of open-minded people who gather t
+ o exchange ideas with new friends and connect over art\, literature\, and 
+ philosophy.An Olio is what we call the social learning events we’ve been
+  organizing since 2015. A blend between a lecture and a house party\, Olio
+ s are led by a teacher who loves sharing their passions and the room is fi
+ lled with curious\, open-minded New Yorkers.&nbsp\;Eight months into creat
+ ing a venue\, one of our favorite feelings has been the moments where we
+ ’ve stepped outside of time. We’ve created a space where conversations
+  don’t feel rushed\, people are greeted with hugs\, and as a community\,
+  we spontaneously come up with new ideas (like the dial-up-disco house par
+ ty) and bring them to life.Our goal is to spark new perspectives\, ignite 
+ curiosity\, and enjoy ourselves socially—an alternative to typical night
+ life options.Check out our full calendarDisclaimer: By purchasing a ticket
+ \, you agree to have your photo/video used for social media/marketing mate
+ rials. If you prefer to not have your photo taken\, feel free to send us a
+  note.\n\nTickets & info: https://www.viewcy.com/event/deep_dives_an_olio_
+ h
+URL:https://www.viewcy.com/event/deep_dives_an_olio_h
 END:VEVENT
 END:VCALENDAR
