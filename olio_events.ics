@@ -6,65 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:02fd8b86-57a5-447b-95c4-d952ff42b0ae@viewcy.olio
-DTSTAMP:20260602T165646Z
-DTSTART:20260602T233000Z
-DTEND:20260603T013000Z
-SUMMARY:The Jaws of Hell: Writing the Afterlife
-DESCRIPTION:The Jaws of Hell: Writing the Afterlife Tuesday evenings at 7:3
- 0pm\, June 2nd\, 9th\, 16th\, &amp\; 23rd at the Olio LighthouseHell isn
- ’t always depicted as fire and brimstone\; sometimes it's an infinite li
- brary\, an AI generated wasteland\, or a hotel room with passive aggressiv
- e strangers. In this hybrid class we'll first critically examine hellish f
- iction\, analyzing what makes these strange afterlifes so gruesome—and a
- lluring. Genres will range: poetry\, novella\, short story\, stage play\, 
- and visual art.&nbsp\;Join writer and professor Alexandra Dos Santos in th
- is 4-week Olio workshop where you'll take inspiration from class readings 
- to create your own underworlds. Each session will include writing prompts 
- and exercises based on the week's story. Through mini group workshops and 
- partner critiques\, you’ll get instant feedback on your fresh ideas\, he
- lping your story take shape early on.&nbsp\;By the second class\, please r
- ead the novella A Short Stay in Hell by Steven L. Peck (108 pages). This i
- s the only text you will have to get on your own. It's widely available in
-  libraries or online bookstores. You can also buy the E-book in a pinch!&n
- bsp\;Class One: Introduction: personal interpretations of hell and demons:
-  tropes\, stereotypes. Dig into what molds preconceptions\, and briefly ex
- amine historical and artistic context. Appetizer of hellish excerpts for a
-  general foundation on hell in literature. In class writing: exercises bas
- ed on visual depictions of hell.For next class: continue or finish reading
-  A Short Stay in Hell by Steven L. Peck Class Two: Discuss: A Short Stay i
- n Hell. Thematic analysis: cosmic horror\, identity\, existential dread. C
- raft analysis: SETTINGIn class writing exercise: devise your own unlikely 
- setting for hell. For next class\, read short story: “I Have No Mouth an
- d I Must Scream” by Harlan Ellison&nbsp\;Class Three: Discuss: “I Have
-  No Mouth and I Must Scream.” Thematic analysis: what's a secular hell? 
- Modernity\, AI\, individualism. Craft analysis: SYMBOLIn class writing exe
- rcise: create your own devil\, demons or underworld spirits.&nbsp\; For ne
- xt class\, read or watch the play No Exit by Jean-Paul SartreClass Four:Di
- scuss: No Exit. Thematic analysis: the hell of the mind\, relationships\, 
- and the "hungry ghost". Craft analysis: DIALOGUE AND CHARACTER. &nbsp\;In 
- class writing exercise: dialogue to generate conflict&nbsp\;What to expect
- :&nbsp\;Genre exploration through curated readings and art about hell\, de
- mons\, and the soul&nbsp\;Special focus on different craft elements each w
- eek based on the reading: symbolism\, setting\, dialogue and characterGrou
- p discussions on what hell means to us based on our unique experiences\, a
- nd how to alchemize it into art&nbsp\;Generative exercises to help mold fe
- ar\, shame\, suffering\, desire\, and even curiosity into hellish concepts
-  and stories&nbsp\;Peer feedback on fresh work created in class through sm
- all groups and pairsAbout Your Instructor:Alexandra Dos Santos is a writer
-  and College Writing instructor based in Astoria\, New York\, with an MFA 
- from The Writers Foundry at St. Joseph's University. Her work spans horror
- \, the esoteric\, and the speculative\, appearing in Electric Literature\,
-  Lithub\, Flash Fiction Magazine\, and Vol. 1 Brooklyn\, among others. She
- 's led creative writing workshops throughout Brooklyn and received fellows
- hips from Wildacres Writers Retreat and the Disquiet International Literar
- y Program.*Writers of all levels are welcome here!\n\nTickets & info: http
- s://www.viewcy.com/event/the_jaws_of_hell_wri
-URL:https://www.viewcy.com/event/the_jaws_of_hell_wri
-END:VEVENT
-BEGIN:VEVENT
 UID:eefe0ec8-4bb4-434d-80b3-59c99267b616@viewcy.olio
-DTSTAMP:20260602T165646Z
+DTSTAMP:20260603T172018Z
 DTSTART:20260611T230000Z
 DTEND:20260612T010000Z
 SUMMARY:The Ecstasy of Beauty w/ Dr. Adluri
@@ -124,7 +67,7 @@ URL:https://www.viewcy.com/event/the_ecstasy_of_beauty
 END:VEVENT
 BEGIN:VEVENT
 UID:21353bb7-645f-458f-9523-0e908f909016@viewcy.olio
-DTSTAMP:20260602T165646Z
+DTSTAMP:20260603T172018Z
 DTSTART:20260618T233000Z
 DTEND:20260619T063000Z
 SUMMARY:Deep Dives: An Olio House Party
@@ -171,7 +114,7 @@ URL:https://www.viewcy.com/event/deep_dives_an_olio_h
 END:VEVENT
 BEGIN:VEVENT
 UID:22677795-2f2a-44c7-96c3-120be6aa304a@viewcy.olio
-DTSTAMP:20260602T165646Z
+DTSTAMP:20260603T172018Z
 DTSTART:20260626T000000Z
 DTEND:20260626T020000Z
 SUMMARY:Olio Read-in: Anne Carson's Eros the Bittersweet
@@ -225,7 +168,7 @@ URL:https://www.viewcy.com/event/olio_readin_anne_ca
 END:VEVENT
 BEGIN:VEVENT
 UID:94c958c5-1255-4dd5-baea-918024427918@viewcy.olio
-DTSTAMP:20260602T165646Z
+DTSTAMP:20260603T172018Z
 DTSTART:20260627T140000Z
 DTEND:20260627T220000Z
 SUMMARY:A Body of Emotions: Full Day Olio Immersive
@@ -304,8 +247,55 @@ DESCRIPTION:“An emotion is your brain’s creation of what your bodily se
 URL:https://www.viewcy.com/event/a_body_of_emotions_f
 END:VEVENT
 BEGIN:VEVENT
+UID:c7b115f1-9ee0-4945-a028-4a4615bd0140@viewcy.olio
+DTSTAMP:20260603T172018Z
+DTSTART:20260701T233000Z
+DTEND:20260702T013000Z
+SUMMARY:Greek Smyrneiko: An Immersive Concert Exploring Dance\, Music\, and
+  Memory
+DESCRIPTION:Join us for an immersive evening with Cafe Aman Project x KELEP
+ OÚRI\, a collective of musicians and dancers rooted in the Smyrneiko trad
+ ition — the music and dances of Asia Minor Greeks\, carried into the dia
+ spora and transformed.Infused with a diasporic perspective\, the group bri
+ ngs a fresh interpretation to the music and dances of Asia Minor Greeks wh
+ ile honoring their cultural origins and embracing contemporary identity. I
+ nspired by the historic Café Aman spaces of Asia Minor\, as well as moder
+ n rebetika communities in Greece\, London\, and New York\, the collective 
+ bridges histories\, cultures\, and identities through performance and coll
+ aboration.Dance is central to each performance\, merging body and soul thr
+ ough improvisational movement\, fluidity\, and feminine sensuality. Audien
+ ces are invited into this shared experience through Tsifteteli and traditi
+ onal line dances\, creating a space for connection and release.At its core
+ \, the project reflects an evolving shift within NYC’s Greek subcultural
+  spaces: an expansive and unapologetic expression of diasporic identity. T
+ heir performances have become communal spaces where people across the dias
+ pora can rediscover a sense of home\, belonging\, and cultural continuity.
+ Evening Flow7:00 PM — Doors open. Settle in\, grab a drink\, and meet a 
+ friend.7:30 PM — The evening begins: an opening set with song-by-song ex
+ plorations of the Smyrneiko tradition\, the history of Asia Minor Greeks\,
+  and the music that survived.8:30 PM — A short break with homemade snack
+ s and Rose Saffron punch.9:00 PM — Encore: communal line dancing and Tsi
+ fteteli.10:00 PM — Last call at the bar as we wind down the evening.This
+  is a standing concert. If you need a seat\, reach out — we'll take care
+  of you.What Is an Olio?Think Olio is an ongoing experiment in lifelong le
+ arning. We are a community of open-minded people who gather to exchange id
+ eas with new friends and connect over art\, literature\, and philosophy.Ch
+ eck out our full calendarOur $30 membership gives you two events for the p
+ rice of one!&nbsp\;An Olio is what we call the social learning events we
+ ’ve been organizing since 2015. A blend between a lecture and a house pa
+ rty\, Olios are led by a teacher who loves sharing their passions and the 
+ room is filled with curious\, open-minded New Yorkers.&nbsp\;Our goal is t
+ o spark new perspectives\, ignite curiosity\, and enjoy ourselves socially
+ —an alternative to typical nightlife options.Disclaimer: By purchasing a
+  ticket\, you agree to have your photo/video used for social media/marketi
+ ng materials. If you prefer to not have your photo taken\, feel free to se
+ nd us a note. Photo by Zhi-Da Zhong\n\nTickets & info: https://www.viewcy.
+ com/event/smyrneiko_exploring
+URL:https://www.viewcy.com/event/smyrneiko_exploring
+END:VEVENT
+BEGIN:VEVENT
 UID:fd75e5c0-343e-411d-98b0-a6ce1aad5195@viewcy.olio
-DTSTAMP:20260602T165646Z
+DTSTAMP:20260603T172018Z
 DTSTART:20260801T000000Z
 DTEND:20260801T023000Z
 SUMMARY:EAVESDROPPING: The Erotics of Listening
