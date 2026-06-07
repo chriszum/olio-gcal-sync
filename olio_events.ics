@@ -6,8 +6,26 @@ METHOD:PUBLISH
 X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+UID:15588751-2af6-43d1-881a-8b3bcc9990da@viewcy.olio
+DTSTAMP:20260607T142202Z
+DTSTART:20260611T003000Z
+DTEND:20260611T033000Z
+SUMMARY:Knicks Game 4 at The Lighthouse!
+DESCRIPTION:Did you know that just before starting Olio\, Chris and David f
+ irst bonded over a shared love of basketball (read: Kobe Bryant)?&nbsp\;So
+  we have this beautiful sport to thank for everything Olio and we're excit
+ ed to beam game 4 from our Lighthouse in Prospect Heights.&nbsp\;We'll hav
+ e the game running on the big screen with the audio nice and loud\, the ba
+ r will be open and you can feel free to bring whatever food you'd like to 
+ enjoy while the Knicks win!&nbsp\;Free Entry!Beer\, wine\, Knicks-themed c
+ ocktail and mocktail will availableBYOFoooooodDoors open at 8pm&nbsp\;Plea
+ se RSVP so we know how many to expect\n\nTickets & info: https://www.viewc
+ y.com/event/knicks_game_4_watch_p
+URL:https://www.viewcy.com/event/knicks_game_4_watch_p
+END:VEVENT
+BEGIN:VEVENT
 UID:eefe0ec8-4bb4-434d-80b3-59c99267b616@viewcy.olio
-DTSTAMP:20260606T141040Z
+DTSTAMP:20260607T142202Z
 DTSTART:20260611T230000Z
 DTEND:20260612T010000Z
 SUMMARY:The Ecstasy of Beauty w/ Dr. Adluri
@@ -67,7 +85,7 @@ URL:https://www.viewcy.com/event/the_ecstasy_of_beauty
 END:VEVENT
 BEGIN:VEVENT
 UID:21353bb7-645f-458f-9523-0e908f909016@viewcy.olio
-DTSTAMP:20260606T141040Z
+DTSTAMP:20260607T142202Z
 DTSTART:20260618T233000Z
 DTEND:20260619T063000Z
 SUMMARY:Deep Dives: An Olio House Party
@@ -113,62 +131,30 @@ DESCRIPTION:Tickets:This is a member celebration!&nbsp\; To attend this par
 URL:https://www.viewcy.com/event/deep_dives_an_olio_h
 END:VEVENT
 BEGIN:VEVENT
-UID:22677795-2f2a-44c7-96c3-120be6aa304a@viewcy.olio
-DTSTAMP:20260606T141040Z
-DTSTART:20260626T000000Z
-DTEND:20260626T020000Z
-SUMMARY:Olio Read-in: Anne Carson's Eros the Bittersweet
-DESCRIPTION:What is required of the solitary soul\, typically content withi
- n the interior known as I\, when it finds itself in a surprising and new\,
-  often painful state of longing to find union with another? What are the f
- undamental physics of crossing my self-imposed border when I am desperatel
- y longing for you? Because longing\, as any longer can tell you\, is not e
- nough. While its cousin\, the Imagination\, can help by filling up our int
- erior with illusions of union\, this relief is always temporary. Even when
-  bolstered by gadgets and screens\, sooner or later\, the self grows suspe
- ct of its own hacks\, and the yearning takes over. Such beautiful yearning
- .&nbsp\;To know oneself\, to know where I begin\, and to witness the eroti
- c that exists where I end. Such endeavors require more than longing. They 
- need Eros. Movement. To connect with another\, we need first and foremost\
- , action. To lift our hand out and reach across space\, to "You."Typically
-  understood as a state of erotic desire\, Eros\, Anne Carson tells us is s
- omething so much more and so much less all at once. One perfect sentence i
- nstructs: "Eros is a verb."This is an invitation to you to move\, to join\
- , to take part in this special event\, an Olio Read-in.Rooted in the socia
- l revolution of the 1960s\, Read-ins have always been essential to the pol
- itical project of building communities\, and bolstering progressive change
- . Read Ins announce: We will not remain alone\, afraid\, and cut off from 
- one another. No. We will sit side by side and with the support of each oth
- er\, we will read. We will learn. We will enrich our inner world so that w
- e can find the courage to exist outside of it.Teacher: Jamie WarrenJamie W
- arren has a Ph.D. in American History from Indiana University\, and she is
-  an Assistant Professor at BMCC-CUNY where she teaches American history\, 
- the history of women and gender\, and women’s studies. Her research focu
- ses on slavery in antebellum South with a particular focus on death\, the 
- body\, and the philosophy of history.Evening Flow7:30 PM – Doors open. S
- ettle in\, grab a drink\, and meet a friend.8 PM – The Olio begins: an i
- ntimate\, interactive lecture and guided exploration.9 PM – We shift int
- o a social experience\, discussing ideas with others in the room while the
-  teacher joins and floats between conversations.10 PM - Last call at the b
- ar and we'll start to wind down the evening.What Is an Olio?Think Olio is 
- an ongoing experiment in lifelong learning. We are a community of open-min
- ded people who gather to exchange ideas with new friends and connect over 
- art\, literature\, and philosophy.Check out our full calendarOur $30 membe
- rship gives you two events for the price of one!&nbsp\;An Olio is what we 
- call the social learning events we’ve been organizing since 2015. A blen
- d between a lecture and a house party\, Olios are led by a teacher who lov
- es sharing their passions and the room is filled with curious\, open-minde
- d New Yorkers.&nbsp\;Our goal is to spark new perspectives\, ignite curios
- ity\, and enjoy ourselves socially—an alternative to typical nightlife o
- ptions.Disclaimer: By purchasing a ticket\, you agree to have your photo/v
- ideo used for social media/marketing materials. If you prefer to not have 
- your photo taken\, feel free to send us a note.Photo by Zhi-Da Zhong\n\nTi
- ckets & info: https://www.viewcy.com/event/olio_readin_anne_ca
-URL:https://www.viewcy.com/event/olio_readin_anne_ca
+UID:78524e8f-5bc3-4bb1-944d-3c6920e5362b@viewcy.olio
+DTSTAMP:20260607T142202Z
+DTSTART:20260626T003000Z
+DTEND:20260626T030000Z
+SUMMARY:Lighthouse Cinema: Uncle Yanco
+DESCRIPTION:Join us for Lighthouse Cinema night! Popcorn included in your t
+ icket ♡Agnès Varda made Uncle Yanco in 1967 — a short\, sun-drenched 
+ dispatch from San Francisco\, where she'd gone to make a documentary and i
+ nstead stumbled upon a long-lost relative (?) living as a bohemian painter
+  on a houseboat. The film is a delight: loose\, curious\, and shot through
+  with the particular joy of discovering that eccentricity runs in the fami
+ ly.At just 18 minutes\, it's Varda at her most playful and personal — a 
+ proto-essay film that prefigures everything she'd spend the next five deca
+ des perfecting.&nbsp\;Hang out afterwards to pour a drink and talk about w
+ hat we just watched together with curated conversation prompts.- Doors ope
+ n at 8:30pm&nbsp\;- Film kicks off at 9:00pm&nbsp\;- Chill and enjoy conve
+ rsation prompts exploring family roots across divides\, celebration of cou
+ nterculture lifestyles\, and modern-day pirates until 10:30pm.\n\nTickets 
+ & info: https://www.viewcy.com/event/lighthouse_cinema_ag_1
+URL:https://www.viewcy.com/event/lighthouse_cinema_ag_1
 END:VEVENT
 BEGIN:VEVENT
 UID:94c958c5-1255-4dd5-baea-918024427918@viewcy.olio
-DTSTAMP:20260606T141040Z
+DTSTAMP:20260607T142202Z
 DTSTART:20260627T140000Z
 DTEND:20260627T220000Z
 SUMMARY:A Body of Emotions: Full Day Olio Immersive
@@ -248,7 +234,7 @@ URL:https://www.viewcy.com/event/a_body_of_emotions_f
 END:VEVENT
 BEGIN:VEVENT
 UID:c7b115f1-9ee0-4945-a028-4a4615bd0140@viewcy.olio
-DTSTAMP:20260606T141040Z
+DTSTAMP:20260607T142202Z
 DTSTART:20260701T233000Z
 DTEND:20260702T013000Z
 SUMMARY:Greek Smyrneiko: An Immersive Concert Exploring Dance\, Music\, and
@@ -294,8 +280,62 @@ DESCRIPTION:Join us for an immersive evening with Cafe Aman Project x KELEP
 URL:https://www.viewcy.com/event/smyrneiko_exploring
 END:VEVENT
 BEGIN:VEVENT
+UID:22677795-2f2a-44c7-96c3-120be6aa304a@viewcy.olio
+DTSTAMP:20260607T142202Z
+DTSTART:20260708T000000Z
+DTEND:20260708T020000Z
+SUMMARY:Olio Read-in: Anne Carson's Eros the Bittersweet
+DESCRIPTION:What is required of the solitary soul\, typically content withi
+ n the interior known as I\, when it finds itself in a surprising and new\,
+  often painful state of longing to find union with another? What are the f
+ undamental physics of crossing my self-imposed border when I am desperatel
+ y longing for you? Because longing\, as any longer can tell you\, is not e
+ nough. While its cousin\, the Imagination\, can help by filling up our int
+ erior with illusions of union\, this relief is always temporary. Even when
+  bolstered by gadgets and screens\, sooner or later\, the self grows suspe
+ ct of its own hacks\, and the yearning takes over. Such beautiful yearning
+ .&nbsp\;To know oneself\, to know where I begin\, and to witness the eroti
+ c that exists where I end. Such endeavors require more than longing. They 
+ need Eros. Movement. To connect with another\, we need first and foremost\
+ , action. To lift our hand out and reach across space\, to "You."Typically
+  understood as a state of erotic desire\, Eros\, Anne Carson tells us is s
+ omething so much more and so much less all at once. One perfect sentence i
+ nstructs: "Eros is a verb."This is an invitation to you to move\, to join\
+ , to take part in this special event\, an Olio Read-in.Rooted in the socia
+ l revolution of the 1960s\, Read-ins have always been essential to the pol
+ itical project of building communities\, and bolstering progressive change
+ . Read Ins announce: We will not remain alone\, afraid\, and cut off from 
+ one another. No. We will sit side by side and with the support of each oth
+ er\, we will read. We will learn. We will enrich our inner world so that w
+ e can find the courage to exist outside of it.Teacher: Jamie WarrenJamie W
+ arren has a Ph.D. in American History from Indiana University\, and she is
+  an Assistant Professor at BMCC-CUNY where she teaches American history\, 
+ the history of women and gender\, and women’s studies. Her research focu
+ ses on slavery in antebellum South with a particular focus on death\, the 
+ body\, and the philosophy of history.Evening Flow7:30 PM – Doors open. S
+ ettle in\, grab a drink\, and meet a friend.8 PM – The Olio begins: an i
+ ntimate\, interactive lecture and guided exploration.9 PM – We shift int
+ o a social experience\, discussing ideas with others in the room while the
+  teacher joins and floats between conversations.10 PM - Last call at the b
+ ar and we'll start to wind down the evening.What Is an Olio?Think Olio is 
+ an ongoing experiment in lifelong learning. We are a community of open-min
+ ded people who gather to exchange ideas with new friends and connect over 
+ art\, literature\, and philosophy.Check out our full calendarOur $30 membe
+ rship gives you two events for the price of one!&nbsp\;An Olio is what we 
+ call the social learning events we’ve been organizing since 2015. A blen
+ d between a lecture and a house party\, Olios are led by a teacher who lov
+ es sharing their passions and the room is filled with curious\, open-minde
+ d New Yorkers.&nbsp\;Our goal is to spark new perspectives\, ignite curios
+ ity\, and enjoy ourselves socially—an alternative to typical nightlife o
+ ptions.Disclaimer: By purchasing a ticket\, you agree to have your photo/v
+ ideo used for social media/marketing materials. If you prefer to not have 
+ your photo taken\, feel free to send us a note.Photo by Zhi-Da Zhong\n\nTi
+ ckets & info: https://www.viewcy.com/event/olio_readin_anne_ca
+URL:https://www.viewcy.com/event/olio_readin_anne_ca
+END:VEVENT
+BEGIN:VEVENT
 UID:fd75e5c0-343e-411d-98b0-a6ce1aad5195@viewcy.olio
-DTSTAMP:20260606T141040Z
+DTSTAMP:20260607T142202Z
 DTSTART:20260801T000000Z
 DTEND:20260801T023000Z
 SUMMARY:EAVESDROPPING: The Erotics of Listening
