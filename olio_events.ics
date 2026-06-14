@@ -6,26 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:3218b465-ad78-463e-bc41-fc1cb37041e1@viewcy.olio
-DTSTAMP:20260613T142925Z
-DTSTART:20260614T000000Z
-DTEND:20260614T033000Z
-SUMMARY:Knicks Game 5 at The Lighthouse!
-DESCRIPTION:Did you know that just before starting Olio\, Chris and David f
- irst bonded over a shared love of basketball (read: Kobe Bryant)? So we ha
- ve this beautiful sport to thank for everything Olio and we're excited to 
- beam game 5 from our Lighthouse in Prospect Heights.&nbsp\;We'll have the 
- game running on the big screen with the audio nice and loud\, the bar will
-  be open and you can feel free to bring whatever food you'd like to enjoy 
- while the Knicks win!&nbsp\;Free Entry!Beer\, wine\, Knicks-themed cocktai
- l and mocktail will be availableBYOFoooooodDoors open at 8pm&nbsp\;Please 
- RSVP so we know how many to expect\n\nTickets & info: https://www.viewcy.c
- om/event/knicks_game_5_at_the
-URL:https://www.viewcy.com/event/knicks_game_5_at_the
-END:VEVENT
-BEGIN:VEVENT
 UID:21353bb7-645f-458f-9523-0e908f909016@viewcy.olio
-DTSTAMP:20260613T142925Z
+DTSTAMP:20260614T143219Z
 DTSTART:20260618T233000Z
 DTEND:20260619T063000Z
 SUMMARY:Deep Dives: An Olio House Party
@@ -72,7 +54,7 @@ URL:https://www.viewcy.com/event/deep_dives_an_olio_h
 END:VEVENT
 BEGIN:VEVENT
 UID:78524e8f-5bc3-4bb1-944d-3c6920e5362b@viewcy.olio
-DTSTAMP:20260613T142925Z
+DTSTAMP:20260614T143219Z
 DTSTART:20260626T003000Z
 DTEND:20260626T023000Z
 SUMMARY:Lighthouse Cinema: Uncle Yanco
@@ -109,7 +91,7 @@ URL:https://www.viewcy.com/event/lighthouse_cinema_ag_1
 END:VEVENT
 BEGIN:VEVENT
 UID:94c958c5-1255-4dd5-baea-918024427918@viewcy.olio
-DTSTAMP:20260613T142925Z
+DTSTAMP:20260614T143219Z
 DTSTART:20260627T140000Z
 DTEND:20260627T220000Z
 SUMMARY:A Body of Emotions: Full Day Olio Immersive
@@ -189,7 +171,7 @@ URL:https://www.viewcy.com/event/a_body_of_emotions_f
 END:VEVENT
 BEGIN:VEVENT
 UID:c7b115f1-9ee0-4945-a028-4a4615bd0140@viewcy.olio
-DTSTAMP:20260613T142925Z
+DTSTAMP:20260614T143219Z
 DTSTART:20260701T233000Z
 DTEND:20260702T013000Z
 SUMMARY:Greek Smyrneika: An Immersive Concert Exploring Dance\, Music\, and
@@ -236,7 +218,7 @@ URL:https://www.viewcy.com/event/smyrneika_exploring
 END:VEVENT
 BEGIN:VEVENT
 UID:22677795-2f2a-44c7-96c3-120be6aa304a@viewcy.olio
-DTSTAMP:20260613T142925Z
+DTSTAMP:20260614T143219Z
 DTSTART:20260708T000000Z
 DTEND:20260708T020000Z
 SUMMARY:Olio Read-in: Anne Carson's Eros the Bittersweet
@@ -290,7 +272,7 @@ URL:https://www.viewcy.com/event/olio_readin_anne_ca
 END:VEVENT
 BEGIN:VEVENT
 UID:bd0d0a05-4b74-44cc-a076-2ecd6b9de179@viewcy.olio
-DTSTAMP:20260613T142925Z
+DTSTAMP:20260614T143219Z
 DTSTART:20260721T233000Z
 DTEND:20260722T013000Z
 SUMMARY:Olio Read-in: Kafka's Metamorphosis
@@ -334,7 +316,7 @@ URL:https://www.viewcy.com/event/olio_readin_kafkas
 END:VEVENT
 BEGIN:VEVENT
 UID:fd75e5c0-343e-411d-98b0-a6ce1aad5195@viewcy.olio
-DTSTAMP:20260613T142925Z
+DTSTAMP:20260614T143219Z
 DTSTART:20260801T000000Z
 DTEND:20260801T023000Z
 SUMMARY:EAVESDROPPING: The Erotics of Listening
