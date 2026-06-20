@@ -7,7 +7,7 @@ X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:78524e8f-5bc3-4bb1-944d-3c6920e5362b@viewcy.olio
-DTSTAMP:20260619T154351Z
+DTSTAMP:20260620T143328Z
 DTSTART:20260626T003000Z
 DTEND:20260626T023000Z
 SUMMARY:Lighthouse Cinema: Uncle Yanco
@@ -44,7 +44,7 @@ URL:https://www.viewcy.com/event/lighthouse_cinema_ag_1
 END:VEVENT
 BEGIN:VEVENT
 UID:94c958c5-1255-4dd5-baea-918024427918@viewcy.olio
-DTSTAMP:20260619T154351Z
+DTSTAMP:20260620T143328Z
 DTSTART:20260627T140000Z
 DTEND:20260627T220000Z
 SUMMARY:A Body of Emotions: Full Day Olio Immersive
@@ -124,7 +124,7 @@ URL:https://www.viewcy.com/event/a_body_of_emotions_f
 END:VEVENT
 BEGIN:VEVENT
 UID:c7b115f1-9ee0-4945-a028-4a4615bd0140@viewcy.olio
-DTSTAMP:20260619T154351Z
+DTSTAMP:20260620T143328Z
 DTSTART:20260701T233000Z
 DTEND:20260702T013000Z
 SUMMARY:Greek Smyrneika: An Immersive Concert Exploring Dance\, Music\, and
@@ -171,7 +171,7 @@ URL:https://www.viewcy.com/event/smyrneika_exploring
 END:VEVENT
 BEGIN:VEVENT
 UID:22677795-2f2a-44c7-96c3-120be6aa304a@viewcy.olio
-DTSTAMP:20260619T154351Z
+DTSTAMP:20260620T143328Z
 DTSTART:20260708T000000Z
 DTEND:20260708T020000Z
 SUMMARY:Olio Read-in: Anne Carson's Eros the Bittersweet
@@ -225,7 +225,7 @@ URL:https://www.viewcy.com/event/olio_readin_anne_ca
 END:VEVENT
 BEGIN:VEVENT
 UID:bd0d0a05-4b74-44cc-a076-2ecd6b9de179@viewcy.olio
-DTSTAMP:20260619T154351Z
+DTSTAMP:20260620T143328Z
 DTSTART:20260721T233000Z
 DTEND:20260722T013000Z
 SUMMARY:Olio Read-in: Kafka's Metamorphosis
@@ -269,7 +269,7 @@ URL:https://www.viewcy.com/event/olio_readin_kafkas
 END:VEVENT
 BEGIN:VEVENT
 UID:fd75e5c0-343e-411d-98b0-a6ce1aad5195@viewcy.olio
-DTSTAMP:20260619T154351Z
+DTSTAMP:20260620T143328Z
 DTSTART:20260801T000000Z
 DTEND:20260801T023000Z
 SUMMARY:EAVESDROPPING: The Erotics of Listening
@@ -315,5 +315,37 @@ DESCRIPTION:Why does overhearing feel so intimate?This Olio explores the st
  ree to send us a note.Photo by Zhi-Da Zhong\n\nTickets & info: https://www
  .viewcy.com/event/eavesdropping_the_er
 URL:https://www.viewcy.com/event/eavesdropping_the_er
+END:VEVENT
+BEGIN:VEVENT
+UID:3833940b-0261-455e-9ca9-68f456a98af1@viewcy.olio
+DTSTAMP:20260620T143328Z
+DTSTART:20260823T000000Z
+DTEND:20260823T040000Z
+SUMMARY:An Olio House Party *Members Only
+DESCRIPTION:Tickets:This is a member celebration!&nbsp\; To attend this par
+ ty you can sign up for our monthly membership which gives you 2 free event
+ s each month. &nbsp\;You will then be able to invite one friend to the par
+ ty &lt\;3&nbsp\;What to expect:8pm: You're matched with new friends to dis
+ cuss a couple of curated prompts.9:30pm-midnight: DJ Zimmy Dynamite begins
+  and we dance our asses off until he winds down the evening with an ambien
+ t set. We'll stretch and have tea because we love our bodies.What is Think
+  Olio?Think Olio is an ongoing experiment in lifelong learning. We are a c
+ ommunity of open-minded people who gather to exchange ideas with new frien
+ ds and connect over art\, literature\, and philosophy.An Olio is what we c
+ all the social learning events we’ve been organizing since 2015. A blend
+  between a lecture and a house party\, Olios are led by a teacher who love
+ s sharing their passions and the room is filled with curious\, open-minded
+  New Yorkers.&nbsp\;Eight months into creating a venue\, one of our favori
+ te feelings has been the moments where we’ve stepped outside of time. We
+ ’ve created a space where conversations don’t feel rushed\, people are
+  greeted with hugs\, and as a community\, we spontaneously come up with ne
+ w ideas (like the dial-up-disco house party) and bring them to life.Our go
+ al is to spark new perspectives\, ignite curiosity\, and enjoy ourselves s
+ ocially—an alternative to typical nightlife options.Check out our full c
+ alendarDisclaimer: By purchasing a ticket\, you agree to have your photo/v
+ ideo used for social media/marketing materials. If you prefer to not have 
+ your photo taken\, feel free to send us a note.\n\nTickets & info: https:/
+ /www.viewcy.com/event/an_olio_house_party_
+URL:https://www.viewcy.com/event/an_olio_house_party_
 END:VEVENT
 END:VCALENDAR
