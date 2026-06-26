@@ -6,45 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:78524e8f-5bc3-4bb1-944d-3c6920e5362b@viewcy.olio
-DTSTAMP:20260625T151819Z
-DTSTART:20260626T003000Z
-DTEND:20260626T023000Z
-SUMMARY:Lighthouse Cinema: Uncle Yanco
-DESCRIPTION:Join us for Lighthouse Cinema night! Popcorn included in your t
- icket ♡Agnès Varda made Uncle Yanco in 1967 — a short\, sun-drenched 
- dispatch from San Francisco\, where she'd gone to make a documentary and i
- nstead stumbled upon a long-lost relative (?) living as a bohemian painter
-  on a houseboat. The film is a delight: loose\, curious\, and shot through
-  with the particular joy of discovering that eccentricity runs in the fami
- ly.At just 18 minutes\, it's Varda at her most playful and personal — a 
- proto-essay film that prefigures everything she'd spend the next five deca
- des perfecting.&nbsp\;Hang out afterwards to pour a drink and talk about w
- hat we just watched together with curated conversation prompts.- Doors ope
- n at 8:30pm - Film kicks off at 9:00pm - Chill and enjoy conversation prom
- pts exploring family roots across divides\, celebration of counterculture 
- lifestyles\, and modern-day pirates until 10:30pm.We're collaborating with
-  our friends at No One's Ark for this one. Check em out!&nbsp\;Ahoy Keeper
- s of the Light! 🕯️We are the Pirates for the Planet! aboard No One’
- s Ark\, a brooklyn based non-profit thats embarked on a voyage to ressurec
- t a half sunken ship into a floating community hub for environmental youth
-  education\, art\, and ecological innovation to help clean up Newtown Cree
- k\, the most polluted body of water in New York City.&nbsp\;Using purpose-
- driven piracy\, we’re raising awareness\, driving advocacy\, and providi
- ng direct action to help in the restoration of a waterway the world forgot
- . Our Ark is a vessel of change. A storytelling vehicle charting a new cou
- rse in bioremediation. A floating classroom\, laboratory\, and cultural ce
- nter. A beacon of ecological hope for the federal Superfund site we call h
- ome.&nbsp\;We've been searching for a lighthouse\, and we’re so glad to 
- have Think Olio has a beacon for us pirates! Thank you for casting your li
- ght! We love’d to have you on board…or may ye walk the plank! 🌊⚓
- ️☘️\n\nTickets & info: https://www.viewcy.com/event/lighthouse_cinem
- a_ag_1
-URL:https://www.viewcy.com/event/lighthouse_cinema_ag_1
-END:VEVENT
-BEGIN:VEVENT
 UID:94c958c5-1255-4dd5-baea-918024427918@viewcy.olio
-DTSTAMP:20260625T151819Z
+DTSTAMP:20260626T144832Z
 DTSTART:20260627T140000Z
 DTEND:20260627T210000Z
 SUMMARY:A Body of Emotions: Full Day Olio Immersive
@@ -121,7 +84,7 @@ URL:https://www.viewcy.com/event/a_body_of_emotions_f
 END:VEVENT
 BEGIN:VEVENT
 UID:c7b115f1-9ee0-4945-a028-4a4615bd0140@viewcy.olio
-DTSTAMP:20260625T151819Z
+DTSTAMP:20260626T144832Z
 DTSTART:20260701T233000Z
 DTEND:20260702T013000Z
 SUMMARY:Greek Smyrneika: An Immersive Concert Exploring Dance\, Music\, and
@@ -168,7 +131,7 @@ URL:https://www.viewcy.com/event/smyrneika_exploring
 END:VEVENT
 BEGIN:VEVENT
 UID:22677795-2f2a-44c7-96c3-120be6aa304a@viewcy.olio
-DTSTAMP:20260625T151819Z
+DTSTAMP:20260626T144832Z
 DTSTART:20260708T000000Z
 DTEND:20260708T020000Z
 SUMMARY:Olio Read-in: Anne Carson's Eros the Bittersweet
@@ -222,7 +185,7 @@ URL:https://www.viewcy.com/event/olio_readin_anne_ca
 END:VEVENT
 BEGIN:VEVENT
 UID:bd0d0a05-4b74-44cc-a076-2ecd6b9de179@viewcy.olio
-DTSTAMP:20260625T151819Z
+DTSTAMP:20260626T144832Z
 DTSTART:20260721T233000Z
 DTEND:20260722T013000Z
 SUMMARY:Olio Read-in: Kafka's Metamorphosis
@@ -266,7 +229,7 @@ URL:https://www.viewcy.com/event/olio_readin_kafkas
 END:VEVENT
 BEGIN:VEVENT
 UID:fd75e5c0-343e-411d-98b0-a6ce1aad5195@viewcy.olio
-DTSTAMP:20260625T151819Z
+DTSTAMP:20260626T144832Z
 DTSTART:20260801T000000Z
 DTEND:20260801T023000Z
 SUMMARY:EAVESDROPPING: The Erotics of Listening
@@ -315,7 +278,7 @@ URL:https://www.viewcy.com/event/eavesdropping_the_er
 END:VEVENT
 BEGIN:VEVENT
 UID:3833940b-0261-455e-9ca9-68f456a98af1@viewcy.olio
-DTSTAMP:20260625T151819Z
+DTSTAMP:20260626T144832Z
 DTSTART:20260823T000000Z
 DTEND:20260823T040000Z
 SUMMARY:An Olio House Party *Members Only
