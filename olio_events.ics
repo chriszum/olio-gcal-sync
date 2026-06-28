@@ -6,85 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:94c958c5-1255-4dd5-baea-918024427918@viewcy.olio
-DTSTAMP:20260627T140841Z
-DTSTART:20260627T140000Z
-DTEND:20260627T210000Z
-SUMMARY:A Body of Emotions: Full Day Olio Immersive
-DESCRIPTION:“Emotions are not reactions to the world\; they are your cons
- tructions of the world.”— Lisa Feldman BarrettWhat if your emotions we
- ren't wild forces that happen to you\, but creations your body and brain m
- ake together? And what if pain\, rather than something to push past\, was 
- actually trying to tell you something?We’re thrilled to host a full-day 
- Olio Immersive where we will have the chance to get curious about our inne
- r lives\, using both science and embodied awareness as guides. Along the w
- ay\, we'll develop practical tools for understanding how emotions shape ou
- r relationships\, decisions\, and sense of self. By listening more deeply 
- to what’s happening within us we hope to chart a course to be more respo
- nsive and alive to our daily triggers rather than reactive.&nbsp\;Educator
-  and facilitator Margherita Tisato returns for a deep dive that’s part l
- ecture\, part somatic adventure\, and part collective exploration. Blendin
- g insights from neuroscience\, trauma research\, and embodiment practices\
- , we'll explore how emotions are both biology and biography—shaped by ou
- r nervous systems yet uniquely expressed through the lives we live.Togethe
- r\, we'll trace how the brain predicts and constructs what we feel\, what 
- pain science reveals about coping and meaning-making\, and how social norm
- s quietly shape whose emotions get taken seriously and whose get dismissed
- .Through lecture\, gentle inquiry\, and playful experimentation\, we'll le
- arn to listen to the body as a co-author of our emotional stories. Then we
- 'll bring the ideas to life through somatic activities\, guided reflection
- \, and genuine human company.The Olio closes with a collaborative group pr
- oject: a chance to gather what moved through you during the day\, transfor
- m it into something shareable\, and teach it back to the room. We believe 
- one of the best ways to deepen learning is to pass it on.If you've ever fe
- lt at odds with your emotions—or simply want to understand them more dee
- ply—this Olio offers a new map for navigating their terrain.This day is 
- open to any and all curious humans!&nbsp\;Rough sketch of the day: We'll s
- tart the morning with a mix of lectures and interactive discussions on the
-  nature of emotions led by Margherita to set the stage for the day. Breakf
- ast and coffee are included so that you can just show up enjoy.After lunch
- \, we'll narrow our scope a bit and start to explore some of these concept
- s somatically and learn about emotions directly through the body with acti
- vities guided by Margherita.Later in the day\, we'll break into small grou
- ps\, each with a shared challenge or question to explore. This will be our
-  playground for curiosity\, experimentation\, and collective sense-making.
- We'll wrap up the evening by coming back together for a round of group sha
- res and teach-back giving us an opportunity to exchange insights\, learn f
- rom one another\, and practice one of the best ways to deepen understandin
- g: sharing what we've learned.Our Teacher for the Day: Margherita TisatoMa
- rgherita is a performer\, an educator\, a perpetual learner\, and a subtle
-  disruptor.A dancer since childhood and an educator since their teenage ye
- ars\, their offerings now include experiential workshops in anatomy\, pain
-  science\, embodiment\, and trauma theory. Ever the movement enthusiast\, 
- they facilitate a wide range of experiences for groups and individuals\, f
- rom meditation\, yoga\, and somatic movement to dance\, Butoh\, Shibari\, 
- and body suspension. They began teaching in jails and recovery programs in
-  New York City in 2015.In 2019\, they co-founded Temple\, a space in Brook
- lyn dedicated to the exploration of embodiment and community through kink 
- and BDSM. They are also a founding member of All Queens\, an organization 
- providing peer-to-peer support and community for women and gender-expansiv
- e people impacted by the justice system.Margherita has been a guest speake
- r at the University of Nebraska and the Transart Institute Creative Resear
- ch PhD program at Liverpool John Moores University. They have taught dance
-  repertory and technique at Loyola University in Chicago\, Williams Colleg
- e in Massachusetts\, and Ailey Fordham in New York. They also co-authored 
- a paper on embodiment\, new media\, and addiction through the University o
- f Nebraska RDAR program. They live in Brooklyn and are a proud cat lady.Wh
- at Is an Olio?Think Olio is an ongoing experiment in lifelong learning.We 
- are a community of open-minded people who gather to exchange ideas with ne
- w friends and connect over art\, literature\, and philosophy.An Olio is wh
- at we call the social learning events we’ve been organizing since 2015. 
- Not quite a lecture and not quite an open discussion\, an Olio is an intim
- ate\, interactive conversation led by a teacher who loves sharing their pa
- ssions.Our goal is to spark new perspectives\, ignite curiosity\, and enjo
- y ourselves socially—an alternative to typical nightlife options.Photo b
- y Zhi-Da Zhong\n\nTickets & info: https://www.viewcy.com/event/a_body_of_e
- motions_f
-URL:https://www.viewcy.com/event/a_body_of_emotions_f
-END:VEVENT
-BEGIN:VEVENT
 UID:c7b115f1-9ee0-4945-a028-4a4615bd0140@viewcy.olio
-DTSTAMP:20260627T140841Z
+DTSTAMP:20260628T141754Z
 DTSTART:20260701T233000Z
 DTEND:20260702T013000Z
 SUMMARY:Greek Smyrneika: An Immersive Concert Exploring Dance\, Music\, and
@@ -131,7 +54,7 @@ URL:https://www.viewcy.com/event/smyrneika_exploring
 END:VEVENT
 BEGIN:VEVENT
 UID:22677795-2f2a-44c7-96c3-120be6aa304a@viewcy.olio
-DTSTAMP:20260627T140841Z
+DTSTAMP:20260628T141754Z
 DTSTART:20260708T000000Z
 DTEND:20260708T020000Z
 SUMMARY:Olio Read-in: Anne Carson's Eros the Bittersweet
@@ -185,7 +108,7 @@ URL:https://www.viewcy.com/event/olio_readin_anne_ca
 END:VEVENT
 BEGIN:VEVENT
 UID:bd0d0a05-4b74-44cc-a076-2ecd6b9de179@viewcy.olio
-DTSTAMP:20260627T140841Z
+DTSTAMP:20260628T141754Z
 DTSTART:20260721T233000Z
 DTEND:20260722T013000Z
 SUMMARY:Olio Read-in: Kafka's Metamorphosis
@@ -229,7 +152,7 @@ URL:https://www.viewcy.com/event/olio_readin_kafkas
 END:VEVENT
 BEGIN:VEVENT
 UID:fd75e5c0-343e-411d-98b0-a6ce1aad5195@viewcy.olio
-DTSTAMP:20260627T140841Z
+DTSTAMP:20260628T141754Z
 DTSTART:20260801T000000Z
 DTEND:20260801T023000Z
 SUMMARY:EAVESDROPPING: The Erotics of Listening
@@ -278,7 +201,7 @@ URL:https://www.viewcy.com/event/eavesdropping_the_er
 END:VEVENT
 BEGIN:VEVENT
 UID:3833940b-0261-455e-9ca9-68f456a98af1@viewcy.olio
-DTSTAMP:20260627T140841Z
+DTSTAMP:20260628T141754Z
 DTSTART:20260823T000000Z
 DTEND:20260823T040000Z
 SUMMARY:An Olio House Party *Members Only
