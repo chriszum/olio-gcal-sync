@@ -6,55 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:c7b115f1-9ee0-4945-a028-4a4615bd0140@viewcy.olio
-DTSTAMP:20260701T151350Z
-DTSTART:20260701T233000Z
-DTEND:20260702T013000Z
-SUMMARY:Greek Smyrneika: An Immersive Concert Exploring Dance\, Music\, and
-  Memory
-DESCRIPTION:Join us for an immersive evening with Cafe Aman Project x KELEP
- OÚRI\, a collective of musicians and dancers rooted in the Smyrneiko trad
- ition — the music and dances of Asia Minor Greeks\, carried into the dia
- spora and transformed.Infused with a diasporic perspective\, the group bri
- ngs a fresh interpretation to the music and dances of Asia Minor Greeks wh
- ile honoring their cultural origins and embracing contemporary identity. I
- nspired by the historic Café Aman spaces of Asia Minor\, as well as moder
- n rebetika communities in Greece\, London\, and New York\, the collective 
- bridges histories\, cultures\, and identities through performance and coll
- aboration.Dance is central to each performance\, merging body and soul thr
- ough improvisational movement\, fluidity\, and feminine sensuality. Audien
- ces are invited into this shared experience through Tsifteteli and traditi
- onal line dances\, creating a space for connection and release.At its core
- \, the project reflects an evolving shift within NYC’s Greek subcultural
-  spaces: an expansive and unapologetic expression of diasporic identity. T
- heir performances have become communal spaces where people across the dias
- pora can rediscover a sense of home\, belonging\, and cultural continuity.
- Evening Flow7:00 PM — Doors open. Settle in\, grab a drink\, and meet a 
- friend.7:30 PM — The evening begins: an opening set with song-by-song ex
- plorations of the Smyrneiko tradition\, the history of Asia Minor Greeks\,
-  and the music that survived.8:30 PM — A short break with homemade snack
- s and Rose Saffron punch.9:00 PM — Encore: communal line dancing and Tsi
- fteteli.10:00 PM — Last call at the bar as we wind down the evening.This
-  is a standing concert. If you need a seat\, reach out — we'll take care
-  of you.What Is an Olio?Think Olio is an ongoing experiment in lifelong le
- arning. We are a community of open-minded people who gather to exchange id
- eas with new friends and connect over art\, literature\, and philosophy.Ch
- eck out our full calendarOur $30 membership gives you two events for the p
- rice of one!&nbsp\;An Olio is what we call the social learning events we
- ’ve been organizing since 2015. A blend between a lecture and a house pa
- rty\, Olios are led by a teacher who loves sharing their passions and the 
- room is filled with curious\, open-minded New Yorkers.&nbsp\;Our goal is t
- o spark new perspectives\, ignite curiosity\, and enjoy ourselves socially
- —an alternative to typical nightlife options.Disclaimer: By purchasing a
-  ticket\, you agree to have your photo/video used for social media/marketi
- ng materials. If you prefer to not have your photo taken\, feel free to se
- nd us a note. Photo by Zhi-Da Zhong\n\nTickets & info: https://www.viewcy.
- com/event/smyrneika_exploring
-URL:https://www.viewcy.com/event/smyrneika_exploring
-END:VEVENT
-BEGIN:VEVENT
 UID:22677795-2f2a-44c7-96c3-120be6aa304a@viewcy.olio
-DTSTAMP:20260701T151350Z
+DTSTAMP:20260702T143046Z
 DTSTART:20260708T000000Z
 DTEND:20260708T020000Z
 SUMMARY:Olio Read-in: Anne Carson's Eros the Bittersweet
@@ -108,7 +61,7 @@ URL:https://www.viewcy.com/event/olio_readin_anne_ca
 END:VEVENT
 BEGIN:VEVENT
 UID:bd0d0a05-4b74-44cc-a076-2ecd6b9de179@viewcy.olio
-DTSTAMP:20260701T151350Z
+DTSTAMP:20260702T143046Z
 DTSTART:20260721T233000Z
 DTEND:20260722T013000Z
 SUMMARY:Olio Read-in: Kafka's Metamorphosis
@@ -152,7 +105,7 @@ URL:https://www.viewcy.com/event/olio_readin_kafkas
 END:VEVENT
 BEGIN:VEVENT
 UID:fd75e5c0-343e-411d-98b0-a6ce1aad5195@viewcy.olio
-DTSTAMP:20260701T151350Z
+DTSTAMP:20260702T143046Z
 DTSTART:20260801T000000Z
 DTEND:20260801T023000Z
 SUMMARY:EAVESDROPPING: The Erotics of Listening
@@ -201,7 +154,7 @@ URL:https://www.viewcy.com/event/eavesdropping_the_er
 END:VEVENT
 BEGIN:VEVENT
 UID:3833940b-0261-455e-9ca9-68f456a98af1@viewcy.olio
-DTSTAMP:20260701T151350Z
+DTSTAMP:20260702T143046Z
 DTSTART:20260823T000000Z
 DTEND:20260823T040000Z
 SUMMARY:An Olio House Party *Members Only
@@ -230,5 +183,181 @@ DESCRIPTION:Tickets:This is a member celebration!&nbsp\; To attend this par
  your photo taken\, feel free to send us a note.\n\nTickets & info: https:/
  /www.viewcy.com/event/an_olio_house_party_
 URL:https://www.viewcy.com/event/an_olio_house_party_
+END:VEVENT
+BEGIN:VEVENT
+UID:d612cac7-9e7e-4f7b-bae4-b88e6039ccf8@viewcy.olio
+DTSTAMP:20260702T143046Z
+DTSTART:20260913T190000Z
+DTEND:20260913T213000Z
+SUMMARY:The Stories We Inherit: A Four-Week Family Mapping Workshop
+DESCRIPTION:The Stories We Inherit: A Four-Week Family Mapping WorkshopMost
+  of us have a sense that our family history matters. That the people who c
+ ame before us\, and the dynamics between them\, live on in us in ways we f
+ eel but can’t always understand. But few of us have had the chance to lo
+ ok at the nuances of our ancestors' lives and their dynamics closely\, or 
+ to approach our family members with genuine curiosity and ask the question
+ s we've never thought to ask\, or were afraid to. Alongside family systems
+  theory\, emerging research in fields like epigenetics has fueled curiosit
+ y about the many ways the experiences of previous generations may continue
+  to shape our lives today.Over four weeks\, we'll come together as a group
+  and each build a genogram (visual map of our family) in order to deepen o
+ ur understanding of where we come from and the patterns that have shaped u
+ s. The genogram is grounded in family systems theory: the idea that a fami
+ ly isn't a collection of separate individuals\, but an interconnected emot
+ ional unit\, with a rich tapestry of emotional patterns.&nbsp\;Unlike a fa
+ mily tree\, a genogram doesn't just track bloodlines. It captures the emot
+ ional patterns between family members\, the texture of their relationships
+ \, the influence of key events\, and the cultural and systemic forces that
+  have shaped the family over time. As a group\, we’ll learn to read it\,
+  and prepare for real conversations with family members in-between session
+ s.We'll meet as a small group of no more than 15\, guided by Monica Setaru
+ ddin and Kate Hakala — two MFT students who bring their personal practic
+ e and clinical training to this work. As part of their training\, they con
+ structed genograms and bore witness to each other’s stories. They discov
+ ered how historical exploration can lead to personal transformation\, unlo
+ cked curiosity\, and entirely new conversations with their oldest connecti
+ ons. This is a tool typically used by MFT therapists and clients to facili
+ tate relational healing. Seeing the impact it's had on us and the people i
+ n our lives not just as clinicians but as humans\, we're eager to bring it
+  outside the therapy room and into your hands.&nbsp\;This is a shared jour
+ ney of guided self-discovery: a space to learn together through instructiv
+ e sessions\, engage in self-inquiry\, and be in conversation with a small 
+ community doing this work alongside you. While this is not therapy\, the f
+ acilitators will approach your story with the positive regard\, reverence\
+ , and openness it deserves.SessionsFour sessions\, 2.5 hours each\, Sunday
+ s 3–5:30pm\, beginning September 13. A one-week break falls between sess
+ ions 3 and 4 to give participants time to conduct their family interviews 
+ before the group reconvenes.Over four weeks\, you will:Build a personal ge
+ nogram spanning three generations of your familyLearn key concepts from fa
+ mily systems theory in plain\, non-clinical languageIdentify recurring the
+ mes and patterns running through your familyPrepare for and conduct real i
+ nterviews with family member(s)Connect your family story to your present-d
+ ay relationships with yourself and othersWitness and be witnessed in a sma
+ ll\, trust-based communityWhat You'll ReceiveGuided teaching and discussio
+ n: Weekly instruction grounded in family systems theory and relational the
+ rapy\, made accessible in a non-clinical setting.Family map support: Guida
+ nce in building your own genogram across three generations\, with facilita
+ tor support along the way.Small-group learning community: A cohort of no m
+ ore than 15 people\, building relationships and engaging in cross-dialogue
+  over four weeks.Family interview preparation: Tools for initiating and co
+ nducting conversations with family members — how to prepare\, how to han
+ dle what surfaces\, and how to make meaning from what you hear.One-on-one 
+ mentorship: Each participant receives a private conversation with the faci
+ litators to discuss their family map\, themes\, and questions.Weekly take-
+ home exercises: Reflection prompts and exercises to build your family map\
+ , prepare for interviews\, and deepen personal inquiry between sessions.Ab
+ out the TeachersThis series is facilitated by Monica Setaruddin and Kate H
+ akala\, Marriage and Family Therapists in training and rising second-year 
+ students in Iona University's MFT program.Monica SetaruddinMonica is deepl
+ y passionate about family and relational therapy — particularly generati
+ onal patterns\, cultural heritage\, and family lineage as pathways to self
+ -awareness and insight into how we relate to ourselves and others. Her app
+ roach weaves together training in family therapy\, years of personal work 
+ in therapy\, Internal Family Systems\, and somatic and contemplative pract
+ ices\, and twelve years working in global public health understanding how 
+ systemic power and structural inequity shape families and communities.Kate
+  HakalaKate was drawn to the field of relational therapy\, guided by a bel
+ ief that healing happens within context. Her own generational experiences 
+ of family blending and non-traditional caregiving have widened her definit
+ ion of family and fostered her interest in group dynamics. For 15 years\, 
+ she's worked as a writer and editor\, with a focus on connections\, cultur
+ e\, and the issues facing modern relationships. By connecting individuals 
+ to authenticity\, accountability\, and self-compassion\, she is invested i
+ n helping others reauthor their lives.Who This Is ForThis series is open t
+ o anyone curious about better understanding their families and the pattern
+ s running through them. No background in therapy or family systems require
+ d. You don't need to have a "difficult" family story — just a genuine in
+ terest in understanding your own. This is best for people who have the tim
+ e and capacity to engage between sessions. There will be homework: buildin
+ g your family map\, reflecting on what you find\, and reaching out to fami
+ ly members for conversations. The work that happens outside the room will 
+ help guide our sessions each week.&nbsp\;At least one interview with a fam
+ ily member is required for participation.ScholarshipsWe have a small numbe
+ r of scholarship spots available for those facing financial barriers. If c
+ ost is preventing you from participating\, please reach out with a short n
+ ote about why this series would be meaningful for you. Scholarships are of
+ fered on a rolling\, first-come basis.We especially welcome BIPOC individu
+ als and children of immigrants\, recognizing that spaces centering these f
+ amily experiences and histories can be rare.\n\nTickets & info: https://ww
+ w.viewcy.com/event/the_stories_we_inheri
+URL:https://www.viewcy.com/event/the_stories_we_inheri
+END:VEVENT
+BEGIN:VEVENT
+UID:14d0485a-b231-43c2-8400-7e21cc67ef00@viewcy.olio
+DTSTAMP:20260702T143046Z
+DTSTART:20260914T230000Z
+DTEND:20260915T010000Z
+SUMMARY:Calling Up the Inner Chorus: A Four-Night Workshop on Our Inner Cri
+ tics\, Allies\, and Creative Callings
+DESCRIPTION:Do you sense that something creative is trying to emerge in you
+ r life? Perhaps there's a project you've been imagining\, a practice you'd
+  like to begin\, a change you're considering\, or simply a desire to bring
+  more creative purpose and expression into your life? Are you an artist al
+ ready pursuing a creative career\, but feel passive or reactive\, and long
+  to direct your creative life more powerfully?Wherever you are in your cre
+ ative journey\, for many people — and especially for artists — the mom
+ ent they begin to clarify a creative aspiration or imagine a different fut
+ ure for themselves\, another voice quickly takes center stage: the inner c
+ ritic.Perhaps you've heard this voice too:"I'm too lazy." "I'm not talente
+ d enough." "I'm too old to start." "I'll never\, I can't\, I won't..."When
+  these critical voices arise (which is a completely normal part of the cre
+ ative process)\, our instinct is often to fight them\, silence them\, or s
+ urrender to them altogether. A quick survey of popular self-help and inner
+  critic workshops suggests that this is the standard response: tame the in
+ ner critic\, overcome the inner critic\, banish it\, erase it.In this four
+ -session Olio\, we'll take a different approach.Drawing from Jungian psych
+ ology\, folklore and mythology\, coaching\, and creativity studies\, we'll
+  get curious about the critical voices that accompany creative life. Rathe
+ r than trying to conquer these parts\, we'll explore how we might understa
+ nd\, engage with\, and in some cases\, collaborate with them.As we do so\,
+  we may even discover that the very capacities we cultivate as artists and
+  creative people are the very tools we need to respond to and work creativ
+ ely with these voices\, even uncovering new creative possibilities along t
+ he way.We'll also broaden our perspective beyond the inner critic to explo
+ re the larger chorus of voices within us — some quieter\, yet supportive
+  and wise. How might we recognize and enlist these inner allies as we purs
+ ue creative work\, set meaningful goals\, and build a rich and fulfilling 
+ creative life?Through playful exploration — not therapy\, and not self-i
+ mprovement so much as a kind of creative detective work — we'll investig
+ ate this inner chorus and develop a more dynamic relationship with our inn
+ er world. Participants will leave with greater clarity\, renewed creative 
+ momentum\, and practical tools for moving more confidently toward a creati
+ ve calling.Sessions Four sessions\, Mondays 7:00–9:00pm\, beginning Sept
+ ember 14 at the Olio Lighthouse.Session One: The Mythology of the Inner De
+ mon Learn the origins and archetypal dimensions of the inner critic throug
+ h mythology\, folklore\, and Jungian psychology\, and begin to explore the
+  personal mythologies\, creative belief systems\, and stories we carry.Ses
+ sion Two: Collaborating with Your Inner Critics Discover tools and approac
+ hes for understanding\, engaging\, and working constructively with critica
+ l inner voices.Session Three: Discovering Inner Allies (and Other Voices) 
+ Identify supportive inner figures\, values\, and perspectives that can hel
+ p guide creative work and decision-making.Session Four: Creative Visioning
+  Bring these insights together to clarify a direction and envision the nex
+ t chapter of your creative life.What to ExpectA grounded introduction to J
+ ungian archetypes and shadow workFrameworks drawn from folklore\, mytholog
+ y\, creativity studies\, and coachingGuided exercises and creative practic
+ es designed to make the work personal and accessibleAn approach to visioni
+ ng and goal-setting that recognizes how identity\, social location\, life 
+ circumstances\, and larger cultural contexts shape what feels/is possible 
+ and meaningful for each of usA playful\, exploratory atmosphereOpportuniti
+ es for reflection and conversation within a small groupOur Teacher: Justin
+ e Williams (she/they) Described as "wickedly funny" (SF Gate)\, Justine Wi
+ lliams is an artist\, performer\, filmmaker\, and educator whose work cent
+ ers play\, collaboration\, and social imagination. Since 2013\, Justine ha
+ s been on faculty at the Yale School of Drama\, where they teach acting th
+ rough play and guide interdisciplinary collaboration.A celebrated teacher\
+ , Justine has led workshops internationally and runs The Play Society\, a 
+ roving school and creative lab dedicated to training and new work developm
+ ent through an ethos of play and collaboration. They hold an MFA in Perfor
+ mance and Interactive Media Arts from CUNY/Brooklyn College.Justine's coll
+ aborations include a decade-long creative partnership with Eva Peskin expl
+ oring queer friendship and world-building\, and an ongoing project with ar
+ tist and death doula Kate Muehlmann that invites public engagement with qu
+ estions of death and dying.Their work has been presented and supported by 
+ The Public Theater\, Ars Nova\, The Metropolitan Museum of Art\, Abrons Ar
+ ts Center\, Dixon Place\, New Georges\, Queer|Art\, The Orchard Project\, 
+ and more.\n\nTickets & info: https://www.viewcy.com/event/calling_up_the_i
+ nner
+URL:https://www.viewcy.com/event/calling_up_the_inner
 END:VEVENT
 END:VCALENDAR
