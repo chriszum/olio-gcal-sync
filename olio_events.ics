@@ -7,7 +7,7 @@ X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:bd0d0a05-4b74-44cc-a076-2ecd6b9de179@viewcy.olio
-DTSTAMP:20260709T153608Z
+DTSTAMP:20260710T150426Z
 DTSTART:20260721T233000Z
 DTEND:20260722T013000Z
 SUMMARY:Olio Read-in: Kafka's Metamorphosis
@@ -54,7 +54,7 @@ URL:https://www.viewcy.com/event/olio_readin_kafkas
 END:VEVENT
 BEGIN:VEVENT
 UID:fd75e5c0-343e-411d-98b0-a6ce1aad5195@viewcy.olio
-DTSTAMP:20260709T153608Z
+DTSTAMP:20260710T150426Z
 DTSTART:20260801T000000Z
 DTEND:20260801T023000Z
 SUMMARY:EAVESDROPPING: The Erotics of Listening
@@ -103,7 +103,7 @@ URL:https://www.viewcy.com/event/eavesdropping_the_er
 END:VEVENT
 BEGIN:VEVENT
 UID:bc142314-f938-4da9-920d-b6147df7fcd6@viewcy.olio
-DTSTAMP:20260709T153608Z
+DTSTAMP:20260710T150426Z
 DTSTART:20260802T170000Z
 DTEND:20260802T200000Z
 SUMMARY:The Tao of Touch: Cultivating Presence and Attunement
@@ -159,7 +159,7 @@ URL:https://www.viewcy.com/event/the_tao_of_touch_gro
 END:VEVENT
 BEGIN:VEVENT
 UID:0465e382-e4ec-4099-8179-a004c7e2c9d0@viewcy.olio
-DTSTAMP:20260709T153608Z
+DTSTAMP:20260710T150426Z
 DTSTART:20260803T230000Z
 DTEND:20260804T010000Z
 SUMMARY:Intimacy\, Pleasure\, and Joy: A Buddhist take on Relationships
@@ -212,8 +212,36 @@ DESCRIPTION:Good relationships are foundational to a meaningful life and th
 URL:https://www.viewcy.com/event/intimacy_pleasure_a
 END:VEVENT
 BEGIN:VEVENT
+UID:81ea5734-cca8-4bc3-9eec-b3bd3f83f29e@viewcy.olio
+DTSTAMP:20260710T150426Z
+DTSTART:20260806T233000Z
+DTEND:20260807T013000Z
+SUMMARY:Wines of Eastern Europe: Cultural History Through the Senses
+DESCRIPTION:An Evening of Culture and the Senses through Wine&nbsp\;Georgia
+  — the so-called Cradle of Wine — has treated wine as a sacred substan
+ ce for nearly 8\,000 years. Join us for a guided wine tasting social at th
+ e Lighthouse\, an evening that travels deep into Eastern Europe and into a
+ ncient stories that are still very much alive.&nbsp\;Tonight\, under the g
+ uidance of educator Sam Hewiit\, we'll treat wine as a medium. Viewed in t
+ his way\, wine carries cultural history directly to the senses. Together\,
+  we'll explore the mystic and cultural origins of wines from Georgia\, Slo
+ venia and Hungary while talking and sharing about what we discover when we
+  pair the delight of these wines with learning for an all encompassing exp
+ erience.We'll explore:The birthplace of wineWine as the meeting point betw
+ een gods and humansCultural preservation across millenniaHow lessons of in
+ dependence and resistance speak to our world todayThe evening opens with a
+ n intimate hour of guided tasting in small groups. Then we open it up — 
+ a wine-fueled social hour to keep the conversation going.Educator Sam Hewi
+ tt will guide us through the history\, myth\, and mysticism surrounding th
+ ese remarkable cultures and their connection to wine.&nbsp\; Wine and snac
+ ks included in the ticket price. Resources provided: where to buy Georgian
+  wine and tasting notes from the evening.\n\nTickets & info: https://www.v
+ iewcy.com/event/wines_of_eastern_euro
+URL:https://www.viewcy.com/event/wines_of_eastern_euro
+END:VEVENT
+BEGIN:VEVENT
 UID:3833940b-0261-455e-9ca9-68f456a98af1@viewcy.olio
-DTSTAMP:20260709T153608Z
+DTSTAMP:20260710T150426Z
 DTSTART:20260823T000000Z
 DTEND:20260823T040000Z
 SUMMARY:An Olio House Party: DJ & Curated Conversations
@@ -222,29 +250,29 @@ DESCRIPTION:What to expect:8pm: You're matched with new friends to discuss
  we dance our asses off until he winds down the evening with an ambient set
  . Then\, we'll stretch and have tea because we love our bodies.Tickets:To 
  attend this party you can buy a ticket or sign up for our monthly membersh
- ip which gives you 2 free events each month.What is Think Olio?Think Olio 
- is an ongoing experiment in lifelong learning. We are a community of open-
- minded people who gather to exchange ideas with new friends and connect ov
- er art\, literature\, and philosophy.An Olio is what we call the social le
- arning events we’ve been organizing since 2015. A blend between a lectur
- e and a house party\, Olios are led by a teacher who loves sharing their p
- assions and the room is filled with curious\, open-minded New Yorkers.&nbs
- p\;Eight months into creating a venue\, one of our favorite feelings has b
- een the moments where we’ve stepped outside of time. We’ve created a s
- pace where conversations don’t feel rushed\, people are greeted with hug
- s\, and as a community\, we spontaneously come up with new ideas (like the
-  dial-up-disco house party) and bring them to life.Our goal is to spark ne
- w perspectives\, ignite curiosity\, and enjoy ourselves socially—an alte
- rnative to typical nightlife options.Check out our full calendarDisclaimer
- : By purchasing a ticket\, you agree to have your photo/video used for soc
- ial media/marketing materials. If you prefer to not have your photo taken\
- , feel free to send us a note.\n\nTickets & info: https://www.viewcy.com/e
- vent/olio_house_party
+ ip which gives you 2 free events each month.You must be 21 or older to att
+ end.What is Think Olio?Think Olio is an ongoing experiment in lifelong lea
+ rning. We are a community of open-minded people who gather to exchange ide
+ as with new friends and connect over art\, literature\, and philosophy.An 
+ Olio is what we call the social learning events we’ve been organizing si
+ nce 2015. A blend between a lecture and a house party\, Olios are led by a
+  teacher who loves sharing their passions and the room is filled with curi
+ ous\, open-minded New Yorkers.&nbsp\;Eight months into creating a venue\, 
+ one of our favorite feelings has been the moments where we’ve stepped ou
+ tside of time. We’ve created a space where conversations don’t feel ru
+ shed\, people are greeted with hugs\, and as a community\, we spontaneousl
+ y come up with new ideas (like the dial-up-disco house party) and bring th
+ em to life.Our goal is to spark new perspectives\, ignite curiosity\, and 
+ enjoy ourselves socially—an alternative to typical nightlife options.Che
+ ck out our full calendarDisclaimer: By purchasing a ticket\, you agree to 
+ have your photo/video used for social media/marketing materials. If you pr
+ efer to not have your photo taken\, feel free to send us a note.\n\nTicket
+ s & info: https://www.viewcy.com/event/olio_house_party
 URL:https://www.viewcy.com/event/olio_house_party
 END:VEVENT
 BEGIN:VEVENT
 UID:d612cac7-9e7e-4f7b-bae4-b88e6039ccf8@viewcy.olio
-DTSTAMP:20260709T153608Z
+DTSTAMP:20260710T150426Z
 DTSTART:20260913T190000Z
 DTEND:20260913T213000Z
 SUMMARY:The Stories We Inherit: A Four-Week Family Mapping Workshop
@@ -342,7 +370,7 @@ URL:https://www.viewcy.com/event/the_stories_we_inheri
 END:VEVENT
 BEGIN:VEVENT
 UID:14d0485a-b231-43c2-8400-7e21cc67ef00@viewcy.olio
-DTSTAMP:20260709T153608Z
+DTSTAMP:20260710T150426Z
 DTSTART:20260914T230000Z
 DTEND:20260915T010000Z
 SUMMARY:Calling Up the Inner Chorus: A Four-Night Workshop on Our Inner Cri
