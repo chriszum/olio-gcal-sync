@@ -7,7 +7,7 @@ X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:bd0d0a05-4b74-44cc-a076-2ecd6b9de179@viewcy.olio
-DTSTAMP:20260716T142537Z
+DTSTAMP:20260717T140525Z
 DTSTART:20260721T233000Z
 DTEND:20260722T013000Z
 SUMMARY:Olio Read-in: Kafka's Metamorphosis
@@ -54,7 +54,7 @@ URL:https://www.viewcy.com/event/olio_readin_kafkas
 END:VEVENT
 BEGIN:VEVENT
 UID:fd75e5c0-343e-411d-98b0-a6ce1aad5195@viewcy.olio
-DTSTAMP:20260716T142537Z
+DTSTAMP:20260717T140525Z
 DTSTART:20260801T000000Z
 DTEND:20260801T023000Z
 SUMMARY:EAVESDROPPING: The Erotics of Listening
@@ -103,7 +103,7 @@ URL:https://www.viewcy.com/event/eavesdropping_the_er
 END:VEVENT
 BEGIN:VEVENT
 UID:bc142314-f938-4da9-920d-b6147df7fcd6@viewcy.olio
-DTSTAMP:20260716T142537Z
+DTSTAMP:20260717T140525Z
 DTSTART:20260802T170000Z
 DTEND:20260802T200000Z
 SUMMARY:The Tao of Touch: Cultivating Presence and Attunement
@@ -159,7 +159,7 @@ URL:https://www.viewcy.com/event/the_tao_of_touch_gro
 END:VEVENT
 BEGIN:VEVENT
 UID:0465e382-e4ec-4099-8179-a004c7e2c9d0@viewcy.olio
-DTSTAMP:20260716T142537Z
+DTSTAMP:20260717T140525Z
 DTSTART:20260803T230000Z
 DTEND:20260804T010000Z
 SUMMARY:Intimacy\, Pleasure\, and Joy: A Buddhist take on Relationships
@@ -213,7 +213,7 @@ URL:https://www.viewcy.com/event/intimacy_pleasure_a
 END:VEVENT
 BEGIN:VEVENT
 UID:81ea5734-cca8-4bc3-9eec-b3bd3f83f29e@viewcy.olio
-DTSTAMP:20260716T142537Z
+DTSTAMP:20260717T140525Z
 DTSTART:20260806T233000Z
 DTEND:20260807T013000Z
 SUMMARY:Wines of Eastern Europe: Cultural History Through the Senses
@@ -244,7 +244,7 @@ URL:https://www.viewcy.com/event/wines_of_eastern_euro
 END:VEVENT
 BEGIN:VEVENT
 UID:58c92b74-bd9f-4b99-af43-045159e39323@viewcy.olio
-DTSTAMP:20260716T142537Z
+DTSTAMP:20260717T140525Z
 DTSTART:20260813T233000Z
 DTEND:20260814T020000Z
 SUMMARY:Creative Music Night: Spirit Sounds for the Community
@@ -264,7 +264,7 @@ URL:https://www.viewcy.com/event/creative_music_night
 END:VEVENT
 BEGIN:VEVENT
 UID:3833940b-0261-455e-9ca9-68f456a98af1@viewcy.olio
-DTSTAMP:20260716T142537Z
+DTSTAMP:20260717T140525Z
 DTSTART:20260823T000000Z
 DTEND:20260823T040000Z
 SUMMARY:An Olio House Party: DJ & Curated Conversations
@@ -295,7 +295,7 @@ URL:https://www.viewcy.com/event/olio_house_party
 END:VEVENT
 BEGIN:VEVENT
 UID:d612cac7-9e7e-4f7b-bae4-b88e6039ccf8@viewcy.olio
-DTSTAMP:20260716T142537Z
+DTSTAMP:20260717T140525Z
 DTSTART:20260913T190000Z
 DTEND:20260913T213000Z
 SUMMARY:The Stories We Inherit: A Four-Week Family Mapping Workshop
@@ -393,7 +393,7 @@ URL:https://www.viewcy.com/event/the_stories_we_inheri
 END:VEVENT
 BEGIN:VEVENT
 UID:14d0485a-b231-43c2-8400-7e21cc67ef00@viewcy.olio
-DTSTAMP:20260716T142537Z
+DTSTAMP:20260717T140525Z
 DTSTART:20260914T230000Z
 DTEND:20260915T010000Z
 SUMMARY:Calling Up the Inner Chorus: Four Weeks on Our Inner Critics\, Alli
@@ -470,36 +470,46 @@ DESCRIPTION:Do you sense that something creative is trying to emerge in you
 URL:https://www.viewcy.com/event/calling_up_the_inner
 END:VEVENT
 BEGIN:VEVENT
-UID:59084ff4-aa65-4e9c-adf3-382374f1f5f2@viewcy.olio
-DTSTAMP:20260716T142537Z
+UID:77ea2d67-f7f9-430c-bdd4-5d186bcd106e@viewcy.olio
+DTSTAMP:20260717T140525Z
 DTSTART:20261006T230000Z
 DTEND:20261007T010000Z
-SUMMARY:Different Cultures\, Same Subconscious: What Fairy Tales and Myth R
- eveal About the Mind
-DESCRIPTION:Big bad wolf. Evil stepmother. Poisoned apple. Doors that shoul
- d not be opened. These enchanting archetypes inhabit the world of fairy ta
- les and appear in our nightmares\, superstitions\, and doodles. Freud and 
- Jung viewed these persistent archetypes as products of universal anxieties
-  and desires\, making fairy tales a precious window into the human psyche.
-  A close re-reading of them allows for a minimally invasive procedure to i
- nvestigate and potentially heal our traumas.In this four-part Olio\, Dina 
- Odnopozova (PhD Yale\, professor at Baruch) draws on Freud and Jung to exp
- lore why humans have been telling the same stories and dreaming the same d
- reams for centuries. Each class focuses on a single archetypal plot in its
-  European and non-European variations.In each session we will read a fairy
- tale\, learn about it's context and discuss the implications for our daily
-  lives and how these stories can reveal and help us articulate our own sub
- conscious.&nbsp\;SessionsFour sessions\, Tuesdays 7pm-9pm\, starting Octob
- er 6\, 13\, 20\, 27 at the Olio Lighthouse.Class One: Don't Wear Red! — 
- Little Red Riding HoodA coming-of-age tale about innocence\, stranger-dang
- er and victim-blaming.Class Two: Don't Eat Random Apples! — Snow WhiteA 
- dark tale of envy\, aging\, beauty obsession and necrophilia. &nbsp\;Class
-  Three: Don't Trust Your Parents! — Hansel and GretelA fairy tale that t
- aps into our fundamental fear: being abandoned by the people meant to prot
- ect us.Class Four: Don't Ignore Red Flags! — BluebeardInspired by a noto
- rious wife-killer\, this chilling tale asks an enduring question: is bliss
- ful ignorance better than painful truth?\n\nTickets & info: https://www.vi
- ewcy.com/event/freud_jung__fairy_t
-URL:https://www.viewcy.com/event/freud_jung__fairy_t
+SUMMARY:Horny Gods\, Lying Heroes: Four Weeks Inside The Odyssey
+DESCRIPTION:Even before the first trailers dropped\, the movie became an ap
+ ple of discord that stirred polarizing debates about race\, identity\, gen
+ der\, otherness\, appropriation\, ownerships and possession. This media Tr
+ ojan war touches upon the very questions raised by the original epic: What
+  does it mean to be away from home? What is home? What makes one an outsid
+ er? How does one treat a stranger according to the laws of hospitality? Ho
+ w does one treat a stranger if he is a “barbarian”? Or a monster? What
+  is a monster? And what's up with all the terrifying female monsters that 
+ haunt Odysseus?&nbsp\;Homer frequently called Odysseus polymetis—a word 
+ that has troubled translators for centuries. It has been rendered as "inge
+ nious\," "multitalented\," "crafty-minded\," and "skilled in all ways of c
+ ontriving.” Looking past the heroic status Odysseus has accumulated over
+  millennia\, the most accurate modern translation of this epithet might ju
+ st be a "lying asshole." While his faithful wife Penelope weaves and unwea
+ ves a shroud to delay remarriage\, Odysseus weaves endless stories out of 
+ lies and tricks. He spends his journey cheating on his wife\, breaking and
+  entering\, stealing cheese from mythical beasts\, gaslighting his crew un
+ til they all die\, and acting like a privileged brat all along. So\, what 
+ makes him one of the most popular heroes of all time? Why does his story s
+ till capture our cultural imagination\, as evidenced by the massive craze 
+ surrounding Christopher Nolan’s adaptation?In this four-part Olio\, Dina
+  Odnopozova (PhD Yale\, professor at Baruch)&nbsp\; will approach the Odys
+ sey as a vast encyclopedia of ancient knowledge. We will delve in its soci
+ al mores\, traditions\, debates\, prejudices\, laws\, etymologies\, meals\
+ , rituals\, maps and horny gods. While the epic describes a distant cultur
+ e\, it also contains a repository of psychological archetypes that we enco
+ unter in our nightmares and individual journeys: apples of discord that pr
+ ey on our vanity\, cyclopes who threaten us with sheer otherness\, green h
+ erbs and beautiful strangers that make us forget the way home.&nbsp\;Sessi
+ onsFour sessions\, Tuesdays 7pm-9pm\, starting October 6\, 13\, 20\, 27 at
+  the Olio Lighthouse.Each class focuses on a single section of The Odyssey
+ . You are encouraged to read each section prior to class.Telemachy (Books 
+ I–IV)\, Wanderings (Books V–XII)\, Homecoming (Books XIII–XIX) and V
+ engeance (Books XX–XXIV).\n\nTickets & info: https://www.viewcy.com/even
+ t/odyssey
+URL:https://www.viewcy.com/event/odyssey
 END:VEVENT
 END:VCALENDAR
