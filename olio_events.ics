@@ -7,7 +7,7 @@ X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:bd0d0a05-4b74-44cc-a076-2ecd6b9de179@viewcy.olio
-DTSTAMP:20260718T135210Z
+DTSTAMP:20260719T135551Z
 DTSTART:20260721T233000Z
 DTEND:20260722T013000Z
 SUMMARY:Olio Read-in: Kafka's Metamorphosis
@@ -53,8 +53,47 @@ DESCRIPTION:"As Gregor Samsa awoke one morning from uneasy dreams he found
 URL:https://www.viewcy.com/event/olio_readin_kafkas
 END:VEVENT
 BEGIN:VEVENT
+UID:cfed62ef-3267-4a45-83ec-0d89ba793820@viewcy.olio
+DTSTAMP:20260719T135551Z
+DTSTART:20260729T230000Z
+DTEND:20260730T010000Z
+SUMMARY:IMAGINARY CREATURES: A Variety Show Hosted by Pinc Louds
+DESCRIPTION:Can a cockroach feel loneliness? Can a mime find love? For one 
+ strange\, beautiful night\, step into a variety show about existential dre
+ ad\, wonder\, absurdity\, and the small miracles of being alive.&nbsp\;A n
+ ight of drag\, mime\, and comedy theater hosted by Pinc Louds\, the self-p
+ roclaimed "imaginary band" that turned NYC subway busking into sold-out sh
+ ows at (le) Poisson Rouge\, Market Hotel\, and Joe's Pub.Pinc Louds Fronte
+ d by Claudi (all pronouns)\, Pinc Louds blends punk energy\, crooner balla
+ dry\, and Afro-Caribbean rhythm into shows built around giant puppets made
+  of "magical garbage" and full audience participation. The Village Voice c
+ alled them "NYC's best imaginary band."Roachee\, performed by Adri Tavares
+  A lonely\, genderfluid cockroach at the end of the world — drag bug\, g
+ utter poet\, prophet in exile. A staged excerpt from "Roachee Babee!\," a 
+ one-roach operetta about loving too hard and surviving too long.Noah Koski
+  A very confident amateur mime on an unhinged quest for love.Julian Kleppe
+ r Abstract comedy theater: Suckle of Life.And more to be announced.The eve
+ ning flow:&nbsp\;7pm - Doors open\, grab a drink and get settled&nbsp\;7:3
+ 0pm - Variety Show Begins8:15pm - Intermission8:30pm - Variety Show Contin
+ ues9:15-10:30pm - Mingling at the LighthouseWhat Is an Olio?Think Olio is 
+ an ongoing experiment in lifelong learning. We are a community of open-min
+ ded people who gather to exchange ideas with new friends and connect over 
+ art\, literature\, and philosophy.Check out our full calendarOur $30 membe
+ rship gives you two events for the price of one!&nbsp\;An Olio is what we 
+ call the social learning events we’ve been organizing since 2015. A blen
+ d between a lecture and a house party\, Olios are led by a teacher who lov
+ es sharing their passions and the room is filled with curious\, open-minde
+ d New Yorkers.&nbsp\;Our goal is to spark new perspectives\, ignite curios
+ ity\, and enjoy ourselves socially offering an alternative to typical nigh
+ tlife options.Disclaimer: By purchasing a ticket\, you agree to have your 
+ photo/video used for social media/marketing materials. If you prefer to no
+ t have your photo taken\, feel free to send us a note.Photo by Zhi-Da Zhon
+ g\n\nTickets & info: https://www.viewcy.com/event/imaginary_creatures
+URL:https://www.viewcy.com/event/imaginary_creatures
+END:VEVENT
+BEGIN:VEVENT
 UID:fd75e5c0-343e-411d-98b0-a6ce1aad5195@viewcy.olio
-DTSTAMP:20260718T135210Z
+DTSTAMP:20260719T135551Z
 DTSTART:20260801T000000Z
 DTEND:20260801T023000Z
 SUMMARY:EAVESDROPPING: The Erotics of Listening
@@ -103,7 +142,7 @@ URL:https://www.viewcy.com/event/eavesdropping_the_er
 END:VEVENT
 BEGIN:VEVENT
 UID:bc142314-f938-4da9-920d-b6147df7fcd6@viewcy.olio
-DTSTAMP:20260718T135210Z
+DTSTAMP:20260719T135551Z
 DTSTART:20260802T170000Z
 DTEND:20260802T200000Z
 SUMMARY:The Tao of Touch: Cultivating Presence and Attunement
@@ -159,7 +198,7 @@ URL:https://www.viewcy.com/event/the_tao_of_touch_gro
 END:VEVENT
 BEGIN:VEVENT
 UID:0465e382-e4ec-4099-8179-a004c7e2c9d0@viewcy.olio
-DTSTAMP:20260718T135210Z
+DTSTAMP:20260719T135551Z
 DTSTART:20260803T230000Z
 DTEND:20260804T010000Z
 SUMMARY:Intimacy\, Pleasure\, and Joy: A Buddhist take on Relationships
@@ -213,7 +252,7 @@ URL:https://www.viewcy.com/event/intimacy_pleasure_a
 END:VEVENT
 BEGIN:VEVENT
 UID:81ea5734-cca8-4bc3-9eec-b3bd3f83f29e@viewcy.olio
-DTSTAMP:20260718T135210Z
+DTSTAMP:20260719T135551Z
 DTSTART:20260806T233000Z
 DTEND:20260807T013000Z
 SUMMARY:Wines of Eastern Europe: Cultural History Through the Senses
@@ -244,7 +283,7 @@ URL:https://www.viewcy.com/event/wines_of_eastern_euro
 END:VEVENT
 BEGIN:VEVENT
 UID:58c92b74-bd9f-4b99-af43-045159e39323@viewcy.olio
-DTSTAMP:20260718T135210Z
+DTSTAMP:20260719T135551Z
 DTSTART:20260813T233000Z
 DTEND:20260814T020000Z
 SUMMARY:Creative Music Night: Spirit Sounds for the Community
@@ -264,7 +303,7 @@ URL:https://www.viewcy.com/event/creative_music_night
 END:VEVENT
 BEGIN:VEVENT
 UID:3833940b-0261-455e-9ca9-68f456a98af1@viewcy.olio
-DTSTAMP:20260718T135210Z
+DTSTAMP:20260719T135551Z
 DTSTART:20260823T000000Z
 DTEND:20260823T040000Z
 SUMMARY:An Olio House Party: DJ & Curated Conversations
@@ -295,7 +334,7 @@ URL:https://www.viewcy.com/event/olio_house_party
 END:VEVENT
 BEGIN:VEVENT
 UID:d612cac7-9e7e-4f7b-bae4-b88e6039ccf8@viewcy.olio
-DTSTAMP:20260718T135210Z
+DTSTAMP:20260719T135551Z
 DTSTART:20260913T190000Z
 DTEND:20260913T213000Z
 SUMMARY:The Stories We Inherit: A Four-Week Family Mapping Workshop
@@ -393,7 +432,7 @@ URL:https://www.viewcy.com/event/the_stories_we_inheri
 END:VEVENT
 BEGIN:VEVENT
 UID:14d0485a-b231-43c2-8400-7e21cc67ef00@viewcy.olio
-DTSTAMP:20260718T135210Z
+DTSTAMP:20260719T135551Z
 DTSTART:20260914T230000Z
 DTEND:20260915T010000Z
 SUMMARY:Calling Up the Inner Chorus: Four Weeks on Our Inner Critics\, Alli
@@ -471,7 +510,7 @@ URL:https://www.viewcy.com/event/calling_up_the_inner
 END:VEVENT
 BEGIN:VEVENT
 UID:77ea2d67-f7f9-430c-bdd4-5d186bcd106e@viewcy.olio
-DTSTAMP:20260718T135210Z
+DTSTAMP:20260719T135551Z
 DTSTART:20261006T230000Z
 DTEND:20261007T010000Z
 SUMMARY:Horny Gods\, Lying Heroes: Four Weeks Inside The Odyssey
