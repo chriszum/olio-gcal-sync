@@ -7,7 +7,7 @@ X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:bd0d0a05-4b74-44cc-a076-2ecd6b9de179@viewcy.olio
-DTSTAMP:20260720T143428Z
+DTSTAMP:20260721T142558Z
 DTSTART:20260721T233000Z
 DTEND:20260722T013000Z
 SUMMARY:Olio Read-in: Kafka's Metamorphosis
@@ -54,9 +54,9 @@ URL:https://www.viewcy.com/event/olio_readin_kafkas
 END:VEVENT
 BEGIN:VEVENT
 UID:cfed62ef-3267-4a45-83ec-0d89ba793820@viewcy.olio
-DTSTAMP:20260720T143428Z
-DTSTART:20260729T230000Z
-DTEND:20260730T010000Z
+DTSTAMP:20260721T142558Z
+DTSTART:20260729T233000Z
+DTEND:20260730T013000Z
 SUMMARY:IMAGINARY CREATURES: A Variety Show Hosted by Pinc Louds
 DESCRIPTION:Can a cockroach feel loneliness? Can a mime find love? For one 
  strange\, beautiful night\, step into a variety show about existential dre
@@ -93,7 +93,7 @@ URL:https://www.viewcy.com/event/imaginary_creatures
 END:VEVENT
 BEGIN:VEVENT
 UID:fd75e5c0-343e-411d-98b0-a6ce1aad5195@viewcy.olio
-DTSTAMP:20260720T143428Z
+DTSTAMP:20260721T142558Z
 DTSTART:20260801T000000Z
 DTEND:20260801T023000Z
 SUMMARY:EAVESDROPPING: The Erotics of Listening
@@ -142,7 +142,7 @@ URL:https://www.viewcy.com/event/eavesdropping_the_er
 END:VEVENT
 BEGIN:VEVENT
 UID:bc142314-f938-4da9-920d-b6147df7fcd6@viewcy.olio
-DTSTAMP:20260720T143428Z
+DTSTAMP:20260721T142558Z
 DTSTART:20260802T170000Z
 DTEND:20260802T200000Z
 SUMMARY:The Tao of Touch: Cultivating Presence and Attunement
@@ -198,7 +198,7 @@ URL:https://www.viewcy.com/event/the_tao_of_touch_gro
 END:VEVENT
 BEGIN:VEVENT
 UID:0465e382-e4ec-4099-8179-a004c7e2c9d0@viewcy.olio
-DTSTAMP:20260720T143428Z
+DTSTAMP:20260721T142558Z
 DTSTART:20260803T230000Z
 DTEND:20260804T010000Z
 SUMMARY:Intimacy\, Pleasure\, and Joy: A Buddhist take on Relationships
@@ -252,7 +252,7 @@ URL:https://www.viewcy.com/event/intimacy_pleasure_a
 END:VEVENT
 BEGIN:VEVENT
 UID:81ea5734-cca8-4bc3-9eec-b3bd3f83f29e@viewcy.olio
-DTSTAMP:20260720T143428Z
+DTSTAMP:20260721T142558Z
 DTSTART:20260806T233000Z
 DTEND:20260807T013000Z
 SUMMARY:Wines of Eastern Europe: Cultural History Through the Senses
@@ -283,7 +283,7 @@ URL:https://www.viewcy.com/event/wines_of_eastern_euro
 END:VEVENT
 BEGIN:VEVENT
 UID:58c92b74-bd9f-4b99-af43-045159e39323@viewcy.olio
-DTSTAMP:20260720T143428Z
+DTSTAMP:20260721T142558Z
 DTSTART:20260813T233000Z
 DTEND:20260814T020000Z
 SUMMARY:Creative Music Night: Spirit Sounds for the Community
@@ -303,7 +303,7 @@ URL:https://www.viewcy.com/event/creative_music_night
 END:VEVENT
 BEGIN:VEVENT
 UID:3833940b-0261-455e-9ca9-68f456a98af1@viewcy.olio
-DTSTAMP:20260720T143428Z
+DTSTAMP:20260721T142558Z
 DTSTART:20260823T000000Z
 DTEND:20260823T040000Z
 SUMMARY:An Olio House Party: DJ & Curated Conversations
@@ -334,7 +334,7 @@ URL:https://www.viewcy.com/event/olio_house_party
 END:VEVENT
 BEGIN:VEVENT
 UID:d612cac7-9e7e-4f7b-bae4-b88e6039ccf8@viewcy.olio
-DTSTAMP:20260720T143428Z
+DTSTAMP:20260721T142558Z
 DTSTART:20260913T190000Z
 DTEND:20260913T213000Z
 SUMMARY:The Stories We Inherit: A Four-Week Family Mapping Workshop
@@ -432,7 +432,7 @@ URL:https://www.viewcy.com/event/the_stories_we_inheri
 END:VEVENT
 BEGIN:VEVENT
 UID:14d0485a-b231-43c2-8400-7e21cc67ef00@viewcy.olio
-DTSTAMP:20260720T143428Z
+DTSTAMP:20260721T142558Z
 DTSTART:20260914T230000Z
 DTEND:20260915T010000Z
 SUMMARY:Calling Up the Inner Chorus: Four Weeks on Our Inner Critics\, Alli
@@ -509,8 +509,52 @@ DESCRIPTION:Do you sense that something creative is trying to emerge in you
 URL:https://www.viewcy.com/event/calling_up_the_inner
 END:VEVENT
 BEGIN:VEVENT
+UID:9fefd3ac-8b93-48ae-90cb-846ef9ea3a1e@viewcy.olio
+DTSTAMP:20260721T142558Z
+DTSTART:20260918T000000Z
+DTEND:20260918T013000Z
+SUMMARY:Geography of Weddings: How Ceremonies Tell The Story of Civilizatio
+ n
+DESCRIPTION:Every wedding tells a story—but not just about two people.It
+ ’s a story about family. About religion. About power. About money. About
+  hope. About what a culture believes love is supposed to look like.In this
+  globe-spanning conversation\, we’ll wander through ancient rituals\, mo
+ dern romance\, arranged marriages\, dating apps\, extravagant celebrations
+ \, quiet ceremonies\, and the endlessly fascinating ways humans have tried
+  to answer one impossible question: How do we build a life?Along the way w
+ e’ll explore what weddings reveal about the societies that created them\
+ , how our ideas of love have changed over time\, why relationships seem mo
+ re complicated than ever\, and what all of this might say about where we
+ ’re headed next.This talk will be part geography\, part history\, part p
+ hilosophy and filled with stories from around the world that made us who w
+ e are today.Anup Desai has been an adjunct professor of Geography at The C
+ ollege of Staten Island for 15 years\, he is the founder of Rentah.com the
+  Sharing Economy application\, and a wedding officiant that has presided o
+ ver 30+ weddings across all faiths and sexualities. So if you want to get 
+ married this night he can make it happen!Evening Flow7 PM – Doors open. 
+ Settle in\, grab a drink\, and meet a friend.8 PM – The Olio begins: an 
+ intimate\, interactive lecture and guided exploration.9 PM – We shift in
+ to a social experience\, discussing ideas with others in the room while th
+ e teacher joins and floats between conversations.10 PM - Last call at the 
+ bar and we'll start to wind down the evening.What Is an Olio?Think Olio is
+  an ongoing experiment in lifelong learning. We are a community of open-mi
+ nded people who gather to exchange ideas with new friends and connect over
+  art\, literature\, and philosophy.Check out our full calendarOur $30 memb
+ ership gives you two events for the price of one!&nbsp\;An Olio is what we
+  call the social learning events we’ve been organizing since 2015. A ble
+ nd between a lecture and a house party\, Olios are led by a teacher who lo
+ ves sharing their passions and the room is filled with curious\, open-mind
+ ed New Yorkers.&nbsp\;Our goal is to spark new perspectives\, ignite curio
+ sity\, and enjoy ourselves socially—an alternative to typical nightlife 
+ options.Disclaimer: By purchasing a ticket\, you agree to have your photo/
+ video used for social media/marketing materials. If you prefer to not have
+  your photo taken\, feel free to send us a note.Photo by Zhi-Da Zhong\n\nT
+ ickets & info: https://www.viewcy.com/event/geography_of_weddings
+URL:https://www.viewcy.com/event/geography_of_weddings
+END:VEVENT
+BEGIN:VEVENT
 UID:77ea2d67-f7f9-430c-bdd4-5d186bcd106e@viewcy.olio
-DTSTAMP:20260720T143428Z
+DTSTAMP:20260721T142558Z
 DTSTART:20261006T230000Z
 DTEND:20261007T010000Z
 SUMMARY:Horny Gods\, Lying Heroes: Four Weeks Inside The Odyssey
