@@ -6,55 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:bd0d0a05-4b74-44cc-a076-2ecd6b9de179@viewcy.olio
-DTSTAMP:20260721T142558Z
-DTSTART:20260721T233000Z
-DTEND:20260722T013000Z
-SUMMARY:Olio Read-in: Kafka's Metamorphosis
-DESCRIPTION:"As Gregor Samsa awoke one morning from uneasy dreams he found 
- himself transformed in his bed into a gigantic insect." The enigmatic open
- ing sentence of Kafka's Metamorphosis has been perplexing translators\, in
- spiring illustrators\, and intriguing psychiatrists for over a century. Wh
- at kind of bug is Gregor? Is his transformation a process or a freak accid
- ent? Does his metamorphosis symbolize coming out? Or perils of capitalism?
-  Anticipation of fascism? Body dysmorphia? Bad faith? Disability? Marginal
- ity?In this Olio Read-in\, we will be performing a close reading of Part 1
-  of Metamorphosis. By focusing on minuscule details — linguistic choices
- \, floor plans\, food crumbs — we will enter Kafka's nightmarish univers
- e that is strikingly similar to our own.Olio Read-ins were started by hist
- orian Jamie Warren:"Rooted in the social revolution of the 1960s\, Read-in
- s have always been essential to the political project of building communit
- ies\, and bolstering progressive change. Read-ins announce: We will not re
- main alone\, afraid\, and cut off from one another. No. We will sit side b
- y side and with the support of each other\, we will read. We will learn. W
- e will enrich our inner world so that we can find the courage to exist out
- side of it."Put simply by one of our Olio members: "Read-Ins are like the 
- book club that I actually want to be a part of. It's so much more fun to e
- ngage with these texts as a group and with a teacher than as a solo activi
- ty." &nbsp\;Teacher: Dina Odnopozova Dina Odnopozova holds a PhD from Yale
-  and is a professor at Baruch College\, where her work explores the inters
- ection of literature\, psychology\, and the unconscious. She has led Olios
-  on Freud\, Jung\, and the archetypal grammar of fairy tales — the witch
- es\, wolves\, and forbidden doors that map the human subconscious. In this
-  Read-in\, she brings that same depth of attention to Kafka.What Is an Oli
- o? Think Olio is an ongoing experiment in lifelong learning. We are a comm
- unity of open-minded people who gather to exchange ideas with new friends 
- and connect over art\, literature\, and philosophy. Check out our full cal
- endar Our $30 membership gives you two events for the price of one!An Olio
-  is what we call the social learning events we've been organizing since 20
- 15. A blend between a lecture and a house party\, Olios are led by a teach
- er who loves sharing their passions and the room is filled with curious\, 
- open-minded New Yorkers.Our goal is to spark new perspectives\, ignite cur
- iosity\, and enjoy ourselves socially—an alternative to typical nightlif
- e options.Disclaimer: By purchasing a ticket\, you agree to have your phot
- o/video used for social media/marketing materials. If you prefer to not ha
- ve your photo taken\, feel free to send us a note. Photo by Zhi-Da Zhong\n
- \nTickets & info: https://www.viewcy.com/event/olio_readin_kafkas
-URL:https://www.viewcy.com/event/olio_readin_kafkas
-END:VEVENT
-BEGIN:VEVENT
 UID:cfed62ef-3267-4a45-83ec-0d89ba793820@viewcy.olio
-DTSTAMP:20260721T142558Z
+DTSTAMP:20260722T142633Z
 DTSTART:20260729T233000Z
 DTEND:20260730T013000Z
 SUMMARY:IMAGINARY CREATURES: A Variety Show Hosted by Pinc Louds
@@ -93,7 +46,7 @@ URL:https://www.viewcy.com/event/imaginary_creatures
 END:VEVENT
 BEGIN:VEVENT
 UID:fd75e5c0-343e-411d-98b0-a6ce1aad5195@viewcy.olio
-DTSTAMP:20260721T142558Z
+DTSTAMP:20260722T142633Z
 DTSTART:20260801T000000Z
 DTEND:20260801T023000Z
 SUMMARY:EAVESDROPPING: The Erotics of Listening
@@ -142,7 +95,7 @@ URL:https://www.viewcy.com/event/eavesdropping_the_er
 END:VEVENT
 BEGIN:VEVENT
 UID:bc142314-f938-4da9-920d-b6147df7fcd6@viewcy.olio
-DTSTAMP:20260721T142558Z
+DTSTAMP:20260722T142633Z
 DTSTART:20260802T170000Z
 DTEND:20260802T200000Z
 SUMMARY:The Tao of Touch: Cultivating Presence and Attunement
@@ -198,7 +151,7 @@ URL:https://www.viewcy.com/event/the_tao_of_touch_gro
 END:VEVENT
 BEGIN:VEVENT
 UID:0465e382-e4ec-4099-8179-a004c7e2c9d0@viewcy.olio
-DTSTAMP:20260721T142558Z
+DTSTAMP:20260722T142633Z
 DTSTART:20260803T230000Z
 DTEND:20260804T010000Z
 SUMMARY:Intimacy\, Pleasure\, and Joy: A Buddhist take on Relationships
@@ -252,7 +205,7 @@ URL:https://www.viewcy.com/event/intimacy_pleasure_a
 END:VEVENT
 BEGIN:VEVENT
 UID:81ea5734-cca8-4bc3-9eec-b3bd3f83f29e@viewcy.olio
-DTSTAMP:20260721T142558Z
+DTSTAMP:20260722T142633Z
 DTSTART:20260806T233000Z
 DTEND:20260807T013000Z
 SUMMARY:Wines of Eastern Europe: Cultural History Through the Senses
@@ -283,7 +236,7 @@ URL:https://www.viewcy.com/event/wines_of_eastern_euro
 END:VEVENT
 BEGIN:VEVENT
 UID:58c92b74-bd9f-4b99-af43-045159e39323@viewcy.olio
-DTSTAMP:20260721T142558Z
+DTSTAMP:20260722T142633Z
 DTSTART:20260813T233000Z
 DTEND:20260814T020000Z
 SUMMARY:Creative Music Night: Spirit Sounds for the Community
@@ -303,7 +256,7 @@ URL:https://www.viewcy.com/event/creative_music_night
 END:VEVENT
 BEGIN:VEVENT
 UID:3833940b-0261-455e-9ca9-68f456a98af1@viewcy.olio
-DTSTAMP:20260721T142558Z
+DTSTAMP:20260722T142633Z
 DTSTART:20260823T000000Z
 DTEND:20260823T040000Z
 SUMMARY:An Olio House Party: DJ & Curated Conversations
@@ -334,7 +287,7 @@ URL:https://www.viewcy.com/event/olio_house_party
 END:VEVENT
 BEGIN:VEVENT
 UID:d612cac7-9e7e-4f7b-bae4-b88e6039ccf8@viewcy.olio
-DTSTAMP:20260721T142558Z
+DTSTAMP:20260722T142633Z
 DTSTART:20260913T190000Z
 DTEND:20260913T213000Z
 SUMMARY:The Stories We Inherit: A Four-Week Family Mapping Workshop
@@ -432,7 +385,7 @@ URL:https://www.viewcy.com/event/the_stories_we_inheri
 END:VEVENT
 BEGIN:VEVENT
 UID:14d0485a-b231-43c2-8400-7e21cc67ef00@viewcy.olio
-DTSTAMP:20260721T142558Z
+DTSTAMP:20260722T142633Z
 DTSTART:20260914T230000Z
 DTEND:20260915T010000Z
 SUMMARY:Calling Up the Inner Chorus: Four Weeks on Our Inner Critics\, Alli
@@ -510,7 +463,7 @@ URL:https://www.viewcy.com/event/calling_up_the_inner
 END:VEVENT
 BEGIN:VEVENT
 UID:9fefd3ac-8b93-48ae-90cb-846ef9ea3a1e@viewcy.olio
-DTSTAMP:20260721T142558Z
+DTSTAMP:20260722T142633Z
 DTSTART:20260918T000000Z
 DTEND:20260918T013000Z
 SUMMARY:Geography of Weddings: How Ceremonies Tell The Story of Civilizatio
@@ -554,7 +507,7 @@ URL:https://www.viewcy.com/event/geography_of_weddings
 END:VEVENT
 BEGIN:VEVENT
 UID:77ea2d67-f7f9-430c-bdd4-5d186bcd106e@viewcy.olio
-DTSTAMP:20260721T142558Z
+DTSTAMP:20260722T142633Z
 DTSTART:20261006T230000Z
 DTEND:20261007T010000Z
 SUMMARY:Horny Gods\, Lying Heroes: Four Weeks Inside The Odyssey
