@@ -7,7 +7,7 @@ X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:cfed62ef-3267-4a45-83ec-0d89ba793820@viewcy.olio
-DTSTAMP:20260728T144135Z
+DTSTAMP:20260729T143307Z
 DTSTART:20260729T233000Z
 DTEND:20260730T013000Z
 SUMMARY:IMAGINARY CREATURES: A Variety Show Hosted by Pinc Louds
@@ -46,7 +46,7 @@ URL:https://www.viewcy.com/event/imaginary_creatures
 END:VEVENT
 BEGIN:VEVENT
 UID:fd75e5c0-343e-411d-98b0-a6ce1aad5195@viewcy.olio
-DTSTAMP:20260728T144135Z
+DTSTAMP:20260729T143307Z
 DTSTART:20260801T000000Z
 DTEND:20260801T023000Z
 SUMMARY:EAVESDROPPING: The Erotics of Listening
@@ -95,7 +95,7 @@ URL:https://www.viewcy.com/event/eavesdropping_the_er
 END:VEVENT
 BEGIN:VEVENT
 UID:0465e382-e4ec-4099-8179-a004c7e2c9d0@viewcy.olio
-DTSTAMP:20260728T144135Z
+DTSTAMP:20260729T143307Z
 DTSTART:20260803T230000Z
 DTEND:20260804T010000Z
 SUMMARY:Intimacy\, Pleasure\, and Joy: A Buddhist take on Relationships
@@ -149,38 +149,42 @@ URL:https://www.viewcy.com/event/intimacy_pleasure_a
 END:VEVENT
 BEGIN:VEVENT
 UID:81ea5734-cca8-4bc3-9eec-b3bd3f83f29e@viewcy.olio
-DTSTAMP:20260728T144135Z
+DTSTAMP:20260729T143307Z
 DTSTART:20260806T233000Z
 DTEND:20260807T013000Z
-SUMMARY:Wines of Eastern Europe: Cultural History Through the Senses
-DESCRIPTION:An Evening of Culture and the Senses through Wine&nbsp\;How doe
- s wine globally connect humanity? In partnership with natural wine purveyo
- rs Jenny &amp\; Francois and wine educator Sam Hewitt\, this evening will 
- unfold into a guided wine tasting social that travels deep into Eastern Eu
- rope and into ancient stories that are still very much alive.&nbsp\;Under 
- the guidance of Sam\, we'll treat wine as a medium. Viewed in this way\, w
- ine carries cultural history directly to the senses. Together\, we'll expl
- ore the mystic and cultural origins of wines from Georgia\, Slovenia and H
- ungary while talking and sharing about what we discover when we pair the d
- elight of these wines with learning for an all encompassing experience.The
-  Eurasian continent is home to a diverse array of wine regions outside of 
- what immediately comes to mind for those of us living in the Western hemis
- phere. There is an abundant world of viniculture waiting to be discovered.
-  We’ll explore: &nbsp\;⁃ Lesser known winemaking regions&nbsp\;&nbsp\;
- ⁃ Wine as a vehicle for global exploration&nbsp\;&nbsp\;⁃ Wine as a di
- rect connection to people and place&nbsp\;&nbsp\;⁃ How to utilize taste 
- to evoke and pinpoint emotion&nbsp\;- How lessons of independence and resi
- stance speak to our world todayThe evening opens with an intimate hour of 
- guided tasting in small groups. Then we open it up — a wine-fueled socia
- l hour to keep the conversation going.Wine and snacks included in the tick
- et price. Resources provided: where to buy Eastern European wine and tasti
- ng notes from the evening.\n\nTickets & info: https://www.viewcy.com/event
- /wines_of_eastern_euro
+SUMMARY:Transcendence Through the Senses: Wines of Eastern Europe 
+DESCRIPTION:Over millennia\, wine has served as an emancipator\, a vehicle 
+ for hope and magic\, and a connection to the divine. Through topics of rit
+ ual\, resistance and mysticism we will explore the many aspects of wine be
+ yond our surface level experience of popping a bottle open at dinner (alth
+ ough that's a part of the story too!) and learn about the ways wine has co
+ nnected humans throughout time. &nbsp\;In partnership with natural wine pu
+ rveyors Jenny &amp\; Francois and wine educator Sam Hewitt\, this evening 
+ will unfold into a guided wine tasting social that travels deep into Easte
+ rn Europe and into ancient stories that are still very much alive.&nbsp\;U
+ nder the guidance of Sam\, we'll treat wine as a medium. Viewed in this wa
+ y\, wine carries cultural history directly to the senses. Together\, we'll
+  explore the mystic and cultural origins of wines from Georgia\, Slovenia 
+ and Hungary while talking and sharing about what we discover when we pair 
+ the delight of these wines with learning for an all encompassing experienc
+ e.The Eurasian continent is home to a diverse array of wine regions outsid
+ e of what immediately comes to mind for those of us living in the Western 
+ hemisphere. There is an abundant world of viniculture waiting to be discov
+ ered. We’ll explore: &nbsp\;⁃ Lesser known winemaking regions&nbsp\;&n
+ bsp\;⁃ Wine as a vehicle for global exploration&nbsp\;&nbsp\;⁃ Wine as
+  a direct connection to people and place&nbsp\;&nbsp\;⁃ How to utilize t
+ aste to evoke and pinpoint emotion&nbsp\;- How lessons of independence and
+  resistance speak to our world todayThe evening opens with an intimate hou
+ r of guided tasting in small groups. Then we open it up — a wine-fueled 
+ social hour to keep the conversation going.Wine and snacks included in the
+  ticket price. Resources provided: where to buy Eastern European wine and 
+ tasting notes from the evening.\n\nTickets & info: https://www.viewcy.com/
+ event/wines_of_eastern_euro
 URL:https://www.viewcy.com/event/wines_of_eastern_euro
 END:VEVENT
 BEGIN:VEVENT
 UID:bc142314-f938-4da9-920d-b6147df7fcd6@viewcy.olio
-DTSTAMP:20260728T144135Z
+DTSTAMP:20260729T143307Z
 DTSTART:20260810T230000Z
 DTEND:20260811T013000Z
 SUMMARY:The Tao of Touch: Cultivating Presence and Attunement
@@ -236,7 +240,7 @@ URL:https://www.viewcy.com/event/the_tao_of_touch_gro
 END:VEVENT
 BEGIN:VEVENT
 UID:58c92b74-bd9f-4b99-af43-045159e39323@viewcy.olio
-DTSTAMP:20260728T144135Z
+DTSTAMP:20260729T143307Z
 DTSTART:20260813T233000Z
 DTEND:20260814T020000Z
 SUMMARY:Creative Music Night: Spirit Sounds for the Community
@@ -256,62 +260,64 @@ URL:https://www.viewcy.com/event/creative_music_night
 END:VEVENT
 BEGIN:VEVENT
 UID:5293120c-3086-4223-a010-d9f00718219c@viewcy.olio
-DTSTAMP:20260728T144135Z
+DTSTAMP:20260729T143307Z
 DTSTART:20260818T233000Z
 DTEND:20260819T010000Z
 SUMMARY:Olio Read-in: Camus' The Myth of Sisyphus
 DESCRIPTION:What gives your life meaning? What gets you out of bed each mor
- ning? Sisyphus does not have the luxury of asking—or answering—these q
- uestions. Condemned by the gods to push a massive boulder up a mountain\, 
- only to watch it roll back down each time he reaches the summit\, he begin
- s again every day. Up and down\, over and over—for eternity.Sisyphus' pu
- nishment feels surprisingly familiar. We wake up\, commute to work\, consu
- me things we know aren't good for us\, count down the hours until the work
- day ends\, scroll endlessly on the ride home\, and then repeat the same ro
- utine the next morning. Why?If life offers no inherent meaning\, if succes
- s\, progress\, and happiness remain perpetually out of reach\, why get up 
- at all? How do we face the universe's indifference? Is it possible to find
-  joy\, or even freedom\, in the endless repetition of ordinary life? These
-  are the questions Sisyphus invites us to confront.In this Olio Read-In\, 
- Dina Odnopozova (PhD\, Yale\; Professor at Baruch College) will explore Al
- bert Camus' The Myth of Sisyphus as both an introduction to existentialist
-  philosophy and a practical guide to living. Together\, we'll grapple with
-  questions that are at once profoundly difficult and surprisingly simple: 
- What makes life meaningful? And how can we create meaning in a world that 
- offers no easy answers?Olio Read-ins were started by historian Jamie Warre
- n:"Rooted in the social revolution of the 1960s\, Read-ins have always bee
- n essential to the political project of building communities\, and bolster
- ing progressive change. Read-ins announce: We will not remain alone\, afra
- id\, and cut off from one another. No. We will sit side by side and with t
- he support of each other\, we will read. We will learn. We will enrich our
-  inner world so that we can find the courage to exist outside of it."Put s
- imply by one of our Olio members: "Read-Ins are like the book club that I 
- actually want to be a part of. It's so much more fun to engage with these 
- texts as a group and with a teacher than as a solo activity." &nbsp\;Teach
- er: Dina Odnopozova Dina Odnopozova holds a PhD from Yale and is a profess
- or at Baruch College\, where her work explores the intersection of literat
- ure\, psychology\, and the unconscious. She has led Olios on Freud\, Jung\
- , and the archetypal grammar of fairy tales — the witches\, wolves\, and
-  forbidden doors that map the human subconscious. In this Read-in\, she br
- ings that same depth of attention to Camus.Think Olio is an ongoing experi
- ment in lifelong learning. We are a community of open-minded people who ga
- ther to exchange ideas with new friends and connect over art\, literature\
- , and philosophy. Check out our full calendar Our $30 membership gives you
-  two events for the price of one!An Olio is what we call the social learni
- ng events we've been organizing since 2015. A blend between a lecture and 
- a house party\, Olios are led by a teacher who loves sharing their passion
- s and the room is filled with curious\, open-minded New Yorkers.Our goal i
- s to spark new perspectives\, ignite curiosity\, and enjoy ourselves socia
- lly—an alternative to typical nightlife options.Disclaimer: By purchasin
- g a ticket\, you agree to have your photo/video used for social media/mark
- eting materials. If you prefer to not have your photo taken\, feel free to
-  send us a note. Photo by Zhi-Da Zhong\n\nTickets & info: https://www.view
- cy.com/event/olio_readin_camus
+ ning? What informs your choice to get up: obligations? Family? Coffee? Pur
+ suit of Happiness? Sisyphus does not have the luxury of asking—or answer
+ ing—these questions. Condemned by the gods to push a boulder up a mounta
+ in\, only to watch it roll back down\, Sisyphus continues his journey: day
+  in and day out\, up and down\, over and over—for eternity.Sisyphus' lot
+  is terrible because it is eerily familiar. Day in and day out\, we snooze
+  our alarms\, suffer the commute\, consume things we know aren't good for 
+ us\, count down the hours until the workday ends\, scroll mindlessly\, and
+  then do it all over again the next day. Why? If life is a routine that of
+ fers no inherent meaning\; if the success\, progress\, and happiness we pu
+ rsue are out of reach\, why get up? Why not end the ordeal? Why not deceiv
+ e ourselves into believing that there is a higher purpose to our suffering
+ s?&nbsp\;These are the questions Sisyphus invites us to confront.In this O
+ lio Read-In\, Dina Odnopozova (PhD\, Yale\; Professor at Baruch College) w
+ ill explore Albert Camus' “The Myth of Sisyphus” as a user’s manual 
+ to life and an introduction to existentialist philosophy. Together\, we'll
+  grapple with questions that are at once profoundly difficult and surprisi
+ ngly simple: What makes life meaningful? How can we create meaning in the 
+ meaningless world? And is it possible to be happy in the universe that is 
+ indifferent to our predicaments?&nbsp\;Olio Read-ins were started by histo
+ rian Jamie Warren:"Rooted in the social revolution of the 1960s\, Read-ins
+  have always been essential to the political project of building communiti
+ es\, and bolstering progressive change. Read-ins announce: We will not rem
+ ain alone\, afraid\, and cut off from one another. No. We will sit side by
+  side and with the support of each other\, we will read. We will learn. We
+  will enrich our inner world so that we can find the courage to exist outs
+ ide of it."Put simply by one of our Olio members: "Read-Ins are like the b
+ ook club that I actually want to be a part of. It's so much more fun to en
+ gage with these texts as a group and with a teacher than as a solo activit
+ y." &nbsp\;Teacher: Dina Odnopozova Dina Odnopozova holds a PhD from Yale 
+ and is a professor at Baruch College\, where her work explores the interse
+ ction of literature\, psychology\, and the unconscious. She has led Olios 
+ on Freud\, Jung\, and the archetypal grammar of fairy tales — the witche
+ s\, wolves\, and forbidden doors that map the human subconscious. In this 
+ Read-in\, she brings that same depth of attention to Camus.Think Olio is a
+ n ongoing experiment in lifelong learning. We are a community of open-mind
+ ed people who gather to exchange ideas with new friends and connect over a
+ rt\, literature\, and philosophy. Check out our full calendar Our $30 memb
+ ership gives you two events for the price of one!An Olio is what we call t
+ he social learning events we've been organizing since 2015. A blend betwee
+ n a lecture and a house party\, Olios are led by a teacher who loves shari
+ ng their passions and the room is filled with curious\, open-minded New Yo
+ rkers.Our goal is to spark new perspectives\, ignite curiosity\, and enjoy
+  ourselves socially—an alternative to typical nightlife options.Disclaim
+ er: By purchasing a ticket\, you agree to have your photo/video used for s
+ ocial media/marketing materials. If you prefer to not have your photo take
+ n\, feel free to send us a note. Photo by Zhi-Da Zhong\n\nTickets & info: 
+ https://www.viewcy.com/event/olio_readin_camus
 URL:https://www.viewcy.com/event/olio_readin_camus
 END:VEVENT
 BEGIN:VEVENT
 UID:3833940b-0261-455e-9ca9-68f456a98af1@viewcy.olio
-DTSTAMP:20260728T144135Z
+DTSTAMP:20260729T143307Z
 DTSTART:20260823T000000Z
 DTEND:20260823T040000Z
 SUMMARY:An Olio House Party: DJ & Curated Conversations
@@ -342,7 +348,7 @@ URL:https://www.viewcy.com/event/olio_house_party
 END:VEVENT
 BEGIN:VEVENT
 UID:d612cac7-9e7e-4f7b-bae4-b88e6039ccf8@viewcy.olio
-DTSTAMP:20260728T144135Z
+DTSTAMP:20260729T143307Z
 DTSTART:20260913T190000Z
 DTEND:20260913T213000Z
 SUMMARY:The Stories We Inherit: A Four-Week Family Mapping Workshop
@@ -440,7 +446,7 @@ URL:https://www.viewcy.com/event/the_stories_we_inheri
 END:VEVENT
 BEGIN:VEVENT
 UID:14d0485a-b231-43c2-8400-7e21cc67ef00@viewcy.olio
-DTSTAMP:20260728T144135Z
+DTSTAMP:20260729T143307Z
 DTSTART:20260914T230000Z
 DTEND:20260915T010000Z
 SUMMARY:Calling Up the Inner Chorus: Four Weeks on Our Inner Critics\, Alli
@@ -518,7 +524,7 @@ URL:https://www.viewcy.com/event/calling_up_the_inner
 END:VEVENT
 BEGIN:VEVENT
 UID:9fefd3ac-8b93-48ae-90cb-846ef9ea3a1e@viewcy.olio
-DTSTAMP:20260728T144135Z
+DTSTAMP:20260729T143307Z
 DTSTART:20260918T000000Z
 DTEND:20260918T013000Z
 SUMMARY:Geography of Weddings: How Ceremonies Tell The Story of Civilizatio
@@ -562,7 +568,7 @@ URL:https://www.viewcy.com/event/geography_of_weddings
 END:VEVENT
 BEGIN:VEVENT
 UID:77ea2d67-f7f9-430c-bdd4-5d186bcd106e@viewcy.olio
-DTSTAMP:20260728T144135Z
+DTSTAMP:20260729T143307Z
 DTSTART:20261006T230000Z
 DTEND:20261007T010000Z
 SUMMARY:Horny Gods\, Lying Heroes: Four Weeks Inside The Odyssey
