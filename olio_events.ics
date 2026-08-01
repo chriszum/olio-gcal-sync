@@ -6,57 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:fd75e5c0-343e-411d-98b0-a6ce1aad5195@viewcy.olio
-DTSTAMP:20260731T143904Z
-DTSTART:20260801T000000Z
-DTEND:20260801T023000Z
-SUMMARY:EAVESDROPPING: The Erotics of Listening
-DESCRIPTION:Why does overhearing feel so intimate?This Olio explores the st
- range emotional and psychological pleasure of listening to conversations n
- ot meant for us. Moving through the worlds of cinema\, opera\, sound art\,
-  and everyday life\, artist/composer Whitney George examines how listening
-  can become a form of desire\, fantasy\, suspense\, voyeurism\, and partic
- ipation — and why fragmented or partial speech often feels more seductiv
- e than direct access. Part lecture\, part listening session\, and part cul
- tural séance\, The Erotics of Listening asks why voices heard through wal
- ls\, telephones\, recordings\, and overheard moments continue to fascinate
-  us — and what it means to find ourselves emotionally drawn toward priva
- te worlds we were never invited into.Whitney George is a composer\, conduc
- tor\, and interdisciplinary artist whose work moves between tragedy and ec
- stasy\, intimacy and the macabre. Her music is haunted by ghosts and love 
- — exploring irrationality\, nightmare\, and memory\, and sonically seeki
- ng lost objects and hidden subjects.Across installation\, stage\, and film
- \, she builds environments to be inhabited rather than watched: 1919 New O
- rleans under a serial killer's shadow\, a 1920s speakeasy in literary Harl
- em\, a Chinatown family inside the 1900 Bubonic Plague. She is the artisti
- c director and conductor of The Curiosity Cabinet\, the ensemble she has l
- ed since 2009\, and her recordings appear on Pinch Records.She holds a BFA
-  from CalArts\, an MM from Brooklyn College\, and a DMA from the CUNY Grad
- uate Center. She is on faculty at Luna Lab and teaches composition private
- ly in Brooklyn.Evening Flow7 PM – Doors open. Settle in\, grab a drink\,
-  and meet a friend.8 PM – The Olio begins: an intimate\, interactive lec
- ture and guided exploration.9 PM – We shift into a social experience\, d
- iscussing ideas with others in the room while the teacher joins and floats
-  between conversations.10 PM - Last call at the bar and we'll start to win
- d down the evening.What Is an Olio?Think Olio is an ongoing experiment in 
- lifelong learning. We are a community of open-minded people who gather to 
- exchange ideas with new friends and connect over art\, literature\, and ph
- ilosophy.Check out our full calendarOur $30 membership gives you two event
- s for the price of one!&nbsp\;An Olio is what we call the social learning 
- events we’ve been organizing since 2015. A blend between a lecture and a
-  house party\, Olios are led by a teacher who loves sharing their passions
-  and the room is filled with curious\, open-minded New Yorkers.&nbsp\;Our 
- goal is to spark new perspectives\, ignite curiosity\, and enjoy ourselves
-  socially—an alternative to typical nightlife options.Disclaimer: By pur
- chasing a ticket\, you agree to have your photo/video used for social medi
- a/marketing materials. If you prefer to not have your photo taken\, feel f
- ree to send us a note.Photo by Zhi-Da Zhong\n\nTickets & info: https://www
- .viewcy.com/event/eavesdropping_the_er
-URL:https://www.viewcy.com/event/eavesdropping_the_er
-END:VEVENT
-BEGIN:VEVENT
 UID:0465e382-e4ec-4099-8179-a004c7e2c9d0@viewcy.olio
-DTSTAMP:20260731T143904Z
+DTSTAMP:20260801T135833Z
 DTSTART:20260803T230000Z
 DTEND:20260804T010000Z
 SUMMARY:Intimacy\, Pleasure\, and Joy: A Buddhist take on Relationships
@@ -110,7 +61,7 @@ URL:https://www.viewcy.com/event/intimacy_pleasure_a
 END:VEVENT
 BEGIN:VEVENT
 UID:81ea5734-cca8-4bc3-9eec-b3bd3f83f29e@viewcy.olio
-DTSTAMP:20260731T143904Z
+DTSTAMP:20260801T135833Z
 DTSTART:20260806T233000Z
 DTEND:20260807T013000Z
 SUMMARY:Transcendence Through the Senses: Wines of Eastern Europe 
@@ -145,7 +96,7 @@ URL:https://www.viewcy.com/event/wines_of_eastern_euro
 END:VEVENT
 BEGIN:VEVENT
 UID:bc142314-f938-4da9-920d-b6147df7fcd6@viewcy.olio
-DTSTAMP:20260731T143904Z
+DTSTAMP:20260801T135833Z
 DTSTART:20260810T230000Z
 DTEND:20260811T013000Z
 SUMMARY:The Tao of Touch: Cultivating Presence and Attunement
@@ -201,7 +152,7 @@ URL:https://www.viewcy.com/event/the_tao_of_touch_gro
 END:VEVENT
 BEGIN:VEVENT
 UID:58c92b74-bd9f-4b99-af43-045159e39323@viewcy.olio
-DTSTAMP:20260731T143904Z
+DTSTAMP:20260801T135833Z
 DTSTART:20260813T233000Z
 DTEND:20260814T020000Z
 SUMMARY:Creative Music Night: Spirit Sounds for the Community
@@ -221,7 +172,7 @@ URL:https://www.viewcy.com/event/creative_music_night
 END:VEVENT
 BEGIN:VEVENT
 UID:5293120c-3086-4223-a010-d9f00718219c@viewcy.olio
-DTSTAMP:20260731T143904Z
+DTSTAMP:20260801T135833Z
 DTSTART:20260818T233000Z
 DTEND:20260819T010000Z
 SUMMARY:Olio Read-in: Camus' The Myth of Sisyphus
@@ -278,7 +229,7 @@ URL:https://www.viewcy.com/event/olio_readin_camus
 END:VEVENT
 BEGIN:VEVENT
 UID:3833940b-0261-455e-9ca9-68f456a98af1@viewcy.olio
-DTSTAMP:20260731T143904Z
+DTSTAMP:20260801T135833Z
 DTSTART:20260823T000000Z
 DTEND:20260823T040000Z
 SUMMARY:An Olio House Party: DJ & Curated Conversations
@@ -309,7 +260,7 @@ URL:https://www.viewcy.com/event/olio_house_party
 END:VEVENT
 BEGIN:VEVENT
 UID:d612cac7-9e7e-4f7b-bae4-b88e6039ccf8@viewcy.olio
-DTSTAMP:20260731T143904Z
+DTSTAMP:20260801T135833Z
 DTSTART:20260913T190000Z
 DTEND:20260913T213000Z
 SUMMARY:The Stories We Inherit: A Four-Week Family Mapping Workshop
@@ -407,7 +358,7 @@ URL:https://www.viewcy.com/event/the_stories_we_inheri
 END:VEVENT
 BEGIN:VEVENT
 UID:14d0485a-b231-43c2-8400-7e21cc67ef00@viewcy.olio
-DTSTAMP:20260731T143904Z
+DTSTAMP:20260801T135833Z
 DTSTART:20260914T230000Z
 DTEND:20260915T010000Z
 SUMMARY:Calling Up the Inner Chorus: Four Weeks on Our Inner Critics\, Alli
@@ -485,7 +436,7 @@ URL:https://www.viewcy.com/event/calling_up_the_inner
 END:VEVENT
 BEGIN:VEVENT
 UID:9fefd3ac-8b93-48ae-90cb-846ef9ea3a1e@viewcy.olio
-DTSTAMP:20260731T143904Z
+DTSTAMP:20260801T135833Z
 DTSTART:20260918T000000Z
 DTEND:20260918T013000Z
 SUMMARY:Geography of Weddings: How Ceremonies Tell The Story of Civilizatio
@@ -529,7 +480,7 @@ URL:https://www.viewcy.com/event/geography_of_weddings
 END:VEVENT
 BEGIN:VEVENT
 UID:77ea2d67-f7f9-430c-bdd4-5d186bcd106e@viewcy.olio
-DTSTAMP:20260731T143904Z
+DTSTAMP:20260801T135833Z
 DTSTART:20261006T230000Z
 DTEND:20261007T010000Z
 SUMMARY:Horny Gods\, Lying Heroes: Four Weeks Inside The Odyssey
