@@ -6,62 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:0465e382-e4ec-4099-8179-a004c7e2c9d0@viewcy.olio
-DTSTAMP:20260803T151938Z
-DTSTART:20260803T230000Z
-DTEND:20260804T010000Z
-SUMMARY:Intimacy\, Pleasure\, and Joy: A Buddhist take on Relationships
-DESCRIPTION:Good relationships are foundational to a meaningful life and th
- ey can be a continuous source of frustration\, disappointment\, and suffer
- ing. Curious about that? Wish you had more skills for getting your needs m
- et?We human beings spend enormous energy seeking connection\, yet intimacy
-  can remain mysterious and confusing. We absorb models of relationship fro
- m family\, culture\, and let’s be honest\, a remarkable amount of bad te
- levision. We carry assumptions we’ve never questioned\, habits we inheri
- ted without choosing\, and a baseline loneliness we’ve learned to mistak
- e for normal.Most of what makes relationships hard has less to do with fin
- ding the right person than with cultivating a deeper understanding of what
-  we ourselves bring to the exploration. But that can be changed. Relations
- hip building is a learnable skill set. And like most skill sets\, it can b
- e intentionally practiced\, and gradually refined. The quality of our conn
- ections is\, in fact\, surprisingly workable.In this Olio\, we’ll decons
- truct a handful of basic misunderstandings that may be costing you intimac
- y\, pleasure\, and joy. We’ll look honestly at what draws people togethe
- r\, drives them apart\, and what it actually takes to sustain something at
-  the deepest level of meaning. The facilitator is a Buddhist Lama. Through
-  more than three decades of training she’s found how nearly 3\,000-year 
- old advice offers deep insights into relationship dynamics that are still 
- very much relevant today.If you still feel lonely in a city of 8 million p
- eople\, this might be for you. Come curious. Leave with something useful.O
- ur teacher for the evening: Lama Lekshe (Julia King Tamang) has been prati
- cing Tibetan Buddhism since 1994 in Portland\, Oregon\, Nepal and India. H
- er teachers are Bokar Rinpoche\, Khenpo Lodro Donyo Rinpoche\, and Lama Mi
- chael Conklin. In 2018\, she completed a traditional 3-year meditation ret
- reat in the Shangpa Kagyu tradition. Before retreat\, was a university tea
- cher and a consultant to colleges. Lekshe is the founder of Dekeling.&nbsp
- \;The evening flow:&nbsp\;6:45- Doors open\, grab a drink and get settled&
- nbsp\;7:10-7:30pm - Opening remarks from Lekshe and a guided meditation&nb
- sp\;7:30- Intimacy\, Pleasure\, and Joy: Relationships Olio begins8:15- 8:
- 40pm - Audience Q&amp\;A&nbsp\;8:45- Closing meditation?9-10pm - Mingling 
- at the LighthouseWhat Is an Olio?Think Olio is an ongoing experiment in li
- felong learning. We are a community of open-minded people who gather to ex
- change ideas with new friends and connect over art\, literature\, and phil
- osophy.Check out our full calendarOur $30 membership gives you two events 
- for the price of one!&nbsp\;An Olio is what we call the social learning ev
- ents we’ve been organizing since 2015. A blend between a lecture and a h
- ouse party\, Olios are led by a teacher who loves sharing their passions a
- nd the room is filled with curious\, open-minded New Yorkers.&nbsp\;Our go
- al is to spark new perspectives\, ignite curiosity\, and enjoy ourselves s
- ocially offering an alternative to typical nightlife options.Disclaimer: B
- y purchasing a ticket\, you agree to have your photo/video used for social
-  media/marketing materials. If you prefer to not have your photo taken\, f
- eel free to send us a note.Photo by Zhi-Da Zhong\n\nTickets & info: https:
- //www.viewcy.com/event/intimacy_pleasure_a
-URL:https://www.viewcy.com/event/intimacy_pleasure_a
-END:VEVENT
-BEGIN:VEVENT
 UID:81ea5734-cca8-4bc3-9eec-b3bd3f83f29e@viewcy.olio
-DTSTAMP:20260803T151938Z
+DTSTAMP:20260804T144148Z
 DTSTART:20260806T233000Z
 DTEND:20260807T013000Z
 SUMMARY:Transcendence Through the Senses: Wines of Eastern Europe 
@@ -96,7 +42,7 @@ URL:https://www.viewcy.com/event/wines_of_eastern_euro
 END:VEVENT
 BEGIN:VEVENT
 UID:bc142314-f938-4da9-920d-b6147df7fcd6@viewcy.olio
-DTSTAMP:20260803T151938Z
+DTSTAMP:20260804T144148Z
 DTSTART:20260810T230000Z
 DTEND:20260811T013000Z
 SUMMARY:The Tao of Touch: Cultivating Presence and Attunement
@@ -152,7 +98,7 @@ URL:https://www.viewcy.com/event/the_tao_of_touch_gro
 END:VEVENT
 BEGIN:VEVENT
 UID:58c92b74-bd9f-4b99-af43-045159e39323@viewcy.olio
-DTSTAMP:20260803T151938Z
+DTSTAMP:20260804T144148Z
 DTSTART:20260813T233000Z
 DTEND:20260814T020000Z
 SUMMARY:Creative Music Night: Spirit Sounds for the Community
@@ -172,7 +118,7 @@ URL:https://www.viewcy.com/event/creative_music_night
 END:VEVENT
 BEGIN:VEVENT
 UID:5293120c-3086-4223-a010-d9f00718219c@viewcy.olio
-DTSTAMP:20260803T151938Z
+DTSTAMP:20260804T144148Z
 DTSTART:20260818T233000Z
 DTEND:20260819T010000Z
 SUMMARY:Olio Read-in: Camus' The Myth of Sisyphus
@@ -229,7 +175,7 @@ URL:https://www.viewcy.com/event/olio_readin_camus
 END:VEVENT
 BEGIN:VEVENT
 UID:3833940b-0261-455e-9ca9-68f456a98af1@viewcy.olio
-DTSTAMP:20260803T151938Z
+DTSTAMP:20260804T144148Z
 DTSTART:20260823T000000Z
 DTEND:20260823T040000Z
 SUMMARY:An Olio House Party: DJ & Curated Conversations
@@ -260,7 +206,7 @@ URL:https://www.viewcy.com/event/olio_house_party
 END:VEVENT
 BEGIN:VEVENT
 UID:d612cac7-9e7e-4f7b-bae4-b88e6039ccf8@viewcy.olio
-DTSTAMP:20260803T151938Z
+DTSTAMP:20260804T144148Z
 DTSTART:20260913T190000Z
 DTEND:20260913T213000Z
 SUMMARY:The Stories We Inherit: A Four-Week Family Mapping Workshop
@@ -358,7 +304,7 @@ URL:https://www.viewcy.com/event/the_stories_we_inheri
 END:VEVENT
 BEGIN:VEVENT
 UID:14d0485a-b231-43c2-8400-7e21cc67ef00@viewcy.olio
-DTSTAMP:20260803T151938Z
+DTSTAMP:20260804T144148Z
 DTSTART:20260914T230000Z
 DTEND:20260915T010000Z
 SUMMARY:Calling Up the Inner Chorus: Four Weeks on Our Inner Critics\, Alli
@@ -436,7 +382,7 @@ URL:https://www.viewcy.com/event/calling_up_the_inner
 END:VEVENT
 BEGIN:VEVENT
 UID:9fefd3ac-8b93-48ae-90cb-846ef9ea3a1e@viewcy.olio
-DTSTAMP:20260803T151938Z
+DTSTAMP:20260804T144148Z
 DTSTART:20260918T000000Z
 DTEND:20260918T013000Z
 SUMMARY:Geography of Weddings: How Ceremonies Tell The Story of Civilizatio
@@ -480,7 +426,7 @@ URL:https://www.viewcy.com/event/geography_of_weddings
 END:VEVENT
 BEGIN:VEVENT
 UID:77ea2d67-f7f9-430c-bdd4-5d186bcd106e@viewcy.olio
-DTSTAMP:20260803T151938Z
+DTSTAMP:20260804T144148Z
 DTSTART:20261006T230000Z
 DTEND:20261007T010000Z
 SUMMARY:Horny Gods\, Lying Heroes: Four Weeks Inside The Odyssey
