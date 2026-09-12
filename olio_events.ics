@@ -7,7 +7,7 @@ X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:d612cac7-9e7e-4f7b-bae4-b88e6039ccf8@viewcy.olio
-DTSTAMP:20260911T163335Z
+DTSTAMP:20260912T153531Z
 DTSTART:20260913T190000Z
 DTEND:20260913T213000Z
 SUMMARY:The Stories We Inherit: A Four-Week Ancestry Workshop
@@ -105,7 +105,7 @@ URL:https://www.viewcy.com/event/the_stories_we_inheri
 END:VEVENT
 BEGIN:VEVENT
 UID:14d0485a-b231-43c2-8400-7e21cc67ef00@viewcy.olio
-DTSTAMP:20260911T163335Z
+DTSTAMP:20260912T153531Z
 DTSTART:20260914T230000Z
 DTEND:20260915T010000Z
 SUMMARY:Myth\, Play\, and Shadow Work: A 4-Part Creativity Seminar
@@ -186,7 +186,7 @@ URL:https://www.viewcy.com/event/calling_up_the_inner
 END:VEVENT
 BEGIN:VEVENT
 UID:9fefd3ac-8b93-48ae-90cb-846ef9ea3a1e@viewcy.olio
-DTSTAMP:20260911T163335Z
+DTSTAMP:20260912T153531Z
 DTSTART:20260918T000000Z
 DTEND:20260918T013000Z
 SUMMARY:Weddings: How Ceremonies Tell The Story of Civilization
@@ -229,7 +229,7 @@ URL:https://www.viewcy.com/event/geography_of_weddings
 END:VEVENT
 BEGIN:VEVENT
 UID:82b0c9c8-fb7b-4a4f-8eec-4d8da9c08063@viewcy.olio
-DTSTAMP:20260911T163335Z
+DTSTAMP:20260912T153531Z
 DTSTART:20260920T000000Z
 DTEND:20260920T040000Z
 SUMMARY:Misc Connections: An Olio House Party
@@ -268,7 +268,7 @@ URL:https://www.viewcy.com/event/misc_connections_an
 END:VEVENT
 BEGIN:VEVENT
 UID:300a3ef1-1148-4796-9f35-4d424c6a3e37@viewcy.olio
-DTSTAMP:20260911T163335Z
+DTSTAMP:20260912T153531Z
 DTSTART:20260923T230000Z
 DTEND:20260924T013000Z
 SUMMARY:Olio Member Salon: Tarot and Oracle Deck Night
@@ -304,7 +304,7 @@ URL:https://www.viewcy.com/event/olio_member_salon_ta
 END:VEVENT
 BEGIN:VEVENT
 UID:b20c2981-c1d6-4c5f-90c4-a0537bfcef03@viewcy.olio
-DTSTAMP:20260911T163335Z
+DTSTAMP:20260912T153531Z
 DTSTART:20260924T233000Z
 DTEND:20260925T013000Z
 SUMMARY:Listening Through Breath: A Guided Flute Concert
@@ -344,7 +344,7 @@ URL:https://www.viewcy.com/event/embodied_listening_f
 END:VEVENT
 BEGIN:VEVENT
 UID:e9cb6153-df46-43ba-8091-5489196d1093@viewcy.olio
-DTSTAMP:20260911T163335Z
+DTSTAMP:20260912T153531Z
 DTSTART:20260929T233000Z
 DTEND:20260930T010000Z
 SUMMARY:Olio Read-in: Dostoevsky's Notes From the Underground
@@ -388,7 +388,7 @@ URL:https://www.viewcy.com/event/olio_readin_dos
 END:VEVENT
 BEGIN:VEVENT
 UID:c36fcd16-ab17-4d1a-aa4a-3402b4ab1ca4@viewcy.olio
-DTSTAMP:20260911T163335Z
+DTSTAMP:20260912T153531Z
 DTSTART:20261001T230000Z
 DTEND:20261002T010000Z
 SUMMARY:Musical Ecology: A Study of Awareness
@@ -444,7 +444,7 @@ URL:https://www.viewcy.com/event/musical_ecology_a_st
 END:VEVENT
 BEGIN:VEVENT
 UID:77ea2d67-f7f9-430c-bdd4-5d186bcd106e@viewcy.olio
-DTSTAMP:20260911T163335Z
+DTSTAMP:20260912T153531Z
 DTSTART:20261006T230000Z
 DTEND:20261007T010000Z
 SUMMARY:Horny Gods\, Lying Heroes: Four Weeks Inside The Odyssey
@@ -487,7 +487,7 @@ URL:https://www.viewcy.com/event/odyssey
 END:VEVENT
 BEGIN:VEVENT
 UID:6aa69c64-9cbd-40e0-ad4d-e2da50d581d9@viewcy.olio
-DTSTAMP:20260911T163335Z
+DTSTAMP:20260912T153531Z
 DTSTART:20261008T233000Z
 DTEND:20261009T013000Z
 SUMMARY:Olio Music Night: Diasporic Rhythms with Los Transplantes
@@ -537,7 +537,7 @@ URL:https://www.viewcy.com/event/olio_concert_a_globa
 END:VEVENT
 BEGIN:VEVENT
 UID:8807bf0d-c254-499c-b465-b8c9fc09ccdb@viewcy.olio
-DTSTAMP:20260911T163335Z
+DTSTAMP:20260912T153531Z
 DTSTART:20261019T233000Z
 DTEND:20261020T013000Z
 SUMMARY:Horror Writing Workshop: The Internet Horror of Creepypastas 
@@ -594,53 +594,98 @@ URL:https://www.viewcy.com/event/horror_writing_worksh
 END:VEVENT
 BEGIN:VEVENT
 UID:d5a2b78f-dcd5-4965-a7ba-28e889449384@viewcy.olio
-DTSTAMP:20260911T163335Z
-DTSTART:20270113T170000Z
-DTEND:20270121T180000Z
+DTSTAMP:20260912T153531Z
+DTSTART:20270115T170000Z
+DTEND:20270122T180000Z
 SUMMARY:Olio Family Vacay Guatemala: From Antigua to Lake Atitlán
-DESCRIPTION:In 2024\, Antigua became an extension of the Olio ecosystem.Tha
- t year we spent a month in Guatemala running two OlioTrips\, and our favor
- ite part (besides swimming in Lake Atitlán) was how our group got the cha
- nce to connect and bond with locals: the artists\, musicians\, business ow
- ners\, and teachers we met along the way\, the house parties and homestyle
-  dinners we were welcomed into.We're tied in with friends who run venues a
- nd community projects similar to Olio\, and we've stayed in touch since th
- e last trip. Those friends are onto all kinds of new projects\, and they'v
- e told us that when we come back\, this trip will be even better than the 
- last.Nothing leaves us more recharged and inspired than time in Antigua\, 
- followed by the quiet integration that Lake Atitlán offers. Our last trip
-  there is what inspired us to open our own venue\, and we think it's time 
- that Olio goes back to Guatemala.Our dear friend\, Mayte Oliva\, cultural 
- producer\, photographer\, designer\, and all-around lovely human being\, w
- ill be with us for the entirety of the trip. She'll welcome and guide us t
- hrough experiences that we would never see on our own\, and have us belly 
- laughing throughout.The spirit of this trip is one of meaningful connectio
- ns\, new experiences and a space where you can be at ease. Think family va
- cation (but a chosen family and without the bickering 😂)!&nbsp\;Flow of
-  the trip: Antigua - Jan 15 - 19thThis time\, we're settling into a gorgeo
- us home in Antigua for the first half of the trip. Days are for workshops 
- at our friend’s artist residency\, chef-prepared meals in a local archit
- ect’s orchid garden\, or wandering the dreamy streets of this UNESCO-lis
- ted town\; nights are for inviting artists and locals over for dinners\, d
- ancing\, renting out the local movie theater\, salons\, and intimate house
-  concerts.Lake Atitlan - Jan 19th - 22ndThen we move to the lake\, where t
- he pace slows even further. Some of us will relax and take it all in\; oth
- ers will join a sunrise hike or a cooking workshop. Either way\, we'll sha
- re meals\, play games\, and make a new group of best friends before headin
- g home restored.Selfishly\, we can't wait to go back — and we can't wait
-  to share this world with you: swimming through the heat of the day\, visi
- ting our friends' studios and restaurants\, and basking in new friendships
-  as artists and teachers we love come to us for house concerts and shared 
- meals.We've built this trip to move slowly so that we come home recharged 
- and inspired. Welcome to Guatemala!&nbsp\;--Full price for the 8 day trip:
- &nbsp\;Shared room $2750. Private Room $3350.$500 deposit to reserve your 
- spot!Balance to be paid in full by Dec 10.Reach out for payment plan optio
- ns.&nbsp\;Included:Accommodations (7 nights)All breakfasts + 5 additional 
- mealsMajority of workshops\, tours\, and activitiesTransportation to/from 
- activitiesTips for drivers &amp\; guides&nbsp\;Not Included:Flights to/fro
- m GuatemalaMeals not listedTravel insurancePersonal expensesMore FAQ &lt\;
- 3&nbsp\;\n\nTickets & info: https://www.viewcy.com/event/oliotrip_guatemal
- a_o
+DESCRIPTION:OlioTrips are open to everyone and we foster the spirit of mean
+ ingful connections\, new experiences and a space where you can be at ease.
+  Think family vacation but with a chosen family (and without the bickering
+  😂). In 2024\, Antigua became an extension of the Olio ecosystem.That y
+ ear we spent a month in Guatemala running two OlioTrips\, and our favorite
+  part (besides swimming in Lake Atitlán) was how our group got the chance
+  to connect and bond with locals: the artists\, musicians\, business owner
+ s\, and teachers we met along the way\, the house parties and homestyle di
+ nners we were welcomed into.We're tied in with friends who run venues and 
+ community projects similar to Olio\, and we've stayed in touch since the l
+ ast trip. Those friends are onto all kinds of new projects\, and they've t
+ old us that when we come back\, this trip will be even better than the las
+ t.Nothing leaves us more recharged and inspired than time in Antigua\, fol
+ lowed by the quiet integration that Lake Atitlán offers. Our last trip th
+ ere is what inspired us to open our own venue\, and we think it's time tha
+ t Olio goes back to Guatemala.Our dear friend\, Mayte Oliva\, cultural pro
+ ducer\, photographer\, designer\, and all-around lovely human being\, will
+  be with us for the entirety of the trip. She'll welcome and guide us thro
+ ugh experiences that we would never see on our own\, and have us belly lau
+ ghing throughout.Flow of the trip: Antigua - Jan 15 - 19thThis time\, we'r
+ e settling into a gorgeous home in Antigua for the first half of the trip.
+  Days are for workshops at our friend’s artist residency\, chef-prepared
+  meals in a local architect’s orchid garden\, or wandering the dreamy st
+ reets of this UNESCO-listed town\; nights are for inviting artists and loc
+ als over for dinners\, dancing\, renting out the local movie theater\, sal
+ ons\, and intimate house concerts.Lake Atitlan - Jan 19th - 22ndThen we mo
+ ve to the lake\, where the pace slows even further. Some of us will relax 
+ and take it all in\; others will join a sunrise hike or a cooking workshop
+ . Either way\, we'll share meals\, play games\, and make a new group of be
+ st friends before heading home restored.Selfishly\, we can't wait to go ba
+ ck and we can't wait to share this world with you: swimming through the he
+ at of the day\, visiting our friends' studios and restaurants\, and baskin
+ g in new friendships as artists and teachers we love come to us for house 
+ concerts and shared meals.We've built this trip to move slowly so that we 
+ come home recharged and inspired. Welcome to Guatemala!&nbsp\;--Full price
+  for the 8 day trip: Shared room $2750. Private Room $3350. Duo $5\,300 fo
+ r two\, or ($2\,650/person)$500 deposit to reserve your spot!Balance to be
+  paid in full by Dec 1.Reach out for payment plan options. Included:Accomm
+ odations (7 nights)All breakfasts + 5 additional mealsMajority of workshop
+ s\, tours\, and activitiesTransportation to/from activitiesTips for driver
+ s &amp\; guides Not Included:Flights to/from GuatemalaMeals not listedTrav
+ el insurancePersonal expenses---What kind of traveler is this trip for?Thi
+ s trip is for people who want to experience Guatemala as if they were visi
+ ting a local friend. You want to see places and meet people that would pro
+ bably never happen were you to go on your own. All of our guides and frien
+ ds in Antigua speak English\, so language wont be a barrier - but if you d
+ o speak Spanish all the better!This is the right trip if you:Enjoy the ble
+ nd of curiosity and social life that defines an Olio. Workshops and wander
+ ing by day\, dinners\, salons and house concerts by night.Are drawn to Ant
+ igua's mix of colonial streets\, artist studios\, and creative community.W
+ ant a good amount of unstructured time built in and not just a packed itin
+ erary. Space to wander\, rest by the lake\, linger at a long lunch or foll
+ ow a conversation wherever it goes.Enjoy small groups where you'll actuall
+ y get to know everyone by the end. That’s why we call it a family vacay!
+ This trip works well whether you're coming solo or with a friend. Most Oli
+ o travelers come alone\, and the group itself becomes the reason you’ll 
+ want to come on the next trip!In their own words\, travelers from our last
+  Guatemala trip:"Amigos\, before I get back into my New York flow: Thank y
+ ou so much for such a beautiful trip. It fulfilled so much of what I want 
+ all the time but especially what I need right now—time outside (and in t
+ he water\, swoon)\; with people who are lovely and interesting who can tak
+ e me out of my world\; and getting out of my head and into joy\, sun\, and
+  community."- Pilar"Thanks to the Olio team for organizing\, guiding\, and
+  supporting us during the trip! Thanks to everyone for the meaningful and 
+ fun conversations as well. This trip surpassed every expectation I had\, a
+ llowed me to fully pause my work life\, validate things I've been thinking
+  about\, generate new work and non-work ideas\, and enjoy and learn about 
+ everything we did."- Ritesh"Shoutout to @think.olio and a very special gro
+ up of people who provided me the space to experience and be witness to lov
+ e\, care\, connection\, joy\, vulnerability\, humility\, healing\, wonder\
+ , and so much goddamn fun. I was inspired by the resistance\, resiliency a
+ nd ancestral veneration as a daily practice. This trip was a beautiful lif
+ e lesson in showing up\, and letting life surprise you."- NicoleAccommodat
+ ions(Think boutique accommodations - not luxury but definitely grown up an
+ d very comfortable)Antigua: We'll be based at two gorgeous properties that
+  are an attraction in themselves and also an easy walk into Antigua's UNES
+ CO-listed streets.Lake Atitlán: We move to our accommodations right on th
+ e lake with gardens\, hammocks\, a pool\, kayaks\, and a private organic g
+ arden and meals.How rooming works:Shared Room ($2\,750) — You'll room wi
+ th another Olio traveler. If you're coming solo\, we'll match you thoughtf
+ ully (most of our travelers come this way).Private Room ($3\,350) — Your
+  own room for the whole trip\, subject to availability.Duo ($5\,300 for tw
+ o\, or $2\,650/person) — Coming with a friend or partner? Book together 
+ and each save $100 off the shared rate. We’ll have options to share a be
+ d or to have separate beds in a shared room.Room availability at both prop
+ erties is limited\, so we recommend booking early\, especially if you're s
+ et on a private room.\n\nTickets & info: https://www.viewcy.com/event/olio
+ trip_guatemala_o
 URL:https://www.viewcy.com/event/oliotrip_guatemala_o
 END:VEVENT
 END:VCALENDAR
