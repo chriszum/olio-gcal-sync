@@ -6,49 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:82b0c9c8-fb7b-4a4f-8eec-4d8da9c08063@viewcy.olio
-DTSTAMP:20260919T155608Z
-DTSTART:20260920T000000Z
-DTEND:20260920T040000Z
-SUMMARY:Misc Connections: An Olio House Party
-DESCRIPTION:Whether you're looking for new friends\, lovers\, or someone wi
- th a boat\, we're here to make it happen for you. One of our favorite part
- s of running Olio (a miscellaneous collection of art + people) is making c
- onnections between our members based on their niche hobbies\, interests\, 
- or that certain je ne sais quoi.&nbsp\;Become a member to join the party\,
-  and you'll enter a whole new world of connections through an evening of c
- urated conversation groups and a dance floor to boogie.&nbsp\;What to expe
- ct:8pm: You're matched with new friends to discuss a few curated prompts a
- nd meet the others in the space.9:30pm-midnight: Hang with your new friend
- s\, dance and vibe out to an array of Latin American DJ sets (lot radio an
- d NTS radio stuff..not live but we'll project them and it will be fun)&nbs
- p\;We're limiting this event to 40ish people so we can have plenty of spac
- e for small group convos and a chance to meet everyone in the room.&nbsp\;
- Tickets:To attend this party you can sign up for our monthly membership wh
- ich gives you two\, $35 credits to use towards Olio events each month.&nbs
- p\;You must be 21 or older to attend.What is Think Olio?Think Olio is an o
- ngoing experiment in lifelong learning. We are a community of open-minded 
- people who gather to exchange ideas with new friends and connect over art\
- , literature\, and philosophy.An Olio is what we call the social learning 
- events we’ve been organizing since 2015. A blend between a lecture and a
-  house party\, Olios are led by a teacher who loves sharing their passions
-  and the room is filled with curious\, open-minded New Yorkers.&nbsp\;Eigh
- t months into creating a venue\, one of our favorite feelings has been the
-  moments where we’ve stepped outside of time. We’ve created a space wh
- ere conversations don’t feel rushed\, people are greeted with hugs\, and
-  as a community\, we spontaneously come up with new ideas (like the dial-u
- p-disco house party) and bring them to life.Our goal is to spark new persp
- ectives\, ignite curiosity\, and enjoy ourselves socially—an alternative
-  to typical nightlife options.Check out our full calendarDisclaimer: By pu
- rchasing a ticket\, you agree to have your photo/video used for social med
- ia/marketing materials. If you prefer to not have your photo taken\, feel 
- free to send us a note.\n\nTickets & info: https://www.viewcy.com/event/mi
- sc_connections_an
-URL:https://www.viewcy.com/event/misc_connections_an
-END:VEVENT
-BEGIN:VEVENT
 UID:300a3ef1-1148-4796-9f35-4d424c6a3e37@viewcy.olio
-DTSTAMP:20260919T155608Z
+DTSTAMP:20260920T161235Z
 DTSTART:20260923T230000Z
 DTEND:20260924T013000Z
 SUMMARY:Olio Member Salon: Tarot and Oracle Deck Night
@@ -84,7 +43,7 @@ URL:https://www.viewcy.com/event/olio_member_salon_ta
 END:VEVENT
 BEGIN:VEVENT
 UID:e9cb6153-df46-43ba-8091-5489196d1093@viewcy.olio
-DTSTAMP:20260919T155608Z
+DTSTAMP:20260920T161235Z
 DTSTART:20260929T233000Z
 DTEND:20260930T010000Z
 SUMMARY:Olio Book Club: Dostoevsky's Notes From the Underground
@@ -123,7 +82,7 @@ URL:https://www.viewcy.com/event/olio_readin_dos
 END:VEVENT
 BEGIN:VEVENT
 UID:c36fcd16-ab17-4d1a-aa4a-3402b4ab1ca4@viewcy.olio
-DTSTAMP:20260919T155608Z
+DTSTAMP:20260920T161235Z
 DTSTART:20261001T230000Z
 DTEND:20261002T010000Z
 SUMMARY:Musical Ecology: A Study of Awareness
@@ -179,7 +138,7 @@ URL:https://www.viewcy.com/event/musical_ecology_a_st
 END:VEVENT
 BEGIN:VEVENT
 UID:77ea2d67-f7f9-430c-bdd4-5d186bcd106e@viewcy.olio
-DTSTAMP:20260919T155608Z
+DTSTAMP:20260920T161235Z
 DTSTART:20261006T230000Z
 DTEND:20261007T010000Z
 SUMMARY:Horny Gods\, Lying Heroes: Four Weeks Inside The Odyssey
@@ -222,7 +181,7 @@ URL:https://www.viewcy.com/event/odyssey
 END:VEVENT
 BEGIN:VEVENT
 UID:6aa69c64-9cbd-40e0-ad4d-e2da50d581d9@viewcy.olio
-DTSTAMP:20260919T155608Z
+DTSTAMP:20260920T161235Z
 DTSTART:20261008T233000Z
 DTEND:20261009T013000Z
 SUMMARY:Olio Concert: Afro-Latino Folkloric Rhythms
@@ -272,7 +231,7 @@ URL:https://www.viewcy.com/event/olio_concert_a_globa
 END:VEVENT
 BEGIN:VEVENT
 UID:8807bf0d-c254-499c-b465-b8c9fc09ccdb@viewcy.olio
-DTSTAMP:20260919T155608Z
+DTSTAMP:20260920T161235Z
 DTSTART:20261019T233000Z
 DTEND:20261020T013000Z
 SUMMARY:Horror Writing Workshop: The Internet Horror of Creepypastas 
@@ -329,7 +288,7 @@ URL:https://www.viewcy.com/event/horror_writing_worksh
 END:VEVENT
 BEGIN:VEVENT
 UID:ab00a03a-35ca-48fc-b7ad-c91de233bc58@viewcy.olio
-DTSTAMP:20260919T155608Z
+DTSTAMP:20260920T161235Z
 DTSTART:20261025T000000Z
 DTEND:20261025T040000Z
 SUMMARY:Misc Connections: A Purely Analog Olio House Party
@@ -360,7 +319,7 @@ URL:https://www.viewcy.com/event/misc_connections_an_1
 END:VEVENT
 BEGIN:VEVENT
 UID:d5a2b78f-dcd5-4965-a7ba-28e889449384@viewcy.olio
-DTSTAMP:20260919T155608Z
+DTSTAMP:20260920T161235Z
 DTSTART:20270115T170000Z
 DTEND:20270122T180000Z
 SUMMARY:Olio Family Vacay Guatemala: From Antigua to Lake Atitlán
