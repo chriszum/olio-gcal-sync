@@ -6,47 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:e9cb6153-df46-43ba-8091-5489196d1093@viewcy.olio
-DTSTAMP:20260929T180651Z
-DTSTART:20260929T233000Z
-DTEND:20260930T010000Z
-SUMMARY:Olio Book Club: Dostoevsky's Notes From the Underground
-DESCRIPTION:Put simply by one of our Olio members: "This is the book club t
- hat I actually want to be a part of. It's so much more fun to engage with 
- these texts as a group and with a teacher than as a solo activity." *No pr
- ior reading necessary“I am a sick man... I am a spiteful man. I think my
-  liver is diseased.”So begins the maddening\, bitter and contradictory m
- onologue of Dostoevsky’s hero in Notes from Underground. The Underground
-  Man has no name\, and he enjoys his anonymity as he attacks virtually eve
- ry aspect of human existence — laws\, nature\, mathematics\, science\, p
- ursuit of happiness and love.&nbsp\;In this close reading\, Dina Odnopozov
- a (PhD Yale\, professor at Baruch)&nbsp\; invites you into the Underground
-  Man’s world through the first chapter of Notes from Underground. Togeth
- er\, we’ll encounter one of literature’s most hyper-conscious and prof
- oundly irritating characters in a conversation as intimate and unpredictab
- le as a late-night argument at the bar. You may find yourself wanting to t
- hrow the Underground Man out the window. Or perhaps sit him down\, give hi
- m a hug\, and listen a little longer.We'll read part of the text together 
- line by line and have a group discussion over drinks.&nbsp\;Teacher: Dina 
- Odnopozova holds a PhD from Yale and is a professor at Baruch College\, wh
- ere her work explores the intersection of literature\, psychology\, and th
- e unconscious. She has led Olios on Freud\, Jung\, and the archetypal gram
- mar of fairy tales — the witches\, wolves\, and forbidden doors that map
-  the human subconscious.Think Olio is an ongoing experiment in lifelong le
- arning. We are a community of open-minded people who gather to exchange id
- eas with new friends and connect over art\, literature\, and philosophy. C
- heck out our full calendar Our $30 membership gives you two events for the
-  price of one!Our goal is to spark new perspectives\, ignite curiosity\, a
- nd enjoy ourselves socially—an alternative to typical nightlife options.
- Disclaimer: By purchasing a ticket\, you agree to have your photo/video us
- ed for social media/marketing materials. If you prefer to not have your ph
- oto taken\, feel free to send us a note. Photo by Zhi-Da Zhong\n\nTickets 
- & info: https://www.viewcy.com/event/olio_readin_dos
-URL:https://www.viewcy.com/event/olio_readin_dos
-END:VEVENT
-BEGIN:VEVENT
 UID:77ea2d67-f7f9-430c-bdd4-5d186bcd106e@viewcy.olio
-DTSTAMP:20260929T180651Z
+DTSTAMP:20260930T180042Z
 DTSTART:20261006T230000Z
 DTEND:20261007T010000Z
 SUMMARY:Horny Gods\, Lying Heroes: Four Weeks Inside The Odyssey
@@ -89,10 +50,10 @@ URL:https://www.viewcy.com/event/odyssey
 END:VEVENT
 BEGIN:VEVENT
 UID:6aa69c64-9cbd-40e0-ad4d-e2da50d581d9@viewcy.olio
-DTSTAMP:20260929T180651Z
+DTSTAMP:20260930T180042Z
 DTSTART:20261008T233000Z
 DTEND:20261009T013000Z
-SUMMARY:Live Music Night: Folkloric Rhythms from Haiti to Colombia
+SUMMARY:Live Music Night: Folkloric Rhythms from Cuba to Colombia
 DESCRIPTION:A concert and talk geared to be enjoyed by music enthusiasts\, 
  beginner musicians and professionals alike. Let's gather around a shared l
  ove of music and connect through learning about the diasporic influence of
@@ -116,27 +77,27 @@ DESCRIPTION:A concert and talk geared to be enjoyed by music enthusiasts\,
  — Doors open. Settle in\, grab a drink\, and meet a friend.7:30 PM — T
  he evening begins: an opening set with song-by-song explorations led by Lo
  s Transplantes8:30 PM — Intermission and Mingling9:00 PM — Encore!&nbs
- p\;10:00 PM — Last call at the bar as we wind down the evening.This is a
-  standing concert. If you need a seat\, reach out and we'll take care of y
- ou.What Is Think Olio?Think Olio is an ongoing experiment in lifelong lear
- ning. We are a community of open-minded people who gather to exchange idea
- s with new friends and connect over art\, literature\, and philosophy.Chec
- k out our full calendarOur $30 membership gives you two events for the pri
- ce of one!&nbsp\;An Olio is what we call the social learning events we’v
- e been organizing since 2015. A blend between a lecture and a house party\
- , Olios are led by a teacher who loves sharing their passions and the room
-  is filled with curious\, open-minded New Yorkers.&nbsp\;Our goal is to sp
- ark new perspectives\, ignite curiosity\, and enjoy ourselves socially\, a
- n alternative to typical nightlife options.Disclaimer: By purchasing a tic
- ket\, you agree to have your photo/video used for social media/marketing m
- aterials. If you prefer to not have your photo taken\, feel free to send u
- s a note. Photo by Zhi-Da Zhong\n\nTickets & info: https://www.viewcy.com/
- event/olio_concert_a_globa
+ p\;10:00 PM — Last call at the bar as we wind down the evening.This show
+  will be a mix of seated and standing room. Come on time if you'd like a c
+ hair.&nbsp\;What Is Think Olio?Think Olio is an ongoing experiment in life
+ long learning. We are a community of open-minded people who gather to exch
+ ange ideas with new friends and connect over art\, literature\, and philos
+ ophy.Check out our full calendarOur $30 membership gives you two events fo
+ r the price of one!&nbsp\;An Olio is what we call the social learning even
+ ts we’ve been organizing since 2015. A blend between a lecture and a hou
+ se party\, Olios are led by a teacher who loves sharing their passions and
+  the room is filled with curious\, open-minded New Yorkers.&nbsp\;Our goal
+  is to spark new perspectives\, ignite curiosity\, and enjoy ourselves soc
+ ially\, an alternative to typical nightlife options.Disclaimer: By purchas
+ ing a ticket\, you agree to have your photo/video used for social media/ma
+ rketing materials. If you prefer to not have your photo taken\, feel free 
+ to send us a note. Photo by Zhi-Da Zhong\n\nTickets & info: https://www.vi
+ ewcy.com/event/olio_concert_a_globa
 URL:https://www.viewcy.com/event/olio_concert_a_globa
 END:VEVENT
 BEGIN:VEVENT
 UID:f8e95d74-30c0-4a47-be07-f945bd48ffaf@viewcy.olio
-DTSTAMP:20260929T180651Z
+DTSTAMP:20260930T180042Z
 DTSTART:20261013T233000Z
 DTEND:20261014T013000Z
 SUMMARY:Daddy Energy\, According to the Bhagavad Gita: An Olio Member Salon
@@ -184,7 +145,7 @@ URL:https://www.viewcy.com/event/daddy_energy_accordi
 END:VEVENT
 BEGIN:VEVENT
 UID:fc794a37-8572-44a7-bad1-44d3f9350580@viewcy.olio
-DTSTAMP:20260929T180651Z
+DTSTAMP:20260930T180042Z
 DTSTART:20261015T230000Z
 DTEND:20261016T020000Z
 SUMMARY:Olio Sound Salon: DeBÍ TiRAR MáS FOToS
@@ -226,8 +187,38 @@ DESCRIPTION:Introducing the Olio Sound Salon!&nbsp\;The premise is simple:O
 URL:https://www.viewcy.com/event/olio_sound_salon_deb
 END:VEVENT
 BEGIN:VEVENT
+UID:8cd4d1ca-fa57-4090-a383-c305f169d04f@viewcy.olio
+DTSTAMP:20260930T180042Z
+DTSTART:20261018T170000Z
+DTEND:20261018T193000Z
+SUMMARY:Quitting Party: A Brunch Salon on 'Letting Go'
+DESCRIPTION:Olio Salons are by members for members. Generated by a passion 
+ from someone in our community these are social events that create discussi
+ on and learning about a new topic each time. To attend this salon you can 
+ sign up for our monthly membership which gives you two\, $35 credits to us
+ e towards Olio events each month. &nbsp\;&nbsp\;This is a brunch-time gath
+ ering to celebrate letting go! We so often make space to celebrate when so
+ meone lands a new job\, gets engaged\, buys a house etc\, but rarely do we
+  take the time to acknowledge the courage it takes to move on from somethi
+ ng (or someone) that (who) is no longer serving us.This gathering will be 
+ lightly facilitated by Olio member Jennifer Dyck-Sprout\, allowing guests 
+ the space and opportunity to1. connect with others who have recent or upco
+ ming transitions2. honour and grieve what has been/will be left behind3. t
+ o celebrate the courage it takes to vote for oneselfExpect brunch-fare and
+  celebratory (alcoholic &amp\; NA beverages).RUN OF SHOW*With some fun sur
+ prises (and prizes!) sprinkled throughout \;)&nbsp\;12:45 | arrival: doors
+  open\, grab drinks/food - We'll have a bagel spread with vegan options&nb
+ sp\;1:00 | WELCOME (15 mins)1:20 | SMALL GROUP DISCUSSIONS (25 mins)prompt
+  related to etymology of "quit"&nbsp\;1:50 | SMALL GROUP ACTIVITIES (25 mi
+ ns)2:20 | CELEBRATION (20 mins)&nbsp\;regroup\, debrief\, toasts&nbsp\;2:4
+ 0 | MINGLE at OlioWant to be the next member to lead a salon night? Send u
+ s a note!&nbsp\;Hi@olio.rsvp&nbsp\;\n\nTickets & info: https://www.viewcy.
+ com/event/quitting_party_a_bru
+URL:https://www.viewcy.com/event/quitting_party_a_bru
+END:VEVENT
+BEGIN:VEVENT
 UID:8807bf0d-c254-499c-b465-b8c9fc09ccdb@viewcy.olio
-DTSTAMP:20260929T180651Z
+DTSTAMP:20260930T180042Z
 DTSTART:20261019T233000Z
 DTEND:20261020T013000Z
 SUMMARY:Horror Writing Workshop: The Internet Horror of Creepypastas 
@@ -284,7 +275,7 @@ URL:https://www.viewcy.com/event/horror_writing_worksh
 END:VEVENT
 BEGIN:VEVENT
 UID:ab00a03a-35ca-48fc-b7ad-c91de233bc58@viewcy.olio
-DTSTAMP:20260929T180651Z
+DTSTAMP:20260930T180042Z
 DTSTART:20261025T000000Z
 DTEND:20261025T040000Z
 SUMMARY:Misc Connections: A Purely Analog Olio House Party
@@ -315,7 +306,7 @@ URL:https://www.viewcy.com/event/misc_connections_an_1
 END:VEVENT
 BEGIN:VEVENT
 UID:6742fb8f-0fca-4ce0-9dd3-7393c35b62fd@viewcy.olio
-DTSTAMP:20260929T180651Z
+DTSTAMP:20260930T180042Z
 DTSTART:20261029T230000Z
 DTEND:20261030T010000Z
 SUMMARY:Family Constellations: Subconscious Patterns in our Everyday Relati
@@ -375,7 +366,7 @@ URL:https://www.viewcy.com/event/family_constellations
 END:VEVENT
 BEGIN:VEVENT
 UID:d5a2b78f-dcd5-4965-a7ba-28e889449384@viewcy.olio
-DTSTAMP:20260929T180651Z
+DTSTAMP:20260930T180042Z
 DTSTART:20270115T170000Z
 DTEND:20270122T180000Z
 SUMMARY:Olio Family Vacay Guatemala: From Antigua to Lake Atitlán
