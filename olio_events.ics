@@ -7,7 +7,7 @@ X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:f8e95d74-30c0-4a47-be07-f945bd48ffaf@viewcy.olio
-DTSTAMP:20261012T211753Z
+DTSTAMP:20261013T191957Z
 DTSTART:20261014T233000Z
 DTEND:20261015T013000Z
 SUMMARY:Daddy Energy\, According to the Bhagavad Gita: An Olio Member Salon
@@ -55,7 +55,7 @@ URL:https://www.viewcy.com/event/daddy_energy_accordi
 END:VEVENT
 BEGIN:VEVENT
 UID:8cd4d1ca-fa57-4090-a383-c305f169d04f@viewcy.olio
-DTSTAMP:20261012T211753Z
+DTSTAMP:20261013T191957Z
 DTSTART:20261018T170000Z
 DTEND:20261018T193000Z
 SUMMARY:Quitting Party: A Brunch Salon on 'Letting Go'
@@ -84,7 +84,7 @@ URL:https://www.viewcy.com/event/quitting_party_a_bru
 END:VEVENT
 BEGIN:VEVENT
 UID:8807bf0d-c254-499c-b465-b8c9fc09ccdb@viewcy.olio
-DTSTAMP:20261012T211753Z
+DTSTAMP:20261013T191957Z
 DTSTART:20261019T233000Z
 DTEND:20261020T013000Z
 SUMMARY:Writing Workshop: The Internet Horror of Creepypastas 
@@ -142,7 +142,7 @@ URL:https://www.viewcy.com/event/horror_writing_worksh
 END:VEVENT
 BEGIN:VEVENT
 UID:ab00a03a-35ca-48fc-b7ad-c91de233bc58@viewcy.olio
-DTSTAMP:20261012T211753Z
+DTSTAMP:20261013T191957Z
 DTSTART:20261025T000000Z
 DTEND:20261025T040000Z
 SUMMARY:Misc Connections: A Purely Analog Olio House Party
@@ -173,7 +173,7 @@ URL:https://www.viewcy.com/event/misc_connections_an_1
 END:VEVENT
 BEGIN:VEVENT
 UID:6742fb8f-0fca-4ce0-9dd3-7393c35b62fd@viewcy.olio
-DTSTAMP:20261012T211753Z
+DTSTAMP:20261013T191957Z
 DTSTART:20261029T230000Z
 DTEND:20261030T010000Z
 SUMMARY:Family Constellations: Subconscious Patterns in our Everyday Relati
@@ -233,7 +233,7 @@ URL:https://www.viewcy.com/event/family_constellations
 END:VEVENT
 BEGIN:VEVENT
 UID:fc794a37-8572-44a7-bad1-44d3f9350580@viewcy.olio
-DTSTAMP:20261012T211753Z
+DTSTAMP:20261013T191957Z
 DTSTART:20261106T000000Z
 DTEND:20261106T020000Z
 SUMMARY:Olio Sound Salon: Bad Bunny - DeBÍ TiRAR MáS FOToS
@@ -277,7 +277,7 @@ URL:https://www.viewcy.com/event/olio_sound_salon_deb
 END:VEVENT
 BEGIN:VEVENT
 UID:226a9c99-8b5b-4c3f-9eae-e7c4206b41a3@viewcy.olio
-DTSTAMP:20261012T211753Z
+DTSTAMP:20261013T191957Z
 DTSTART:20261113T010000Z
 DTEND:20261113T030000Z
 SUMMARY:PowerPoint Comedy Club 
@@ -338,8 +338,46 @@ DESCRIPTION:What do a New Yorker Cartoonist\, a Sperm Scientist\, a Chemica
 URL:https://www.viewcy.com/event/powerpoint_comedy_clu
 END:VEVENT
 BEGIN:VEVENT
+UID:ec211455-67e1-49f7-a711-580ceadfd932@viewcy.olio
+DTSTAMP:20261013T191957Z
+DTSTART:20261118T000000Z
+DTEND:20261118T013000Z
+SUMMARY:Improv is Life!: A 4-Part Workshop
+DESCRIPTION:This four-part class is ensemble-based: you're never up there a
+ lone\, we learn as a group\, through games and exercises where everyone pl
+ ays at once and the room shares the risk (and the laughs). Over four sessi
+ ons\, you’ll go from an individual person with a fixed identity to a war
+ m ball of clay: free of attachments\, form fluid\, and ready to meet each 
+ moment with full use of your mental\, physical\, and vocal tools.Nothing t
+ o memorize. Nothing to prepare for. Each session is a new experience. Wear
+  comfortable clothing that you can move in and bring a water bottle.Improv
+  is Life! is a good fit if:&nbsp\;You’ve never acted or practiced improv
+  before&nbsp\;You have acted or practiced improv before\, but it’s been 
+ a while&nbsp\;You currently have a robust acting and/or improv practice&nb
+ sp\;You’re terrified of improv&nbsp\;You hate improvYou’re curious abo
+ ut improvYou love improv&nbsp\;You’re a human who wants to have fun and 
+ connect with other humans&nbsp\;Each session will start with a robust phys
+ ical\, vocal\, and imaginative warm up.Session 1 - Nov 17&nbsp\;We’ll be
+ gin building an ensemble with low-stakes group exercises to practice liste
+ ning\, responding\, and releasing fear of failure.&nbsp\;Session 2 - Dec 1
+ We’ll continue building an ensemble with simple games that invite each p
+ articipant to respond authentically to unanticipated moments.&nbsp\;Sessio
+ n 3 - Dec 8We’ll move into scene work using basic scripts as a foundatio
+ n and building on the text with improvisational play.&nbsp\;Session 4 - De
+ c 15We’ll continue partnered scene work using given circumstances as a f
+ oundation and developing characterization one choice at a time.&nbsp\;Our 
+ Teacher: Hannah Gould (she/they) Hannah Gould was born and raised in the B
+ ay Area\, and she was shaped and seasoned by years in New York and Eastern
+  Europe. Hannah is a reader\, writer\, actor\, singer\, composer\, directo
+ r\, designer\, and producer. She’s a trained and experienced educator: s
+ he’s taught all ages and every subject that can be used as a form of sel
+ f expression.\n\nTickets & info: https://www.viewcy.com/event/improv_is_li
+ fe_a_4
+URL:https://www.viewcy.com/event/improv_is_life_a_4
+END:VEVENT
+BEGIN:VEVENT
 UID:0bb307c9-3981-4743-b152-0dfba308228f@viewcy.olio
-DTSTAMP:20261012T211753Z
+DTSTAMP:20261013T191957Z
 DTSTART:20261122T010000Z
 DTEND:20261122T060000Z
 SUMMARY:One Year Anniversary: Olio Homecoming Dance 2026
@@ -386,7 +424,7 @@ URL:https://www.viewcy.com/event/homecoming-olio
 END:VEVENT
 BEGIN:VEVENT
 UID:c574ecc1-8d51-44a4-882f-1c0fcacda40b@viewcy.olio
-DTSTAMP:20261012T211753Z
+DTSTAMP:20261013T191957Z
 DTSTART:20261204T000000Z
 DTEND:20261204T020000Z
 SUMMARY:Waking Up Our Dreams: Deciphering the Speech of the Soul
@@ -442,7 +480,7 @@ URL:https://www.viewcy.com/event/waking_up_our_dreams
 END:VEVENT
 BEGIN:VEVENT
 UID:d5a2b78f-dcd5-4965-a7ba-28e889449384@viewcy.olio
-DTSTAMP:20261012T211753Z
+DTSTAMP:20261013T191957Z
 DTSTART:20270115T170000Z
 DTEND:20270122T180000Z
 SUMMARY:OlioTrip Guatemala: From Antigua to Lake Atitlán
