@@ -6,66 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:8807bf0d-c254-499c-b465-b8c9fc09ccdb@viewcy.olio
-DTSTAMP:20261019T184402Z
-DTSTART:20261019T233000Z
-DTEND:20261020T013000Z
-SUMMARY:Writing Workshop: The Internet Horror of Creepypastas 
-DESCRIPTION:Horror Writing Workshop: The Internet Horror of Creepypastas&nb
- sp\; &nbsp\;Monday evenings at 7:30pm\, October 19th to November 30th&nbsp
- \;Join writer and professor Alexandra Dos Santos in this 6-week Olio works
- hop where you'll take inspiration from class readings and workshop your ow
- n horror stories. Each session will include lively discussion of the story
- \, and a dedicated group workshop for each writer.The creepypasta is a typ
- e of internet horror story that rose to prominence in the early days of th
- e internet. Users would “copy/paste” these stories to spread them\, cr
- eating a new genre with the iconic name “creepy pasta.” These tales bl
- urred the line between fiction and real life\; some were immersive\, pulli
- ng the reader to participate and respond online\, while others rose to fam
- e as modern urban legends.&nbsp\;Each week we'll discuss a different creep
- ypasta\, digging into what made them so spine chilling and how we can pull
-  inspiration from them for our writing and our daily lives. We’ll explor
- e their unique elements\, focusing on how this medium is ripe for terror.I
- n the second half of class\, we'll workshop stories by our peers.These sto
- ries can be inspired by the creepypasta genre\, or written as general horr
- or fiction. Either way\, we'll pay tribute to the collaborative nature of 
- the creepypasta by creating\, editing\, and imagining together.&nbsp\;Each
-  writer will have dedicated time for the group to closely analyze their wo
- rk and discuss possibilities for revision. You’ll walk away with a bette
- r understanding of your premise\, the heart of its fear\, and the style wi
- th which to tell it. Why write horror? Horror gives us the tools to expres
- s complex metaphysical questions\; the genre inherently questions reality 
- as we see it\, and gestures to the unseen\, the creeping\, the inescapable
- . It is the most potent genre to both transcend our humanity and dig deep 
- into it.&nbsp\;This class is for everyone: horror fanatics\, speculative w
- riters\, or those looking to try something new for spooky season. You don
- ’t need a writing background to join—just the courage to express your 
- fear through the act of writing. Whether you’re a seasoned horror writer
-  or new to the genre\, you’ll feel supported in your writing in this pas
- sionate group.&nbsp\;Intimate Class of ~15 participantsMonday\, Oct 19 - &
- nbsp\;Introduction to Creepypastas\; In-class reads: “Smile Dog.jpeg” 
- and “Have you Seen this Man?”\; Writing prompts and partner feedback.&
- nbsp\;Monday\, Oct 26 - &nbsp\;Innocence Perverted: “Candle Cove”\; 3 
- workshops&nbsp\;Monday\, Nov 9 - Rituals Pastas: “The Midnight Game” 3
-  workshops&nbsp\;Monday\, Nov 16 - This is a True Story “Psychosis”\; 
- 3 workshops&nbsp\;Monday\, Nov 23 - The Uncanny Valley “Anasi's Goatman 
- Story”\; 3 workshops&nbsp\;Monday\, Nov 30 -&nbsp\; Urban Legends of the
-  Internet: “The Russian Sleep Experiment” 3 workshopsAbout Your Instru
- ctor:Alexandra Dos Santos is a writer and College Writing instructor based
-  in Astoria\, New York\, with an MFA from The Writers Foundry at St. Josep
- h's University. Her work spans horror\, the esoteric\, and the speculative
- \, appearing in Electric Literature\, Lithub\, Flash Fiction Magazine\, an
- d Vol. 1 Brooklyn\, among others. She's led creative writing workshops thr
- oughout Brooklyn and received fellowships from Wildacres Writers Retreat a
- nd the Disquiet International Literary Program.*Writers of all levels are 
- welcome here! Reach out to David@thinkolio.org if price is a barrier for y
- ou.&nbsp\;\n\nTickets & info: https://www.viewcy.com/event/horror_writing_
- worksh
-URL:https://www.viewcy.com/event/horror_writing_worksh
-END:VEVENT
-BEGIN:VEVENT
 UID:ab00a03a-35ca-48fc-b7ad-c91de233bc58@viewcy.olio
-DTSTAMP:20261019T184402Z
+DTSTAMP:20261020T171546Z
 DTSTART:20261025T000000Z
 DTEND:20261025T040000Z
 SUMMARY:Misc Connections: A Purely Analog Olio House Party
@@ -96,7 +38,7 @@ URL:https://www.viewcy.com/event/misc_connections_an_1
 END:VEVENT
 BEGIN:VEVENT
 UID:6742fb8f-0fca-4ce0-9dd3-7393c35b62fd@viewcy.olio
-DTSTAMP:20261019T184402Z
+DTSTAMP:20261020T171546Z
 DTSTART:20261029T230000Z
 DTEND:20261030T010000Z
 SUMMARY:Family Constellations: Subconscious Patterns in our Everyday Relati
@@ -156,7 +98,7 @@ URL:https://www.viewcy.com/event/family_constellations
 END:VEVENT
 BEGIN:VEVENT
 UID:fc794a37-8572-44a7-bad1-44d3f9350580@viewcy.olio
-DTSTAMP:20261019T184402Z
+DTSTAMP:20261020T171546Z
 DTSTART:20261106T000000Z
 DTEND:20261106T020000Z
 SUMMARY:Olio Sound Salon: Bad Bunny - DeBÍ TiRAR MáS FOToS
@@ -200,7 +142,7 @@ URL:https://www.viewcy.com/event/olio_sound_salon_deb
 END:VEVENT
 BEGIN:VEVENT
 UID:226a9c99-8b5b-4c3f-9eae-e7c4206b41a3@viewcy.olio
-DTSTAMP:20261019T184402Z
+DTSTAMP:20261020T171546Z
 DTSTART:20261113T010000Z
 DTEND:20261113T030000Z
 SUMMARY:PowerPoint Comedy Club 
@@ -262,7 +204,7 @@ URL:https://www.viewcy.com/event/powerpoint_comedy_clu
 END:VEVENT
 BEGIN:VEVENT
 UID:ec211455-67e1-49f7-a711-580ceadfd932@viewcy.olio
-DTSTAMP:20261019T184402Z
+DTSTAMP:20261020T171546Z
 DTSTART:20261118T000000Z
 DTEND:20261118T013000Z
 SUMMARY:Improv is Life!: A 4-Part Workshop
@@ -300,7 +242,7 @@ URL:https://www.viewcy.com/event/improv_is_life_a_4
 END:VEVENT
 BEGIN:VEVENT
 UID:0bb307c9-3981-4743-b152-0dfba308228f@viewcy.olio
-DTSTAMP:20261019T184402Z
+DTSTAMP:20261020T171546Z
 DTSTART:20261122T010000Z
 DTEND:20261122T060000Z
 SUMMARY:One Year Anniversary: Olio Homecoming Dance 2026
@@ -323,31 +265,31 @@ DESCRIPTION:Our little venue is officially one year old!! And we’ve recen
  e.Pitch your club here. Submissions close Monday\, Oct 19.What to expect:8
  pm: Hang in the space and vote on the club ideas.9:00pm-9:30pm: Highlight 
  reel from the last year and announcement of club winners!  10:00pm - 1am: 
- DJ Zimmy Dynamite begins and plays your favorite homecoming tunes (whateve
- r that means lol)Tickets:To attend sign up for our monthly membership whic
- h gives you two credits to use towards our events each month.&nbsp\;You mu
- st be 21 or older to attend.What is Think Olio?Think Olio is an ongoing ex
- periment in lifelong learning. We are a community of open-minded people wh
- o gather to exchange ideas with new friends and connect over art\, literat
- ure\, and philosophy.An Olio is what we call the social learning events we
- ’ve been organizing since 2015. A blend between a lecture and a house pa
- rty\, Olios are led by a teacher who loves sharing their passions and the 
- room is filled with curious\, open-minded New Yorkers.&nbsp\;A year into c
- reating a venue\, one of our favorite feelings has been the moments where 
- we’ve stepped outside of time. We’ve created a space where conversatio
- ns don’t feel rushed\, people are greeted with hugs\, and as a community
- \, we spontaneously come up with new ideas (like the dial-up-disco house p
- arty) and bring them to life.Our goal is to spark new perspectives\, ignit
- e curiosity\, and enjoy ourselves socially\, an alternative to typical nig
- htlife options.Check out our full calendarDisclaimer: By purchasing a tick
- et\, you agree to have your photo/video used for social media/marketing ma
- terials. If you prefer to not have your photo taken\, feel free to send us
-  a note.\n\nTickets & info: https://www.viewcy.com/event/homecoming-olio
+ DJ set playing our favorite homecoming tunes (whatever that means lol)Tick
+ ets:To attend sign up for our monthly membership which gives you two credi
+ ts to use towards our events each month.&nbsp\;You must be 21 or older to 
+ attend.What is Think Olio?Think Olio is an ongoing experiment in lifelong 
+ learning. We are a community of open-minded people who gather to exchange 
+ ideas with new friends and connect over art\, literature\, and philosophy.
+ An Olio is what we call the social learning events we’ve been organizing
+  since 2015. A blend between a lecture and a house party\, Olios are led b
+ y a teacher who loves sharing their passions and the room is filled with c
+ urious\, open-minded New Yorkers.&nbsp\;A year into creating a venue\, one
+  of our favorite feelings has been the moments where we’ve stepped outsi
+ de of time. We’ve created a space where conversations don’t feel rushe
+ d\, people are greeted with hugs\, and as a community\, we spontaneously c
+ ome up with new ideas (like the dial-up-disco house party) and bring them 
+ to life.Our goal is to spark new perspectives\, ignite curiosity\, and enj
+ oy ourselves socially\, an alternative to typical nightlife options.Check 
+ out our full calendarDisclaimer: By purchasing a ticket\, you agree to hav
+ e your photo/video used for social media/marketing materials. If you prefe
+ r to not have your photo taken\, feel free to send us a note.\n\nTickets &
+  info: https://www.viewcy.com/event/homecoming-olio
 URL:https://www.viewcy.com/event/homecoming-olio
 END:VEVENT
 BEGIN:VEVENT
 UID:c574ecc1-8d51-44a4-882f-1c0fcacda40b@viewcy.olio
-DTSTAMP:20261019T184402Z
+DTSTAMP:20261020T171546Z
 DTSTART:20261204T000000Z
 DTEND:20261204T020000Z
 SUMMARY:Waking Up Our Dreams: Deciphering the Speech of the Soul
@@ -403,7 +345,7 @@ URL:https://www.viewcy.com/event/waking_up_our_dreams
 END:VEVENT
 BEGIN:VEVENT
 UID:d5a2b78f-dcd5-4965-a7ba-28e889449384@viewcy.olio
-DTSTAMP:20261019T184402Z
+DTSTAMP:20261020T171546Z
 DTSTART:20270115T170000Z
 DTEND:20270122T180000Z
 SUMMARY:OlioTrip Guatemala: From Antigua to Lake Atitlán
