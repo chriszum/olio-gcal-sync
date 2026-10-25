@@ -6,39 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:ab00a03a-35ca-48fc-b7ad-c91de233bc58@viewcy.olio
-DTSTAMP:20261024T160146Z
-DTSTART:20261025T000000Z
-DTEND:20261025T040000Z
-SUMMARY:Misc Connections: A Purely Analog Olio House Party
-DESCRIPTION:What to expect:8pm: You're matched with new friends to discuss 
- a couple of curated prompts.9:30pm-midnight: Join DJs WiFiOG\, Dj Delly an
- d Vinylaura for an all vinyl party at the Lighthouse. Drinks\, conversatio
- n\, amazing music and dancing throughout.Tickets:To attend this party you 
- can sign up for our monthly membership which gives you 2 free events each 
- month.You must be 21 or older to attend.What is Think Olio?Think Olio is a
- n ongoing experiment in lifelong learning. We are a community of open-mind
- ed people who gather to exchange ideas with new friends and connect over a
- rt\, literature\, and philosophy.An Olio is what we call the social learni
- ng events we’ve been organizing since 2015. A blend between a lecture an
- d a house party\, Olios are led by a teacher who loves sharing their passi
- ons and the room is filled with curious\, open-minded New Yorkers.&nbsp\;E
- ight months into creating a venue\, one of our favorite feelings has been 
- the moments where we’ve stepped outside of time. We’ve created a space
-  where conversations don’t feel rushed\, people are greeted with hugs\, 
- and as a community\, we spontaneously come up with new ideas (like the dia
- l-up-disco house party) and bring them to life.Our goal is to spark new pe
- rspectives\, ignite curiosity\, and enjoy ourselves socially—an alternat
- ive to typical nightlife options.Check out our full calendarDisclaimer: By
-  purchasing a ticket\, you agree to have your photo/video used for social 
- media/marketing materials. If you prefer to not have your photo taken\, fe
- el free to send us a note.\n\nTickets & info: https://www.viewcy.com/event
- /misc_connections_an_1
-URL:https://www.viewcy.com/event/misc_connections_an_1
-END:VEVENT
-BEGIN:VEVENT
 UID:6742fb8f-0fca-4ce0-9dd3-7393c35b62fd@viewcy.olio
-DTSTAMP:20261024T160146Z
+DTSTAMP:20261025T163024Z
 DTSTART:20261029T230000Z
 DTEND:20261030T010000Z
 SUMMARY:Family Constellations: Subconscious Patterns in our Everyday Relati
@@ -97,7 +66,7 @@ URL:https://www.viewcy.com/event/family_constellations
 END:VEVENT
 BEGIN:VEVENT
 UID:fc794a37-8572-44a7-bad1-44d3f9350580@viewcy.olio
-DTSTAMP:20261024T160146Z
+DTSTAMP:20261025T163024Z
 DTSTART:20261106T000000Z
 DTEND:20261106T020000Z
 SUMMARY:Olio Sound Salon: Bad Bunny - DeBÍ TiRAR MáS FOToS
@@ -141,7 +110,7 @@ URL:https://www.viewcy.com/event/olio_sound_salon_deb
 END:VEVENT
 BEGIN:VEVENT
 UID:226a9c99-8b5b-4c3f-9eae-e7c4206b41a3@viewcy.olio
-DTSTAMP:20261024T160146Z
+DTSTAMP:20261025T163024Z
 DTSTART:20261113T010000Z
 DTEND:20261113T030000Z
 SUMMARY:PowerPoint Comedy Club 
@@ -203,7 +172,7 @@ URL:https://www.viewcy.com/event/powerpoint_comedy_clu
 END:VEVENT
 BEGIN:VEVENT
 UID:ec211455-67e1-49f7-a711-580ceadfd932@viewcy.olio
-DTSTAMP:20261024T160146Z
+DTSTAMP:20261025T163024Z
 DTSTART:20261118T000000Z
 DTEND:20261118T013000Z
 SUMMARY:Improv is Life!: A 4-Part Workshop
@@ -241,7 +210,7 @@ URL:https://www.viewcy.com/event/improv_is_life_a_4
 END:VEVENT
 BEGIN:VEVENT
 UID:0bb307c9-3981-4743-b152-0dfba308228f@viewcy.olio
-DTSTAMP:20261024T160146Z
+DTSTAMP:20261025T163024Z
 DTSTART:20261122T010000Z
 DTEND:20261122T060000Z
 SUMMARY:One Year Anniversary: Olio Homecoming Dance 2026
@@ -289,7 +258,7 @@ URL:https://www.viewcy.com/event/homecoming-olio
 END:VEVENT
 BEGIN:VEVENT
 UID:c574ecc1-8d51-44a4-882f-1c0fcacda40b@viewcy.olio
-DTSTAMP:20261024T160146Z
+DTSTAMP:20261025T163024Z
 DTSTART:20261204T000000Z
 DTEND:20261204T020000Z
 SUMMARY:Waking Up Our Dreams: Deciphering the Speech of the Soul
@@ -345,7 +314,7 @@ URL:https://www.viewcy.com/event/waking_up_our_dreams
 END:VEVENT
 BEGIN:VEVENT
 UID:08693b01-b9f9-44a4-897d-c2dd1e321e88@viewcy.olio
-DTSTAMP:20261024T160146Z
+DTSTAMP:20261025T163024Z
 DTSTART:20261210T003000Z
 DTEND:20261210T023000Z
 SUMMARY:Live Music Night: Local Frequencies\, The NYC Sound
@@ -407,7 +376,7 @@ URL:https://www.viewcy.com/event/live_music_night_nat
 END:VEVENT
 BEGIN:VEVENT
 UID:d5a2b78f-dcd5-4965-a7ba-28e889449384@viewcy.olio
-DTSTAMP:20261024T160146Z
+DTSTAMP:20261025T163024Z
 DTSTART:20270115T170000Z
 DTEND:20270122T180000Z
 SUMMARY:OlioTrip Guatemala: From Antigua to Lake Atitlán
