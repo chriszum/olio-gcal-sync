@@ -6,56 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:fc794a37-8572-44a7-bad1-44d3f9350580@viewcy.olio
-DTSTAMP:20261105T200141Z
-DTSTART:20261106T000000Z
-DTEND:20261106T020000Z
-SUMMARY:Olio Sound Salon: Bad Bunny - DeBÍ TiRAR MáS FOToS
-DESCRIPTION:Introducing the Olio Sound Salon!&nbsp\;The premise is simple:O
- ne album.&nbsp\;On vinyl.&nbsp\;Start to finish.&nbsp\;No skips.&nbsp\;As 
- the artist intended.&nbsp\;You and your peoples + new friends&nbsp\;Chat. 
- Dance. Sing.Run of showWe'll start the evening with some question prompts 
- over drinks at the bar and get settled into the room. at 7:30pm we'll have
-  a special salsa lesson from a teacher in our community so that we can all
-  have some basics under our belt for when the album begins. Rob will give 
- a brief intro to the record and share some miscellaneous records that conn
- ect to or inspired Bad Bunny's Debí Tirar Más Fotos. We'll spin the albu
- m in its entirety while leaving room for questions and conversation throug
- hout. This will be a very open format kind of listening session where folk
- s can feel free to chat\, dance\, sing along throughout.&nbsp\; After the 
- album\, you'll get a list of tracks and albums that relate to Debí Tirar 
- Más Fotos\, so you'll have anti-algorithm sources straight from a DJ to k
- eep your musical deep dive going after the event.7:00pm - Doors/Drinks/Que
- stion Prompts7:30pm- Intro level Salsa lesson while Rob plays old school s
- alsa on vinyl8:00pm - debí tirar más fotos&nbsp\;About Rob\, our DJ and 
- Facilitator for the evening:Robert Michelin is a native Brooklynite\, educ
- ator\, percussionist\, ethnomusicologist\, avid record collector\, and fat
- her.He earned his MMus in Ethnomusicology at the University of London and 
- his MS in Education at Brooklyn College\, and began his post-secondary stu
- dies as an Eph at Williams College.As a performing artist\, he has shared 
- the stage with Bernard Woma\, Obo Addy\, KweYao Agyapon\, Paul Winter\, th
- e Mujuru brothers\, Sekou Sundiata\, David Pleasant\, Abby Dobson\, Tito F
- uentes\, and Crispin Robinson\, to name a few. His artistic mission is to 
- help us understand that we have more in common than we have differences.Wh
- at Is an Olio?Think Olio is an ongoing experiment in lifelong learning. We
-  are a community of open-minded people who gather to exchange ideas with n
- ew friends and connect over art\, literature\, and philosophy.Check out ou
- r full calendarOur $30 membership gives you two events for the price of on
- e!&nbsp\;An Olio is what we call the social learning events we’ve been o
- rganizing since 2015. A blend between a lecture and a house party\, Olios 
- are led by a teacher who loves sharing their passions and the room is fill
- ed with curious\, open-minded New Yorkers.&nbsp\;Our goal is to spark new 
- perspectives\, ignite curiosity\, and enjoy ourselves socially—an altern
- ative to typical nightlife options.Disclaimer: By purchasing a ticket\, yo
- u agree to have your photo/video used for social media/marketing materials
- . If you prefer to not have your photo taken\, feel free to send us a note
- . Photo by Zhi-Da Zhong\n\nTickets & info: https://www.viewcy.com/event/ol
- io_sound_salon_deb
-URL:https://www.viewcy.com/event/olio_sound_salon_deb
-END:VEVENT
-BEGIN:VEVENT
 UID:226a9c99-8b5b-4c3f-9eae-e7c4206b41a3@viewcy.olio
-DTSTAMP:20261105T200141Z
+DTSTAMP:20261106T192852Z
 DTSTART:20261113T010000Z
 DTEND:20261113T030000Z
 SUMMARY:Olio Comedy Club: A Night of Stand-Up
@@ -117,7 +69,7 @@ URL:https://www.viewcy.com/event/powerpoint_comedy_clu
 END:VEVENT
 BEGIN:VEVENT
 UID:ec211455-67e1-49f7-a711-580ceadfd932@viewcy.olio
-DTSTAMP:20261105T200141Z
+DTSTAMP:20261106T192852Z
 DTSTART:20261118T000000Z
 DTEND:20261118T013000Z
 SUMMARY:Improv is Life!: A 4-Part Workshop
@@ -153,7 +105,7 @@ URL:https://www.viewcy.com/event/improv_is_life_a_4
 END:VEVENT
 BEGIN:VEVENT
 UID:0bb307c9-3981-4743-b152-0dfba308228f@viewcy.olio
-DTSTAMP:20261105T200141Z
+DTSTAMP:20261106T192852Z
 DTSTART:20261122T010000Z
 DTEND:20261122T060000Z
 SUMMARY:One Year Anniversary: Olio Homecoming Dance 2026
@@ -215,7 +167,7 @@ URL:https://www.viewcy.com/event/homecoming-olio
 END:VEVENT
 BEGIN:VEVENT
 UID:c574ecc1-8d51-44a4-882f-1c0fcacda40b@viewcy.olio
-DTSTAMP:20261105T200141Z
+DTSTAMP:20261106T192852Z
 DTSTART:20261204T000000Z
 DTEND:20261204T020000Z
 SUMMARY:Waking Up Our Dreams: Deciphering the Speech of the Soul
@@ -271,7 +223,7 @@ URL:https://www.viewcy.com/event/waking_up_our_dreams
 END:VEVENT
 BEGIN:VEVENT
 UID:08693b01-b9f9-44a4-897d-c2dd1e321e88@viewcy.olio
-DTSTAMP:20261105T200141Z
+DTSTAMP:20261106T192852Z
 DTSTART:20261210T003000Z
 DTEND:20261210T023000Z
 SUMMARY:Live Music Night: Local Frequencies\, The NYC Sound
@@ -333,7 +285,7 @@ URL:https://www.viewcy.com/event/live_music_night_nat
 END:VEVENT
 BEGIN:VEVENT
 UID:d5a2b78f-dcd5-4965-a7ba-28e889449384@viewcy.olio
-DTSTAMP:20261105T200141Z
+DTSTAMP:20261106T192852Z
 DTSTART:20270115T170000Z
 DTEND:20270122T180000Z
 SUMMARY:OlioTrip Guatemala: From Antigua to Lake Atitlán
