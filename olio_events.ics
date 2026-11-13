@@ -6,70 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:226a9c99-8b5b-4c3f-9eae-e7c4206b41a3@viewcy.olio
-DTSTAMP:20261112T200128Z
-DTSTART:20261113T010000Z
-DTEND:20261113T030000Z
-SUMMARY:Olio Comedy Club: A Night of Stand-Up
-DESCRIPTION:What do a New Yorker Cartoonist\, a Sperm Scientist\, a Chemica
- l Engineer\, and an Economist all have in common?&nbsp\;In this particular
-  case\, they are all professional comedians\, and are excited to bring you
-  a night of PowerPoint comedy at the Olio Lighthouse.&nbsp\;Hosted by Luke
-  Strathmann\, who some of you know from his Beanie Babies presentation at 
- Obsession Night\, four of NYC’s best comedians who promise they are real
- ly good at computers will each make funny PowerPoint presentations about w
- hatever they want.&nbsp\;Who’s going to be there?Asher Perlman is an Emm
- y-winning\, WGA Award-winning\, Peabody Award-winning comedian\, writer\, 
- cartoonist\, and best-selling author. Until recently\, he was a writer/per
- former on The Late Show with Stephen Colbert\, and is currently a cartooni
- st at The New Yorker\, a performer with the Improvised Shakespeare Company
- \, and a touring comic.Website: https://ashermaxperlman.comIG: https://www
- .instagram.com/asherperlman/?hl=enShafi Hossain is a nationally touring co
- median\, and currently the funniest chemical engineer in the world. He has
-  made his TV appearance on Kevin Hart's LOL Network's show Road Comics -cu
- rrently streaming on Peacock. Shafi was named one of New York's Funniest S
- tand Up by the New York Comedy Festival. He has over 140K social media fol
- lowing and is a regular at the world renowned Comedy Cellar.Website: https
- ://shafihossaincomedy.carrd.coIG: https://www.instagram.com/shafistandsup/
- ?hl=enSarah Adelman is a born and bred New Yorker\, stand up comic\, and s
- creenwriter (and former scientist). As a stand-up\, she’s a regular at N
- ew York Comedy Club\, Union Hall\, DontTellComedy — and tours nationally
- .&nbsp\; She is the creator\, host\, and EP of “BLOW MY MIND\,” an ori
- ginal social series with 50M+ views. In each episode\, she sits down with 
- a guest as they present her with a mind-blowing science fact. The show was
-  featured in the New York Times. She also regularly teaches science commun
- ication courses at universities!&nbsp\;Website: https://www.sarahadelmanco
- medy.comIG: https://www.instagram.com/sarahadelman1/Luke Strathmann runs t
- he communications team at Yale’s Department of Economics\, where he’s 
- Editor-in-Chief of the Yale Economics Magazine. He’s previously worked f
- or MIT and Princeton’s economics departments\, the World Bank\, more UN 
- agencies than he can remember\, Omidyar Network\, and the AI Now Institute
- . His humor writing has appeared in The New Yorker and McSweeney’s\, and
-  he performs comedy at clubs all around NYC. He is the host of EconLOL\, t
- he world's first\, best\, and only live economics-themed comedy show.Websi
- te: https://www.lukestrathmann.comIG: https://www.instagram.com/lstrathm/?
- hl=enThe evening flow:&nbsp\;7:30pm - Doors open\, grab a drink get settle
- d and hangout8:00pm -&nbsp\; Show Begins and we laugh a lot9:15pm - Show e
- nds but we hangout at the space and laugh some more10:00pm - Goodnight new
-  friends!What Is an Olio?Think Olio is an ongoing experiment in lifelong l
- earning. We are a community of open-minded people who gather to exchange i
- deas with new friends and connect over art\, literature\, and philosophy.C
- heck out our full calendarOur $30 membership gives you two events for the 
- price of one!&nbsp\;An Olio is what we call the social learning events we
- ’ve been organizing since 2015. A blend between a lecture and a house pa
- rty\, Olios are led by a teacher who loves sharing their passions and the 
- room is filled with curious\, open-minded New Yorkers.&nbsp\;Our goal is t
- o spark new perspectives\, ignite curiosity\, and enjoy ourselves socially
-  offering an alternative to typical nightlife options.Disclaimer: By purch
- asing a ticket\, you agree to have your photo/video used for social media/
- marketing materials. If you prefer to not have your photo taken\, feel fre
- e to send us a note.Photo by Zhi-Da Zhong\n\nTickets & info: https://www.v
- iewcy.com/event/powerpoint_comedy_clu
-URL:https://www.viewcy.com/event/powerpoint_comedy_clu
-END:VEVENT
-BEGIN:VEVENT
 UID:ec211455-67e1-49f7-a711-580ceadfd932@viewcy.olio
-DTSTAMP:20261112T200128Z
+DTSTAMP:20261113T194901Z
 DTSTART:20261118T000000Z
 DTEND:20261118T013000Z
 SUMMARY:Improv is Life!: A 4-Part Workshop
@@ -105,7 +43,7 @@ URL:https://www.viewcy.com/event/improv_is_life_a_4
 END:VEVENT
 BEGIN:VEVENT
 UID:0bb307c9-3981-4743-b152-0dfba308228f@viewcy.olio
-DTSTAMP:20261112T200128Z
+DTSTAMP:20261113T194901Z
 DTSTART:20261122T010000Z
 DTEND:20261122T060000Z
 SUMMARY:One Year Anniversary: Olio Homecoming Dance 2026
@@ -168,7 +106,7 @@ URL:https://www.viewcy.com/event/homecoming-olio
 END:VEVENT
 BEGIN:VEVENT
 UID:c574ecc1-8d51-44a4-882f-1c0fcacda40b@viewcy.olio
-DTSTAMP:20261112T200128Z
+DTSTAMP:20261113T194901Z
 DTSTART:20261204T000000Z
 DTEND:20261204T020000Z
 SUMMARY:Waking Up Our Dreams: Deciphering the Speech of the Soul
@@ -224,7 +162,7 @@ URL:https://www.viewcy.com/event/waking_up_our_dreams
 END:VEVENT
 BEGIN:VEVENT
 UID:08693b01-b9f9-44a4-897d-c2dd1e321e88@viewcy.olio
-DTSTAMP:20261112T200128Z
+DTSTAMP:20261113T194901Z
 DTSTART:20261210T003000Z
 DTEND:20261210T023000Z
 SUMMARY:Live Music Night: Local Frequencies\, The NYC Sound
@@ -286,7 +224,7 @@ URL:https://www.viewcy.com/event/live_music_night_nat
 END:VEVENT
 BEGIN:VEVENT
 UID:d5a2b78f-dcd5-4965-a7ba-28e889449384@viewcy.olio
-DTSTAMP:20261112T200128Z
+DTSTAMP:20261113T194901Z
 DTSTART:20270115T170000Z
 DTEND:20270122T180000Z
 SUMMARY:OlioTrip Guatemala: From Antigua to Lake Atitlán
