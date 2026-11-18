@@ -6,44 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:ec211455-67e1-49f7-a711-580ceadfd932@viewcy.olio
-DTSTAMP:20261117T210051Z
-DTSTART:20261118T000000Z
-DTEND:20261118T013000Z
-SUMMARY:Improv is Life!: A 4-Part Workshop
-DESCRIPTION:This four-part class is ensemble-based: you're never up there a
- lone\, we learn as a group\, through games and exercises where everyone pl
- ays at once and the room shares the risk (and the laughs). Over four sessi
- ons\, you’ll go from an individual person with a fixed identity to a war
- m ball of clay: free of attachments\, form fluid\, and ready to meet each 
- moment with full use of your mental\, physical\, and vocal tools.Nothing t
- o memorize. Nothing to prepare for. Each session is a new experience. Wear
-  comfortable clothing that you can move in and bring a water bottle.Improv
-  is Life! is a good fit if:&nbsp\;You’ve never acted or practiced improv
-  before&nbsp\;You have acted or practiced improv before\, but it’s been 
- a while&nbsp\;You currently have a robust acting and/or improv practice&nb
- sp\;You’re terrified of improv&nbsp\;You hate improvYou’re curious abo
- ut improvYou love improv&nbsp\;You’re a human who wants to have fun and 
- connect with other humans&nbsp\;Each session will start with a robust phys
- ical\, vocal\, and imaginative warm up.Session 1 - Nov 17&nbsp\;We’ll be
- gin building an ensemble with low-stakes group exercises to practice liste
- ning\, responding\, and releasing fear of failure.&nbsp\;Session 2 - Dec 1
- We’ll continue building an ensemble with simple games that invite each p
- articipant to respond authentically to unanticipated moments.&nbsp\;Sessio
- n 3 - Dec 8We’ll move into scene work using basic scripts as a foundatio
- n and building on the text with improvisational play.&nbsp\;Session 4 - De
- c 15We’ll continue partnered scene work using given circumstances as a f
- oundation and developing characterization one choice at a time.&nbsp\;Our 
- Teacher: Hannah Gould (she/they) Hannah is an actor\, singer\, dancer\, wr
- iter\, director\, producer\, and educator. They are the founder and direct
- or of Play Productions which is dedicated to play as radical acceptance of
-  ALL emotions &amp\; theater as community ritual.\n\nTickets & info: https
- ://www.viewcy.com/event/improv_is_life_a_4
-URL:https://www.viewcy.com/event/improv_is_life_a_4
-END:VEVENT
-BEGIN:VEVENT
 UID:0bb307c9-3981-4743-b152-0dfba308228f@viewcy.olio
-DTSTAMP:20261117T210051Z
+DTSTAMP:20261118T203840Z
 DTSTART:20261122T010000Z
 DTEND:20261122T060000Z
 SUMMARY:One Year Anniversary: Olio Homecoming Dance 2026
@@ -106,7 +70,7 @@ URL:https://www.viewcy.com/event/homecoming-olio
 END:VEVENT
 BEGIN:VEVENT
 UID:c574ecc1-8d51-44a4-882f-1c0fcacda40b@viewcy.olio
-DTSTAMP:20261117T210051Z
+DTSTAMP:20261118T203840Z
 DTSTART:20261204T000000Z
 DTEND:20261204T020000Z
 SUMMARY:Waking Up Our Dreams: Deciphering the Speech of the Soul
@@ -162,7 +126,7 @@ URL:https://www.viewcy.com/event/waking_up_our_dreams
 END:VEVENT
 BEGIN:VEVENT
 UID:08693b01-b9f9-44a4-897d-c2dd1e321e88@viewcy.olio
-DTSTAMP:20261117T210051Z
+DTSTAMP:20261118T203840Z
 DTSTART:20261210T003000Z
 DTEND:20261210T023000Z
 SUMMARY:Live Music Night: Local Frequencies\, The NYC Sound
@@ -224,7 +188,7 @@ URL:https://www.viewcy.com/event/live_music_night_nat
 END:VEVENT
 BEGIN:VEVENT
 UID:d5a2b78f-dcd5-4965-a7ba-28e889449384@viewcy.olio
-DTSTAMP:20261117T210051Z
+DTSTAMP:20261118T203840Z
 DTSTART:20270115T170000Z
 DTEND:20270122T180000Z
 SUMMARY:OlioTrip Guatemala: From Antigua to Lake Atitlán
