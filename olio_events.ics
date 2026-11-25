@@ -7,7 +7,7 @@ X-WR-CALNAME:Olio Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:c574ecc1-8d51-44a4-882f-1c0fcacda40b@viewcy.olio
-DTSTAMP:20261124T223228Z
+DTSTAMP:20261125T214700Z
 DTSTART:20261204T000000Z
 DTEND:20261204T020000Z
 SUMMARY:Waking Up Our Dreams: Deciphering the Speech of the Soul
@@ -63,7 +63,7 @@ URL:https://www.viewcy.com/event/waking_up_our_dreams
 END:VEVENT
 BEGIN:VEVENT
 UID:c63551da-7780-4789-98a9-013270ddaa8a@viewcy.olio
-DTSTAMP:20261124T223228Z
+DTSTAMP:20261125T214700Z
 DTSTART:20261216T000000Z
 DTEND:20261216T023000Z
 SUMMARY:Olio Film Club: Hirokazu Kore-eda's After Life
@@ -111,7 +111,7 @@ URL:https://www.viewcy.com/event/olio_film_club_hirok
 END:VEVENT
 BEGIN:VEVENT
 UID:08693b01-b9f9-44a4-897d-c2dd1e321e88@viewcy.olio
-DTSTAMP:20261124T223228Z
+DTSTAMP:20261125T214700Z
 DTSTART:20270107T003000Z
 DTEND:20270107T023000Z
 SUMMARY:Live Music Night: Local Frequencies\, The NYC Sound
@@ -173,7 +173,7 @@ URL:https://www.viewcy.com/event/live_music_night_nat
 END:VEVENT
 BEGIN:VEVENT
 UID:d5a2b78f-dcd5-4965-a7ba-28e889449384@viewcy.olio
-DTSTAMP:20261124T223228Z
+DTSTAMP:20261125T214700Z
 DTSTART:20270115T170000Z
 DTEND:20270122T180000Z
 SUMMARY:OlioTrip Guatemala: From Antigua to Lake Atitlán
@@ -221,12 +221,12 @@ URL:https://www.viewcy.com/event/oliotrip_guatemala_o
 END:VEVENT
 BEGIN:VEVENT
 UID:fca9d00f-07ee-4490-a56c-5a0d48d42b65@viewcy.olio
-DTSTAMP:20261124T223228Z
+DTSTAMP:20261125T214700Z
 DTSTART:20270119T000000Z
 DTEND:20270119T020000Z
 SUMMARY:Good Grief: A 4-part Writing Workshop
 DESCRIPTION:Good Grief: a 4-part writing workshop with Professor Alexandra 
- Dos SantosMondays\, 7:30 - 9:30 @ Olio LighthouseJan 18th\, 25th\, Feb 1st
+ Dos SantosMondays\, 7:00 - 9:00 @ Olio LighthouseJan 18th\, 25th\, Feb 1st
  \, 8th “Grief is just love with no place to go.”&nbsp\;So writes autho
  r Jamie Anderson when describing how it felt to lose her mother. This clas
  s is designed to give your grief a place to go: art\, which is perhaps the
@@ -256,21 +256,21 @@ DESCRIPTION:Good Grief: a 4-part writing workshop with Professor Alexandra
   Kahlo\, August Friedrich Schenck\, Marina Abramović\, and more&nbsp\;Feb
   1. WEEK 3: Fiction and EssaysToni Morrison\, CS Lewis\, and moreFeb 8. WE
  EK 4: Open MediumOptional peer-led shares of chosen grief worksAbout Your 
- Instructor:Alexandra Dos Santos is a writer and College Writing instructor
-  based in Astoria\, New York\, with an MFA from The Writers Foundry at St.
-  Joseph's University. Her work spans horror\, the esoteric\, and the specu
- lative\, appearing in Electric Literature\, Lithub\, Flash Fiction Magazin
- e\, and Vol. 1 Brooklyn\, among others. She's led creative writing worksho
- ps throughout Brooklyn and received fellowships from Wildacres Writers Ret
- reat and the Disquiet International Literary Program.*Writers of all level
- s are welcome here! Reach out to David@thinkolio.org if price is a barrier
-  for you.\n\nTickets & info: https://www.viewcy.com/event/good_grief_a_4pa
- rt
+ Instructor:Alexandra Dos Santos is a Pushcart Award nominated writer and p
+ rofessor based in Astoria\, New York. Influenced by horror films\, the eso
+ teric\, and fairytales\, her writing explores grief\, addiction\, depressi
+ on\, and other fun topics. Her work has appeared in The Rumpus\, Split Lip
+  Magazine\, Electric Literature\, Lithub\, Flash Fiction Magazine\, Vol. 1
+  Brooklyn\, among others. She's led creative writing workshops throughout 
+ Brooklyn and received fellowships from Wildacres Writers Retreat and the D
+ isquiet International Literary Program.*Writers of all levels are welcome 
+ here! Reach out to David@thinkolio.org if price is a barrier for you.\n\nT
+ ickets & info: https://www.viewcy.com/event/good_grief_a_4part
 URL:https://www.viewcy.com/event/good_grief_a_4part
 END:VEVENT
 BEGIN:VEVENT
 UID:88620976-d131-4ecd-b37d-a230905b65d7@viewcy.olio
-DTSTAMP:20261124T223228Z
+DTSTAMP:20261125T214700Z
 DTSTART:20270210T000000Z
 DTEND:20270210T023000Z
 SUMMARY:Family Constellations: Rewriting the Patterns in our Relationships\
